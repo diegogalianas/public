@@ -1,0 +1,1 @@
+crime_id,crime_date,crime_time,crime_type,muni,year,month,week,day,week_day,week_day_name,crime_hour,crime_lon,crime_lat,atm_dist,bank_dist,bar_dist,cafe_dist,industrial_dist,market_dist,nightclub_dist,police_dist,pub_dist,restaurant_dist,taxi_dist,grid_id,grid_lon,grid_lat,utm_x,utm_y,datetime,timestamp
