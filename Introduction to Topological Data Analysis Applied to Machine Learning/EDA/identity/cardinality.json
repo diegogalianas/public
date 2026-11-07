@@ -1,0 +1,241 @@
+[{
+  "variable": "id_01",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "77",
+  "valores_nulos": "0",
+  "porcentaje_distintos": "0.05"
+}, {
+  "variable": "id_02",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "115655",
+  "valores_nulos": "3361",
+  "porcentaje_distintos": "82.1"
+}, {
+  "variable": "id_03",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "24",
+  "valores_nulos": "77909",
+  "porcentaje_distintos": "0.04"
+}, {
+  "variable": "id_04",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "15",
+  "valores_nulos": "77909",
+  "porcentaje_distintos": "0.02"
+}, {
+  "variable": "id_05",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "93",
+  "valores_nulos": "7368",
+  "porcentaje_distintos": "0.07"
+}, {
+  "variable": "id_06",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "101",
+  "valores_nulos": "7368",
+  "porcentaje_distintos": "0.07"
+}, {
+  "variable": "id_07",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "84",
+  "valores_nulos": "139078",
+  "porcentaje_distintos": "1.63"
+}, {
+  "variable": "id_08",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "94",
+  "valores_nulos": "139078",
+  "porcentaje_distintos": "1.82"
+}, {
+  "variable": "id_09",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "46",
+  "valores_nulos": "69307",
+  "porcentaje_distintos": "0.06"
+}, {
+  "variable": "id_10",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "62",
+  "valores_nulos": "69307",
+  "porcentaje_distintos": "0.08"
+}, {
+  "variable": "id_11",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "365",
+  "valores_nulos": "3255",
+  "porcentaje_distintos": "0.26"
+}, {
+  "variable": "id_12",
+  "tipo_dato": "STRING",
+  "valores_distintos": "2",
+  "valores_nulos": "0",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "id_13",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "54",
+  "valores_nulos": "16913",
+  "porcentaje_distintos": "0.04"
+}, {
+  "variable": "id_14",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "25",
+  "valores_nulos": "64189",
+  "porcentaje_distintos": "0.03"
+}, {
+  "variable": "id_15",
+  "tipo_dato": "STRING",
+  "valores_distintos": "3",
+  "valores_nulos": "3248",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "id_16",
+  "tipo_dato": "STRING",
+  "valores_distintos": "2",
+  "valores_nulos": "14893",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "id_17",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "104",
+  "valores_nulos": "4864",
+  "porcentaje_distintos": "0.07"
+}, {
+  "variable": "id_18",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "18",
+  "valores_nulos": "99120",
+  "porcentaje_distintos": "0.04"
+}, {
+  "variable": "id_19",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "522",
+  "valores_nulos": "4915",
+  "porcentaje_distintos": "0.37"
+}, {
+  "variable": "id_20",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "394",
+  "valores_nulos": "4972",
+  "porcentaje_distintos": "0.28"
+}, {
+  "variable": "id_21",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "490",
+  "valores_nulos": "139074",
+  "porcentaje_distintos": "9.5"
+}, {
+  "variable": "id_22",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "25",
+  "valores_nulos": "139064",
+  "porcentaje_distintos": "0.48"
+}, {
+  "variable": "id_23",
+  "tipo_dato": "STRING",
+  "valores_distintos": "3",
+  "valores_nulos": "139064",
+  "porcentaje_distintos": "0.06"
+}, {
+  "variable": "id_24",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "12",
+  "valores_nulos": "139486",
+  "porcentaje_distintos": "0.25"
+}, {
+  "variable": "id_25",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "341",
+  "valores_nulos": "139101",
+  "porcentaje_distintos": "6.64"
+}, {
+  "variable": "id_26",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "95",
+  "valores_nulos": "139070",
+  "porcentaje_distintos": "1.84"
+}, {
+  "variable": "id_27",
+  "tipo_dato": "STRING",
+  "valores_distintos": "2",
+  "valores_nulos": "139064",
+  "porcentaje_distintos": "0.04"
+}, {
+  "variable": "id_28",
+  "tipo_dato": "STRING",
+  "valores_distintos": "2",
+  "valores_nulos": "3255",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "id_29",
+  "tipo_dato": "STRING",
+  "valores_distintos": "2",
+  "valores_nulos": "3255",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "id_30",
+  "tipo_dato": "STRING",
+  "valores_distintos": "75",
+  "valores_nulos": "66668",
+  "porcentaje_distintos": "0.1"
+}, {
+  "variable": "id_31",
+  "tipo_dato": "STRING",
+  "valores_distintos": "130",
+  "valores_nulos": "3951",
+  "porcentaje_distintos": "0.09"
+}, {
+  "variable": "id_32",
+  "tipo_dato": "FLOAT64",
+  "valores_distintos": "4",
+  "valores_nulos": "66647",
+  "porcentaje_distintos": "0.01"
+}, {
+  "variable": "id_33",
+  "tipo_dato": "STRING",
+  "valores_distintos": "260",
+  "valores_nulos": "70944",
+  "porcentaje_distintos": "0.35"
+}, {
+  "variable": "id_34",
+  "tipo_dato": "STRING",
+  "valores_distintos": "4",
+  "valores_nulos": "66428",
+  "porcentaje_distintos": "0.01"
+}, {
+  "variable": "id_35",
+  "tipo_dato": "BOOL",
+  "valores_distintos": "2",
+  "valores_nulos": "3248",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "id_36",
+  "tipo_dato": "BOOL",
+  "valores_distintos": "2",
+  "valores_nulos": "3248",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "id_37",
+  "tipo_dato": "BOOL",
+  "valores_distintos": "2",
+  "valores_nulos": "3248",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "id_38",
+  "tipo_dato": "BOOL",
+  "valores_distintos": "2",
+  "valores_nulos": "3248",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "DeviceType",
+  "tipo_dato": "STRING",
+  "valores_distintos": "2",
+  "valores_nulos": "3423",
+  "porcentaje_distintos": "0.0"
+}, {
+  "variable": "DeviceInfo",
+  "tipo_dato": "STRING",
+  "valores_distintos": "1786",
+  "valores_nulos": "25567",
+  "porcentaje_distintos": "1.51"
+}]

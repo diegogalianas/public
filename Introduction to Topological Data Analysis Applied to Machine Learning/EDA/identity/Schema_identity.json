@@ -1,0 +1,206 @@
+[{
+  "ordinal_position": "1",
+  "column_name": "TransactionID",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "2",
+  "column_name": "id_01",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "3",
+  "column_name": "id_02",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "4",
+  "column_name": "id_03",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "5",
+  "column_name": "id_04",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "6",
+  "column_name": "id_05",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "7",
+  "column_name": "id_06",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "8",
+  "column_name": "id_07",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "9",
+  "column_name": "id_08",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "10",
+  "column_name": "id_09",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "11",
+  "column_name": "id_10",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "12",
+  "column_name": "id_11",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "13",
+  "column_name": "id_12",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "14",
+  "column_name": "id_13",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "15",
+  "column_name": "id_14",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "16",
+  "column_name": "id_15",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "17",
+  "column_name": "id_16",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "18",
+  "column_name": "id_17",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "19",
+  "column_name": "id_18",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "20",
+  "column_name": "id_19",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "21",
+  "column_name": "id_20",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "22",
+  "column_name": "id_21",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "23",
+  "column_name": "id_22",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "24",
+  "column_name": "id_23",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "25",
+  "column_name": "id_24",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "26",
+  "column_name": "id_25",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "27",
+  "column_name": "id_26",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "28",
+  "column_name": "id_27",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "29",
+  "column_name": "id_28",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "30",
+  "column_name": "id_29",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "31",
+  "column_name": "id_30",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "32",
+  "column_name": "id_31",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "33",
+  "column_name": "id_32",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "34",
+  "column_name": "id_33",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "35",
+  "column_name": "id_34",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "36",
+  "column_name": "id_35",
+  "data_type": "BOOL",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "37",
+  "column_name": "id_36",
+  "data_type": "BOOL",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "38",
+  "column_name": "id_37",
+  "data_type": "BOOL",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "39",
+  "column_name": "id_38",
+  "data_type": "BOOL",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "40",
+  "column_name": "DeviceType",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "ordinal_position": "41",
+  "column_name": "DeviceInfo",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}]

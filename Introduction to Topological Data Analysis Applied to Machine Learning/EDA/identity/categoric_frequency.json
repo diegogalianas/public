@@ -1,0 +1,131 @@
+[{
+  "variable": "id_12",
+  "valor": "NotFound",
+  "frecuencia": "123025",
+  "porcentaje": "85.3"
+}, {
+  "variable": "id_12",
+  "valor": "Found",
+  "frecuencia": "21208",
+  "porcentaje": "14.7"
+}, {
+  "variable": "id_15",
+  "valor": "Unknown",
+  "frecuencia": "11645",
+  "porcentaje": "8.26"
+}, {
+  "variable": "id_15",
+  "valor": "Found",
+  "frecuencia": "67728",
+  "porcentaje": "48.04"
+}, {
+  "variable": "id_15",
+  "valor": "New",
+  "frecuencia": "61612",
+  "porcentaje": "43.7"
+}, {
+  "variable": "id_16",
+  "valor": "Found",
+  "frecuencia": "66324",
+  "porcentaje": "51.28"
+}, {
+  "variable": "id_16",
+  "valor": "NotFound",
+  "frecuencia": "63016",
+  "porcentaje": "48.72"
+}, {
+  "variable": "id_23",
+  "valor": "IP_PROXY:ANONYMOUS",
+  "frecuencia": "1071",
+  "porcentaje": "20.72"
+}, {
+  "variable": "id_23",
+  "valor": "IP_PROXY:TRANSPARENT",
+  "frecuencia": "3489",
+  "porcentaje": "67.5"
+}, {
+  "variable": "id_23",
+  "valor": "IP_PROXY:HIDDEN",
+  "frecuencia": "609",
+  "porcentaje": "11.78"
+}, {
+  "variable": "id_27",
+  "valor": "Found",
+  "frecuencia": "5155",
+  "porcentaje": "99.73"
+}, {
+  "variable": "id_27",
+  "valor": "NotFound",
+  "frecuencia": "14",
+  "porcentaje": "0.27"
+}, {
+  "variable": "id_28",
+  "valor": "Found",
+  "frecuencia": "76232",
+  "porcentaje": "54.07"
+}, {
+  "variable": "id_28",
+  "valor": "New",
+  "frecuencia": "64746",
+  "porcentaje": "45.93"
+}, {
+  "variable": "id_29",
+  "valor": "Found",
+  "frecuencia": "74926",
+  "porcentaje": "53.15"
+}, {
+  "variable": "id_29",
+  "valor": "NotFound",
+  "frecuencia": "66052",
+  "porcentaje": "46.85"
+}, {
+  "variable": "id_35",
+  "valor": "false",
+  "frecuencia": "63171",
+  "porcentaje": "44.81"
+}, {
+  "variable": "id_35",
+  "valor": "true",
+  "frecuencia": "77814",
+  "porcentaje": "55.19"
+}, {
+  "variable": "id_36",
+  "valor": "false",
+  "frecuencia": "134066",
+  "porcentaje": "95.09"
+}, {
+  "variable": "id_36",
+  "valor": "true",
+  "frecuencia": "6919",
+  "porcentaje": "4.91"
+}, {
+  "variable": "id_37",
+  "valor": "false",
+  "frecuencia": "30533",
+  "porcentaje": "21.66"
+}, {
+  "variable": "id_37",
+  "valor": "true",
+  "frecuencia": "110452",
+  "porcentaje": "78.34"
+}, {
+  "variable": "id_38",
+  "valor": "true",
+  "frecuencia": "67063",
+  "porcentaje": "47.57"
+}, {
+  "variable": "id_38",
+  "valor": "false",
+  "frecuencia": "73922",
+  "porcentaje": "52.43"
+}, {
+  "variable": "DeviceType",
+  "valor": "desktop",
+  "frecuencia": "85165",
+  "porcentaje": "60.48"
+}, {
+  "variable": "DeviceType",
+  "valor": "mobile",
+  "frecuencia": "55645",
+  "porcentaje": "39.52"
+}]

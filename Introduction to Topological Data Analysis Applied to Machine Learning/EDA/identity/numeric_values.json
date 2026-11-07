@@ -1,0 +1,70 @@
+[{
+  "column_name": "id_01",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_02",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_03",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_04",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_05",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_06",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_07",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_08",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_09",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_10",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_11",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_13",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_14",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_17",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_18",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_19",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_20",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_21",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_22",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_24",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_25",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_26",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "id_32",
+  "data_type": "FLOAT64"
+}]

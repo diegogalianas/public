@@ -1,0 +1,17 @@
+[{
+  "valor": "match_status:2",
+  "frecuencia": "60011",
+  "porcentaje": "77.13"
+}, {
+  "valor": "match_status:1",
+  "frecuencia": "17376",
+  "porcentaje": "22.33"
+}, {
+  "valor": "match_status:0",
+  "frecuencia": "415",
+  "porcentaje": "0.53"
+}, {
+  "valor": "match_status:-1",
+  "frecuencia": "3",
+  "porcentaje": "0.0"
+}]

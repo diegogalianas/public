@@ -1,0 +1,206 @@
+[{
+  "variable": "id_24",
+  "nulos": "139486",
+  "total": "144233",
+  "porcentaje_nulos": "96.71"
+}, {
+  "variable": "id_25",
+  "nulos": "139101",
+  "total": "144233",
+  "porcentaje_nulos": "96.44"
+}, {
+  "variable": "id_07",
+  "nulos": "139078",
+  "total": "144233",
+  "porcentaje_nulos": "96.43"
+}, {
+  "variable": "id_08",
+  "nulos": "139078",
+  "total": "144233",
+  "porcentaje_nulos": "96.43"
+}, {
+  "variable": "id_26",
+  "nulos": "139070",
+  "total": "144233",
+  "porcentaje_nulos": "96.42"
+}, {
+  "variable": "id_21",
+  "nulos": "139074",
+  "total": "144233",
+  "porcentaje_nulos": "96.42"
+}, {
+  "variable": "id_23",
+  "nulos": "139064",
+  "total": "144233",
+  "porcentaje_nulos": "96.42"
+}, {
+  "variable": "id_27",
+  "nulos": "139064",
+  "total": "144233",
+  "porcentaje_nulos": "96.42"
+}, {
+  "variable": "id_22",
+  "nulos": "139064",
+  "total": "144233",
+  "porcentaje_nulos": "96.42"
+}, {
+  "variable": "id_18",
+  "nulos": "99120",
+  "total": "144233",
+  "porcentaje_nulos": "68.72"
+}, {
+  "variable": "id_04",
+  "nulos": "77909",
+  "total": "144233",
+  "porcentaje_nulos": "54.02"
+}, {
+  "variable": "id_03",
+  "nulos": "77909",
+  "total": "144233",
+  "porcentaje_nulos": "54.02"
+}, {
+  "variable": "id_33",
+  "nulos": "70944",
+  "total": "144233",
+  "porcentaje_nulos": "49.19"
+}, {
+  "variable": "id_10",
+  "nulos": "69307",
+  "total": "144233",
+  "porcentaje_nulos": "48.05"
+}, {
+  "variable": "id_09",
+  "nulos": "69307",
+  "total": "144233",
+  "porcentaje_nulos": "48.05"
+}, {
+  "variable": "id_30",
+  "nulos": "66668",
+  "total": "144233",
+  "porcentaje_nulos": "46.22"
+}, {
+  "variable": "id_32",
+  "nulos": "66647",
+  "total": "144233",
+  "porcentaje_nulos": "46.21"
+}, {
+  "variable": "id_34",
+  "nulos": "66428",
+  "total": "144233",
+  "porcentaje_nulos": "46.06"
+}, {
+  "variable": "id_14",
+  "nulos": "64189",
+  "total": "144233",
+  "porcentaje_nulos": "44.5"
+}, {
+  "variable": "DeviceInfo",
+  "nulos": "25567",
+  "total": "144233",
+  "porcentaje_nulos": "17.73"
+}, {
+  "variable": "id_13",
+  "nulos": "16913",
+  "total": "144233",
+  "porcentaje_nulos": "11.73"
+}, {
+  "variable": "id_16",
+  "nulos": "14893",
+  "total": "144233",
+  "porcentaje_nulos": "10.33"
+}, {
+  "variable": "id_06",
+  "nulos": "7368",
+  "total": "144233",
+  "porcentaje_nulos": "5.11"
+}, {
+  "variable": "id_05",
+  "nulos": "7368",
+  "total": "144233",
+  "porcentaje_nulos": "5.11"
+}, {
+  "variable": "id_20",
+  "nulos": "4972",
+  "total": "144233",
+  "porcentaje_nulos": "3.45"
+}, {
+  "variable": "id_19",
+  "nulos": "4915",
+  "total": "144233",
+  "porcentaje_nulos": "3.41"
+}, {
+  "variable": "id_17",
+  "nulos": "4864",
+  "total": "144233",
+  "porcentaje_nulos": "3.37"
+}, {
+  "variable": "id_31",
+  "nulos": "3951",
+  "total": "144233",
+  "porcentaje_nulos": "2.74"
+}, {
+  "variable": "DeviceType",
+  "nulos": "3423",
+  "total": "144233",
+  "porcentaje_nulos": "2.37"
+}, {
+  "variable": "id_02",
+  "nulos": "3361",
+  "total": "144233",
+  "porcentaje_nulos": "2.33"
+}, {
+  "variable": "id_29",
+  "nulos": "3255",
+  "total": "144233",
+  "porcentaje_nulos": "2.26"
+}, {
+  "variable": "id_11",
+  "nulos": "3255",
+  "total": "144233",
+  "porcentaje_nulos": "2.26"
+}, {
+  "variable": "id_28",
+  "nulos": "3255",
+  "total": "144233",
+  "porcentaje_nulos": "2.26"
+}, {
+  "variable": "id_36",
+  "nulos": "3248",
+  "total": "144233",
+  "porcentaje_nulos": "2.25"
+}, {
+  "variable": "id_35",
+  "nulos": "3248",
+  "total": "144233",
+  "porcentaje_nulos": "2.25"
+}, {
+  "variable": "id_15",
+  "nulos": "3248",
+  "total": "144233",
+  "porcentaje_nulos": "2.25"
+}, {
+  "variable": "id_38",
+  "nulos": "3248",
+  "total": "144233",
+  "porcentaje_nulos": "2.25"
+}, {
+  "variable": "id_37",
+  "nulos": "3248",
+  "total": "144233",
+  "porcentaje_nulos": "2.25"
+}, {
+  "variable": "id_01",
+  "nulos": "0",
+  "total": "144233",
+  "porcentaje_nulos": "0.0"
+}, {
+  "variable": "TransactionID",
+  "nulos": "0",
+  "total": "144233",
+  "porcentaje_nulos": "0.0"
+}, {
+  "variable": "id_12",
+  "nulos": "0",
+  "total": "144233",
+  "porcentaje_nulos": "0.0"
+}]

@@ -1,0 +1,301 @@
+[{
+  "variable": "DeviceInfo",
+  "valor": "Windows",
+  "frecuencia": "47722",
+  "porcentaje": "40.22"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "iOS Device",
+  "frecuencia": "19782",
+  "porcentaje": "16.67"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "MacOS",
+  "frecuencia": "12573",
+  "porcentaje": "10.6"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "Trident/7.0",
+  "frecuencia": "7440",
+  "porcentaje": "6.27"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "rv:11.0",
+  "frecuencia": "1901",
+  "porcentaje": "1.6"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "rv:57.0",
+  "frecuencia": "962",
+  "porcentaje": "0.81"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "SM-J700M Build/MMB29K",
+  "frecuencia": "549",
+  "porcentaje": "0.46"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "SM-G610M Build/MMB29K",
+  "frecuencia": "461",
+  "porcentaje": "0.39"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "SM-G531H Build/LMY48B",
+  "frecuencia": "410",
+  "porcentaje": "0.35"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "rv:59.0",
+  "frecuencia": "362",
+  "porcentaje": "0.31"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "SM-G935F Build/NRD90M",
+  "frecuencia": "334",
+  "porcentaje": "0.28"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "SM-G955U Build/NRD90M",
+  "frecuencia": "328",
+  "porcentaje": "0.28"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "SM-G532M Build/MMB29T",
+  "frecuencia": "316",
+  "porcentaje": "0.27"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "ALE-L23 Build/HuaweiALE-L23",
+  "frecuencia": "312",
+  "porcentaje": "0.26"
+}, {
+  "variable": "DeviceInfo",
+  "valor": "SM-G950U Build/NRD90M",
+  "frecuencia": "290",
+  "porcentaje": "0.24"
+}, {
+  "variable": "id_30",
+  "valor": "Windows 10",
+  "frecuencia": "21155",
+  "porcentaje": "27.27"
+}, {
+  "variable": "id_30",
+  "valor": "Windows 7",
+  "frecuencia": "13110",
+  "porcentaje": "16.9"
+}, {
+  "variable": "id_30",
+  "valor": "iOS 11.2.1",
+  "frecuencia": "3722",
+  "porcentaje": "4.8"
+}, {
+  "variable": "id_30",
+  "valor": "iOS 11.1.2",
+  "frecuencia": "3699",
+  "porcentaje": "4.77"
+}, {
+  "variable": "id_30",
+  "valor": "Android 7.0",
+  "frecuencia": "2871",
+  "porcentaje": "3.7"
+}, {
+  "variable": "id_30",
+  "valor": "Mac OS X 10_12_6",
+  "frecuencia": "2559",
+  "porcentaje": "3.3"
+}, {
+  "variable": "id_30",
+  "valor": "Mac OS X 10_11_6",
+  "frecuencia": "2348",
+  "porcentaje": "3.03"
+}, {
+  "variable": "id_30",
+  "valor": "iOS 11.3.0",
+  "frecuencia": "2016",
+  "porcentaje": "2.6"
+}, {
+  "variable": "id_30",
+  "valor": "Windows 8.1",
+  "frecuencia": "1914",
+  "porcentaje": "2.47"
+}, {
+  "variable": "id_30",
+  "valor": "Mac OS X 10_10_5",
+  "frecuencia": "1651",
+  "porcentaje": "2.13"
+}, {
+  "variable": "id_30",
+  "valor": "iOS 11.2.6",
+  "frecuencia": "1647",
+  "porcentaje": "2.12"
+}, {
+  "variable": "id_30",
+  "valor": "iOS 10.3.3",
+  "frecuencia": "1558",
+  "porcentaje": "2.01"
+}, {
+  "variable": "id_30",
+  "valor": "Mac OS X 10_13_2",
+  "frecuencia": "1421",
+  "porcentaje": "1.83"
+}, {
+  "variable": "id_30",
+  "valor": "Mac OS X 10_13_1",
+  "frecuencia": "1211",
+  "porcentaje": "1.56"
+}, {
+  "variable": "id_30",
+  "valor": "iOS 11.2.5",
+  "frecuencia": "1200",
+  "porcentaje": "1.55"
+}, {
+  "variable": "id_31",
+  "valor": "chrome 63.0",
+  "frecuencia": "22000",
+  "porcentaje": "15.68"
+}, {
+  "variable": "id_31",
+  "valor": "mobile safari 11.0",
+  "frecuencia": "13423",
+  "porcentaje": "9.57"
+}, {
+  "variable": "id_31",
+  "valor": "mobile safari generic",
+  "frecuencia": "11474",
+  "porcentaje": "8.18"
+}, {
+  "variable": "id_31",
+  "valor": "ie 11.0 for desktop",
+  "frecuencia": "9030",
+  "porcentaje": "6.44"
+}, {
+  "variable": "id_31",
+  "valor": "safari generic",
+  "frecuencia": "8195",
+  "porcentaje": "5.84"
+}, {
+  "variable": "id_31",
+  "valor": "chrome 62.0",
+  "frecuencia": "7182",
+  "porcentaje": "5.12"
+}, {
+  "variable": "id_31",
+  "valor": "chrome 65.0",
+  "frecuencia": "6871",
+  "porcentaje": "4.9"
+}, {
+  "variable": "id_31",
+  "valor": "chrome 64.0",
+  "frecuencia": "6711",
+  "porcentaje": "4.78"
+}, {
+  "variable": "id_31",
+  "valor": "chrome 63.0 for android",
+  "frecuencia": "5806",
+  "porcentaje": "4.14"
+}, {
+  "variable": "id_31",
+  "valor": "chrome generic",
+  "frecuencia": "4778",
+  "porcentaje": "3.41"
+}, {
+  "variable": "id_31",
+  "valor": "chrome 66.0",
+  "frecuencia": "4264",
+  "porcentaje": "3.04"
+}, {
+  "variable": "id_31",
+  "valor": "edge 16.0",
+  "frecuencia": "4188",
+  "porcentaje": "2.99"
+}, {
+  "variable": "id_31",
+  "valor": "chrome 64.0 for android",
+  "frecuencia": "3473",
+  "porcentaje": "2.48"
+}, {
+  "variable": "id_31",
+  "valor": "chrome 65.0 for android",
+  "frecuencia": "3336",
+  "porcentaje": "2.38"
+}, {
+  "variable": "id_31",
+  "valor": "firefox 57.0",
+  "frecuencia": "3315",
+  "porcentaje": "2.36"
+}, {
+  "variable": "id_33",
+  "valor": "1920x1080",
+  "frecuencia": "16874",
+  "porcentaje": "23.02"
+}, {
+  "variable": "id_33",
+  "valor": "1366x768",
+  "frecuencia": "8605",
+  "porcentaje": "11.74"
+}, {
+  "variable": "id_33",
+  "valor": "1334x750",
+  "frecuencia": "6447",
+  "porcentaje": "8.8"
+}, {
+  "variable": "id_33",
+  "valor": "2208x1242",
+  "frecuencia": "4900",
+  "porcentaje": "6.69"
+}, {
+  "variable": "id_33",
+  "valor": "1440x900",
+  "frecuencia": "4384",
+  "porcentaje": "5.98"
+}, {
+  "variable": "id_33",
+  "valor": "1600x900",
+  "frecuencia": "3510",
+  "porcentaje": "4.79"
+}, {
+  "variable": "id_33",
+  "valor": "2048x1536",
+  "frecuencia": "3482",
+  "porcentaje": "4.75"
+}, {
+  "variable": "id_33",
+  "valor": "1280x800",
+  "frecuencia": "2149",
+  "porcentaje": "2.93"
+}, {
+  "variable": "id_33",
+  "valor": "2560x1600",
+  "frecuencia": "2093",
+  "porcentaje": "2.86"
+}, {
+  "variable": "id_33",
+  "valor": "2560x1440",
+  "frecuencia": "1865",
+  "porcentaje": "2.54"
+}, {
+  "variable": "id_33",
+  "valor": "2880x1800",
+  "frecuencia": "1756",
+  "porcentaje": "2.4"
+}, {
+  "variable": "id_33",
+  "valor": "1280x1024",
+  "frecuencia": "1743",
+  "porcentaje": "2.38"
+}, {
+  "variable": "id_33",
+  "valor": "1680x1050",
+  "frecuencia": "1727",
+  "porcentaje": "2.36"
+}, {
+  "variable": "id_33",
+  "valor": "1136x640",
+  "frecuencia": "1712",
+  "porcentaje": "2.34"
+}, {
+  "variable": "id_33",
+  "valor": "2436x1125",
+  "frecuencia": "1484",
+  "porcentaje": "2.02"
+}]

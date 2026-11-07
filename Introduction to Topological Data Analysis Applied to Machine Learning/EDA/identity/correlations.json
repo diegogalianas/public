@@ -1,0 +1,1266 @@
+[{
+  "variable_1": "id_03",
+  "variable_2": "id_09",
+  "correlacion": "0.7108",
+  "observaciones": "66256"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_22",
+  "correlacion": "0.592",
+  "observaciones": "4011"
+}, {
+  "variable_1": "id_21",
+  "variable_2": "id_32",
+  "correlacion": "-0.431",
+  "observaciones": "4622"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_17",
+  "correlacion": "0.413",
+  "observaciones": "139368"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_20",
+  "correlacion": "0.3581",
+  "observaciones": "78947"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_04",
+  "correlacion": "0.3422",
+  "observaciones": "66324"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_10",
+  "correlacion": "0.3373",
+  "observaciones": "66256"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_08",
+  "correlacion": "0.3267",
+  "observaciones": "3952"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_10",
+  "correlacion": "0.316",
+  "observaciones": "74926"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_06",
+  "correlacion": "-0.2916",
+  "observaciones": "136865"
+}, {
+  "variable_1": "id_22",
+  "variable_2": "id_26",
+  "correlacion": "0.2813",
+  "observaciones": "5163"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_20",
+  "correlacion": "0.2785",
+  "observaciones": "139261"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_22",
+  "correlacion": "-0.2774",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_19",
+  "variable_2": "id_21",
+  "correlacion": "0.2537",
+  "observaciones": "3992"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_09",
+  "correlacion": "0.2515",
+  "observaciones": "66256"
+}, {
+  "variable_1": "id_19",
+  "variable_2": "id_24",
+  "correlacion": "0.2452",
+  "observaciones": "3725"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_18",
+  "correlacion": "0.2313",
+  "observaciones": "45112"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_32",
+  "correlacion": "0.2275",
+  "observaciones": "4622"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_10",
+  "correlacion": "0.2224",
+  "observaciones": "73201"
+}, {
+  "variable_1": "id_21",
+  "variable_2": "id_24",
+  "correlacion": "0.2209",
+  "observaciones": "4741"
+}, {
+  "variable_1": "id_24",
+  "variable_2": "id_32",
+  "correlacion": "-0.2195",
+  "observaciones": "4432"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_07",
+  "correlacion": "0.2193",
+  "observaciones": "3952"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_19",
+  "correlacion": "-0.2142",
+  "observaciones": "139318"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_32",
+  "correlacion": "-0.2085",
+  "observaciones": "62908"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_17",
+  "correlacion": "-0.203",
+  "observaciones": "136828"
+}, {
+  "variable_1": "id_18",
+  "variable_2": "id_21",
+  "correlacion": "0.203",
+  "observaciones": "3249"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_06",
+  "correlacion": "0.2016",
+  "observaciones": "136865"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_22",
+  "correlacion": "0.191",
+  "observaciones": "5169"
+}, {
+  "variable_1": "id_20",
+  "variable_2": "id_24",
+  "correlacion": "-0.1896",
+  "observaciones": "3727"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_21",
+  "correlacion": "-0.1883",
+  "observaciones": "5145"
+}, {
+  "variable_1": "id_22",
+  "variable_2": "id_25",
+  "correlacion": "0.1826",
+  "observaciones": "5132"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_17",
+  "correlacion": "-0.1805",
+  "observaciones": "139369"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_25",
+  "correlacion": "0.1735",
+  "observaciones": "3987"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_21",
+  "correlacion": "-0.1674",
+  "observaciones": "5159"
+}, {
+  "variable_1": "id_18",
+  "variable_2": "id_20",
+  "correlacion": "0.1642",
+  "observaciones": "45041"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_18",
+  "correlacion": "-0.1615",
+  "observaciones": "3251"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_21",
+  "correlacion": "0.1589",
+  "observaciones": "5159"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_14",
+  "correlacion": "-0.1568",
+  "observaciones": "4796"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_32",
+  "correlacion": "0.1524",
+  "observaciones": "77586"
+}, {
+  "variable_1": "id_21",
+  "variable_2": "id_25",
+  "correlacion": "-0.1477",
+  "observaciones": "5122"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_22",
+  "correlacion": "0.1433",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_18",
+  "correlacion": "0.1427",
+  "observaciones": "45113"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_02",
+  "correlacion": "-0.1421",
+  "observaciones": "140872"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_21",
+  "correlacion": "-0.1415",
+  "observaciones": "2990"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_18",
+  "correlacion": "-0.1378",
+  "observaciones": "45102"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_24",
+  "correlacion": "-0.1326",
+  "observaciones": "4747"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_26",
+  "correlacion": "-0.1316",
+  "observaciones": "5149"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_22",
+  "correlacion": "0.1311",
+  "observaciones": "3960"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_32",
+  "correlacion": "0.1307",
+  "observaciones": "77586"
+}, {
+  "variable_1": "id_18",
+  "variable_2": "id_22",
+  "correlacion": "0.1301",
+  "observaciones": "3254"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_22",
+  "correlacion": "-0.1266",
+  "observaciones": "3960"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_18",
+  "correlacion": "0.1264",
+  "observaciones": "29048"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_24",
+  "correlacion": "-0.1225",
+  "observaciones": "2727"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_21",
+  "correlacion": "0.1188",
+  "observaciones": "3951"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_26",
+  "correlacion": "-0.117",
+  "observaciones": "4805"
+}, {
+  "variable_1": "id_19",
+  "variable_2": "id_26",
+  "correlacion": "0.1164",
+  "observaciones": "3997"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_17",
+  "correlacion": "-0.115",
+  "observaciones": "3998"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_07",
+  "correlacion": "0.1143",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_10",
+  "correlacion": "0.1127",
+  "observaciones": "66256"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_09",
+  "correlacion": "0.1125",
+  "observaciones": "2991"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_24",
+  "correlacion": "-0.1118",
+  "observaciones": "4518"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_20",
+  "correlacion": "0.1085",
+  "observaciones": "139260"
+}, {
+  "variable_1": "id_18",
+  "variable_2": "id_25",
+  "correlacion": "0.1082",
+  "observaciones": "3240"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_21",
+  "correlacion": "-0.1019",
+  "observaciones": "3951"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_05",
+  "correlacion": "-0.1015",
+  "observaciones": "136864"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_22",
+  "correlacion": "0.1008",
+  "observaciones": "4810"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_21",
+  "correlacion": "-0.1006",
+  "observaciones": "5159"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_08",
+  "correlacion": "0.0996",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_32",
+  "correlacion": "0.0996",
+  "observaciones": "75012"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_17",
+  "correlacion": "0.097",
+  "observaciones": "3998"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_22",
+  "correlacion": "0.0966",
+  "observaciones": "5169"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_13",
+  "correlacion": "-0.0959",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_24",
+  "correlacion": "-0.0956",
+  "observaciones": "4747"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_08",
+  "correlacion": "-0.0941",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_19",
+  "correlacion": "-0.0931",
+  "observaciones": "139317"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_13",
+  "correlacion": "0.0886",
+  "observaciones": "127320"
+}, {
+  "variable_1": "id_19",
+  "variable_2": "id_20",
+  "correlacion": "-0.0883",
+  "observaciones": "139212"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_17",
+  "correlacion": "-0.0868",
+  "observaciones": "78986"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_26",
+  "correlacion": "0.0867",
+  "observaciones": "3955"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_10",
+  "correlacion": "0.0863",
+  "observaciones": "2991"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_32",
+  "correlacion": "-0.0863",
+  "observaciones": "75012"
+}, {
+  "variable_1": "id_24",
+  "variable_2": "id_26",
+  "correlacion": "0.086",
+  "observaciones": "4741"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_09",
+  "correlacion": "0.0859",
+  "observaciones": "73201"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_21",
+  "correlacion": "0.0855",
+  "observaciones": "5145"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_14",
+  "correlacion": "-0.0853",
+  "observaciones": "80044"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_25",
+  "correlacion": "-0.085",
+  "observaciones": "2525"
+}, {
+  "variable_1": "id_19",
+  "variable_2": "id_32",
+  "correlacion": "-0.0842",
+  "observaciones": "76557"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_09",
+  "correlacion": "0.0827",
+  "observaciones": "2991"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_06",
+  "correlacion": "0.0813",
+  "observaciones": "64890"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_09",
+  "correlacion": "0.08",
+  "observaciones": "73201"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_26",
+  "correlacion": "0.0762",
+  "observaciones": "4006"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_17",
+  "correlacion": "-0.076",
+  "observaciones": "122456"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_24",
+  "correlacion": "0.0752",
+  "observaciones": "3700"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_13",
+  "correlacion": "0.0748",
+  "observaciones": "120254"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_20",
+  "correlacion": "-0.0748",
+  "observaciones": "3992"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_19",
+  "correlacion": "-0.0746",
+  "observaciones": "78958"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_24",
+  "correlacion": "-0.0731",
+  "observaciones": "2325"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_18",
+  "correlacion": "0.0723",
+  "observaciones": "45113"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_10",
+  "correlacion": "0.072",
+  "observaciones": "2991"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_21",
+  "correlacion": "0.0719",
+  "observaciones": "2534"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_20",
+  "correlacion": "-0.0712",
+  "observaciones": "139261"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_10",
+  "correlacion": "-0.071",
+  "observaciones": "73201"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_20",
+  "correlacion": "-0.071",
+  "observaciones": "136723"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_24",
+  "correlacion": "-0.0708",
+  "observaciones": "4747"
+}, {
+  "variable_1": "id_21",
+  "variable_2": "id_22",
+  "correlacion": "0.0706",
+  "observaciones": "5159"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_11",
+  "correlacion": "0.07",
+  "observaciones": "74926"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_26",
+  "correlacion": "-0.0699",
+  "observaciones": "5163"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_26",
+  "correlacion": "0.0691",
+  "observaciones": "5163"
+}, {
+  "variable_1": "id_18",
+  "variable_2": "id_32",
+  "correlacion": "0.069",
+  "observaciones": "28602"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_22",
+  "correlacion": "0.0686",
+  "observaciones": "2544"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_24",
+  "correlacion": "0.0682",
+  "observaciones": "4747"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_26",
+  "correlacion": "-0.0662",
+  "observaciones": "5163"
+}, {
+  "variable_1": "id_26",
+  "variable_2": "id_32",
+  "correlacion": "-0.0656",
+  "observaciones": "4627"
+}, {
+  "variable_1": "id_19",
+  "variable_2": "id_22",
+  "correlacion": "0.0639",
+  "observaciones": "4002"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_13",
+  "correlacion": "-0.0633",
+  "observaciones": "124065"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_17",
+  "correlacion": "0.0627",
+  "observaciones": "139369"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_18",
+  "correlacion": "-0.0615",
+  "observaciones": "3251"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_20",
+  "correlacion": "-0.0581",
+  "observaciones": "136723"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_25",
+  "correlacion": "-0.0575",
+  "observaciones": "3936"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_08",
+  "correlacion": "0.0567",
+  "observaciones": "2535"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_06",
+  "correlacion": "0.0561",
+  "observaciones": "64890"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_32",
+  "correlacion": "0.056",
+  "observaciones": "43745"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_26",
+  "correlacion": "-0.0541",
+  "observaciones": "2996"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_25",
+  "correlacion": "0.0539",
+  "observaciones": "5132"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_11",
+  "correlacion": "0.0538",
+  "observaciones": "140865"
+}, {
+  "variable_1": "id_21",
+  "variable_2": "id_26",
+  "correlacion": "0.0537",
+  "observaciones": "5153"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_19",
+  "correlacion": "0.0527",
+  "observaciones": "3989"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_25",
+  "correlacion": "-0.0523",
+  "observaciones": "3936"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_08",
+  "correlacion": "0.0515",
+  "observaciones": "2535"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_19",
+  "correlacion": "-0.051",
+  "observaciones": "3989"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_10",
+  "correlacion": "0.0507",
+  "observaciones": "74926"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_22",
+  "correlacion": "0.0504",
+  "observaciones": "3000"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_18",
+  "correlacion": "0.0489",
+  "observaciones": "45102"
+}, {
+  "variable_1": "id_18",
+  "variable_2": "id_26",
+  "correlacion": "-0.0488",
+  "observaciones": "3249"
+}, {
+  "variable_1": "id_20",
+  "variable_2": "id_26",
+  "correlacion": "0.0484",
+  "observaciones": "4000"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_06",
+  "correlacion": "-0.047",
+  "observaciones": "136864"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_21",
+  "correlacion": "0.0436",
+  "observaciones": "2990"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_21",
+  "correlacion": "0.0432",
+  "observaciones": "4001"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_11",
+  "correlacion": "-0.043",
+  "observaciones": "136865"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_07",
+  "correlacion": "0.043",
+  "observaciones": "2535"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_14",
+  "correlacion": "-0.0415",
+  "observaciones": "39483"
+}, {
+  "variable_1": "id_22",
+  "variable_2": "id_32",
+  "correlacion": "-0.0411",
+  "observaciones": "4632"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_24",
+  "correlacion": "0.0398",
+  "observaciones": "4747"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_04",
+  "correlacion": "0.0397",
+  "observaciones": "66324"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_17",
+  "correlacion": "0.0381",
+  "observaciones": "73759"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_11",
+  "correlacion": "-0.0377",
+  "observaciones": "74926"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_14",
+  "correlacion": "-0.0377",
+  "observaciones": "80044"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_25",
+  "correlacion": "0.0376",
+  "observaciones": "5118"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_26",
+  "correlacion": "0.0372",
+  "observaciones": "5149"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_25",
+  "correlacion": "-0.037",
+  "observaciones": "5132"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_13",
+  "correlacion": "0.0369",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_13",
+  "correlacion": "-0.0366",
+  "observaciones": "120254"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_20",
+  "correlacion": "0.0363",
+  "observaciones": "139261"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_13",
+  "correlacion": "-0.0358",
+  "observaciones": "123959"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_26",
+  "correlacion": "-0.0354",
+  "observaciones": "2540"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_05",
+  "correlacion": "0.0343",
+  "observaciones": "64890"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_25",
+  "correlacion": "-0.0341",
+  "observaciones": "4784"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_26",
+  "correlacion": "-0.0336",
+  "observaciones": "3955"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_22",
+  "correlacion": "0.0322",
+  "observaciones": "3000"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_14",
+  "correlacion": "-0.031",
+  "observaciones": "65112"
+}, {
+  "variable_1": "id_24",
+  "variable_2": "id_25",
+  "correlacion": "-0.0309",
+  "observaciones": "4711"
+}, {
+  "variable_1": "id_20",
+  "variable_2": "id_22",
+  "correlacion": "0.0308",
+  "observaciones": "4005"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_19",
+  "correlacion": "-0.0305",
+  "observaciones": "73723"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_19",
+  "correlacion": "0.0296",
+  "observaciones": "136778"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_14",
+  "correlacion": "-0.0296",
+  "observaciones": "77358"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_32",
+  "correlacion": "-0.0295",
+  "observaciones": "43745"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_20",
+  "correlacion": "-0.0294",
+  "observaciones": "122356"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_05",
+  "correlacion": "-0.0293",
+  "observaciones": "64890"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_09",
+  "correlacion": "0.0292",
+  "observaciones": "74926"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_07",
+  "correlacion": "-0.0289",
+  "observaciones": "3952"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_17",
+  "correlacion": "-0.0287",
+  "observaciones": "136828"
+}, {
+  "variable_1": "id_07",
+  "variable_2": "id_11",
+  "correlacion": "0.0286",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_20",
+  "variable_2": "id_25",
+  "correlacion": "-0.0285",
+  "observaciones": "3981"
+}, {
+  "variable_1": "id_25",
+  "variable_2": "id_32",
+  "correlacion": "0.0276",
+  "observaciones": "4606"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_18",
+  "correlacion": "-0.0261",
+  "observaciones": "39398"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_26",
+  "correlacion": "-0.0258",
+  "observaciones": "2996"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_26",
+  "correlacion": "0.0256",
+  "observaciones": "2540"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_18",
+  "correlacion": "-0.0241",
+  "observaciones": "23753"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_17",
+  "correlacion": "-0.0239",
+  "observaciones": "73759"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_25",
+  "correlacion": "0.0238",
+  "observaciones": "5132"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_13",
+  "correlacion": "-0.0238",
+  "observaciones": "65140"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_19",
+  "correlacion": "-0.0238",
+  "observaciones": "136778"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_24",
+  "correlacion": "-0.0228",
+  "observaciones": "2325"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_21",
+  "correlacion": "0.0224",
+  "observaciones": "4800"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_25",
+  "correlacion": "0.0221",
+  "observaciones": "2981"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_07",
+  "correlacion": "0.0212",
+  "observaciones": "2535"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_22",
+  "correlacion": "-0.0208",
+  "observaciones": "5169"
+}, {
+  "variable_1": "id_06",
+  "variable_2": "id_11",
+  "correlacion": "0.0208",
+  "observaciones": "136865"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_09",
+  "correlacion": "-0.0207",
+  "observaciones": "74925"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_32",
+  "correlacion": "-0.0204",
+  "observaciones": "4622"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_03",
+  "correlacion": "-0.0201",
+  "observaciones": "66323"
+}, {
+  "variable_1": "id_18",
+  "variable_2": "id_19",
+  "correlacion": "0.0197",
+  "observaciones": "45078"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_03",
+  "correlacion": "0.0195",
+  "observaciones": "66324"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_25",
+  "correlacion": "-0.0182",
+  "observaciones": "2525"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_20",
+  "correlacion": "0.0181",
+  "observaciones": "73686"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_19",
+  "correlacion": "0.0179",
+  "observaciones": "65392"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_19",
+  "correlacion": "0.0177",
+  "observaciones": "122406"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_32",
+  "correlacion": "0.0176",
+  "observaciones": "76584"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_10",
+  "correlacion": "0.0175",
+  "observaciones": "74925"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_18",
+  "correlacion": "0.0173",
+  "observaciones": "20439"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_14",
+  "correlacion": "0.017",
+  "observaciones": "80044"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_18",
+  "correlacion": "-0.0166",
+  "observaciones": "45113"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_32",
+  "correlacion": "0.0165",
+  "observaciones": "38152"
+}, {
+  "variable_1": "id_14",
+  "variable_2": "id_32",
+  "correlacion": "-0.0155",
+  "observaciones": "77586"
+}, {
+  "variable_1": "id_17",
+  "variable_2": "id_24",
+  "correlacion": "-0.0149",
+  "observaciones": "3733"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_13",
+  "correlacion": "0.0146",
+  "observaciones": "65140"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_11",
+  "correlacion": "0.0145",
+  "observaciones": "140978"
+}, {
+  "variable_1": "id_18",
+  "variable_2": "id_24",
+  "correlacion": "0.0143",
+  "observaciones": "3135"
+}, {
+  "variable_1": "id_22",
+  "variable_2": "id_24",
+  "correlacion": "0.0141",
+  "observaciones": "4747"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_13",
+  "correlacion": "0.014",
+  "observaciones": "57201"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_24",
+  "correlacion": "-0.0123",
+  "observaciones": "2727"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_18",
+  "correlacion": "0.0119",
+  "observaciones": "20439"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_24",
+  "correlacion": "-0.0118",
+  "observaciones": "4747"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_11",
+  "correlacion": "-0.0116",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_25",
+  "variable_2": "id_26",
+  "correlacion": "0.0115",
+  "observaciones": "5131"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_32",
+  "correlacion": "-0.0115",
+  "observaciones": "38152"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_21",
+  "correlacion": "0.0112",
+  "observaciones": "2534"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_14",
+  "correlacion": "-0.011",
+  "observaciones": "45166"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_13",
+  "correlacion": "0.0101",
+  "observaciones": "57201"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_05",
+  "correlacion": "0.0097",
+  "observaciones": "136865"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_19",
+  "correlacion": "-0.0096",
+  "observaciones": "65392"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_19",
+  "correlacion": "-0.0089",
+  "observaciones": "73723"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_08",
+  "correlacion": "0.0086",
+  "observaciones": "3952"
+}, {
+  "variable_1": "id_19",
+  "variable_2": "id_25",
+  "correlacion": "-0.0085",
+  "observaciones": "3987"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_22",
+  "correlacion": "0.0082",
+  "observaciones": "5169"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_26",
+  "correlacion": "-0.0074",
+  "observaciones": "5163"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_14",
+  "correlacion": "-0.0067",
+  "observaciones": "45166"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_24",
+  "correlacion": "-0.0066",
+  "observaciones": "3700"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_20",
+  "correlacion": "-0.0066",
+  "observaciones": "65355"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_20",
+  "correlacion": "-0.0062",
+  "observaciones": "73686"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_21",
+  "correlacion": "-0.0061",
+  "observaciones": "5159"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_11",
+  "correlacion": "-0.006",
+  "observaciones": "66324"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_17",
+  "correlacion": "-0.0052",
+  "observaciones": "65425"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_08",
+  "correlacion": "0.005",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_32",
+  "correlacion": "-0.0044",
+  "observaciones": "77586"
+}, {
+  "variable_1": "id_11",
+  "variable_2": "id_19",
+  "correlacion": "0.004",
+  "observaciones": "139318"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_14",
+  "correlacion": "0.0037",
+  "observaciones": "4796"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_25",
+  "correlacion": "-0.0036",
+  "observaciones": "5118"
+}, {
+  "variable_1": "id_20",
+  "variable_2": "id_32",
+  "correlacion": "0.0036",
+  "observaciones": "76545"
+}, {
+  "variable_1": "id_10",
+  "variable_2": "id_18",
+  "correlacion": "0.0035",
+  "observaciones": "23753"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_20",
+  "correlacion": "0.0033",
+  "observaciones": "65355"
+}, {
+  "variable_1": "id_09",
+  "variable_2": "id_25",
+  "correlacion": "0.0031",
+  "observaciones": "2981"
+}, {
+  "variable_1": "id_05",
+  "variable_2": "id_14",
+  "correlacion": "-0.002",
+  "observaciones": "77358"
+}, {
+  "variable_1": "id_08",
+  "variable_2": "id_20",
+  "correlacion": "-0.0018",
+  "observaciones": "3992"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_14",
+  "correlacion": "0.0013",
+  "observaciones": "39483"
+}, {
+  "variable_1": "id_20",
+  "variable_2": "id_21",
+  "correlacion": "0.0011",
+  "observaciones": "3995"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_11",
+  "correlacion": "-0.0011",
+  "observaciones": "66324"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_07",
+  "correlacion": "-0.0008",
+  "observaciones": "5155"
+}, {
+  "variable_1": "id_03",
+  "variable_2": "id_17",
+  "correlacion": "-0.0008",
+  "observaciones": "65425"
+}, {
+  "variable_1": "id_02",
+  "variable_2": "id_04",
+  "correlacion": "0.0006",
+  "observaciones": "66323"
+}, {
+  "variable_1": "id_01",
+  "variable_2": "id_19",
+  "correlacion": "0.0005",
+  "observaciones": "139318"
+}, {
+  "variable_1": "id_04",
+  "variable_2": "id_22",
+  "correlacion": "0.0005",
+  "observaciones": "2544"
+}, {
+  "variable_1": "id_13",
+  "variable_2": "id_25",
+  "correlacion": "0.0",
+  "observaciones": "5132"
+}]
