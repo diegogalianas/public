@@ -1,0 +1,26 @@
+[{
+  "ProductCD": "W",
+  "total_transacciones": "439670",
+  "fraudes": "8969",
+  "porcentaje_fraude": "2.04"
+}, {
+  "ProductCD": "C",
+  "total_transacciones": "68519",
+  "fraudes": "8008",
+  "porcentaje_fraude": "11.687"
+}, {
+  "ProductCD": "R",
+  "total_transacciones": "37699",
+  "fraudes": "1426",
+  "porcentaje_fraude": "3.783"
+}, {
+  "ProductCD": "H",
+  "total_transacciones": "33024",
+  "fraudes": "1574",
+  "porcentaje_fraude": "4.766"
+}, {
+  "ProductCD": "S",
+  "total_transacciones": "11628",
+  "fraudes": "686",
+  "porcentaje_fraude": "5.9"
+}]

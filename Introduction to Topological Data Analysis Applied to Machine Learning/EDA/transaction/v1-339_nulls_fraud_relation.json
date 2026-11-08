@@ -1,0 +1,2374 @@
+[{
+  "variable": "V87",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V72",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V100",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V55",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V86",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V95",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V89",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V31",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V92",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V57",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V28",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V59",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V15",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V37",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V27",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V99",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V65",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V10",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V61",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V66",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V4",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V32",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V48",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V54",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V67",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V19",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V30",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V80",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V295",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V83",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V278",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V260",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V82",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V21",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V93",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V40",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V1",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V141",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V17",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V71",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V64",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V6",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V303",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V62",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V36",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V50",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V90",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V18",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V85",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V337",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V270",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V51",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V42",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V94",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V84",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V91",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V312",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V81",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V26",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V226",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V20",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V38",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V14",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V290",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V7",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V46",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V227",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V338",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V77",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V3",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V174",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V126",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V70",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V12",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V298",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V68",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V2",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V52",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V41",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V281",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V13",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V333",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V269",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V79",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V53",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V5",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V88",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V74",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V78",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V56",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V111",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V291",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V33",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V35",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V98",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V294",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V139",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V229",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V252",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V63",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V297",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V60",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V230",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V288",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V69",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V43",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V9",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V97",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V11",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V76",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V39",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V23",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V75",
+  "registros_nulos": "89164",
+  "registros_disponibles": "501376",
+  "tasa_fraude_nulos": "4.7956574402225112",
+  "tasa_fraude_disponibles": "3.26840534848098",
+  "diferencia_puntos_porcentuales": "1.5272520917415315"
+}, {
+  "variable": "V44",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V73",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V25",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V22",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V29",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V58",
+  "registros_nulos": "77096",
+  "registros_disponibles": "513444",
+  "tasa_fraude_nulos": "5.8485524540832206",
+  "tasa_fraude_disponibles": "3.146204844150482",
+  "diferencia_puntos_porcentuales": "2.702347609932739"
+}, {
+  "variable": "V34",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V132",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V310",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V266",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V275",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V122",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V322",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V96",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V130",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V140",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V16",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V8",
+  "registros_nulos": "279287",
+  "registros_disponibles": "311253",
+  "tasa_fraude_nulos": "5.2122010691510878",
+  "tasa_fraude_disponibles": "1.9617481598570938",
+  "diferencia_puntos_porcentuales": "3.250452909293994"
+}, {
+  "variable": "V24",
+  "registros_nulos": "76073",
+  "registros_disponibles": "514467",
+  "tasa_fraude_nulos": "5.1095658117860472",
+  "tasa_fraude_disponibles": "3.2608505501810612",
+  "diferencia_puntos_porcentuales": "1.8487152616049864"
+}, {
+  "variable": "V256",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V49",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V45",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V301",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V47",
+  "registros_nulos": "168969",
+  "registros_disponibles": "421571",
+  "tasa_fraude_nulos": "3.6077623706123605",
+  "tasa_fraude_disponibles": "3.4554084602593633",
+  "diferencia_puntos_porcentuales": "0.15235391035299736"
+}, {
+  "variable": "V300",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V313",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V127",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V241",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V156",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V170",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V318",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V324",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V202",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V125",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V306",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V175",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V133",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V242",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V240",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V149",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V212",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V189",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V315",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V289",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V183",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V328",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V259",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V285",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V235",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V263",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V274",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V299",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V129",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V233",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V186",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V277",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V219",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V198",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V101",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V213",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V102",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V106",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V271",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V172",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V142",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V109",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V123",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V209",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V280",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V308",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V181",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V206",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V154",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V113",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V184",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V231",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V192",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V304",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V239",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V128",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V195",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V220",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V262",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V330",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V158",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V249",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V131",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V120",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V200",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V118",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V245",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V116",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V103",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V246",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V153",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V104",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V180",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V124",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V151",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V237",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V136",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V188",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V232",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V145",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V119",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V121",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V321",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V110",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V223",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V255",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V317",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V105",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V179",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V273",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V167",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V224",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V265",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V267",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V276",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V261",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V323",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V244",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V114",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V336",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V137",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V284",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V196",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V201",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V305",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V165",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V311",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V146",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V135",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V112",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V287",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V210",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V251",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V108",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V211",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V268",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V159",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V134",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V279",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V138",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V329",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V286",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V143",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V282",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V115",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V228",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V248",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V316",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V238",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V331",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V293",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V185",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V320",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V326",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V150",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V264",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V250",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V325",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V307",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V243",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V272",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V234",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V193",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V182",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V309",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V214",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V258",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V335",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V216",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V191",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V205",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V319",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V157",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V339",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V147",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V247",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V204",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V197",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V152",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V199",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V160",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V253",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V144",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V283",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V327",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V302",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V221",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V187",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V292",
+  "registros_nulos": "12",
+  "registros_disponibles": "590528",
+  "tasa_fraude_nulos": "16.666666666666664",
+  "tasa_fraude_disponibles": "3.4987333369459197",
+  "diferencia_puntos_porcentuales": "13.167933329720746"
+}, {
+  "variable": "V171",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V176",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V334",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V208",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V107",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V178",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V161",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V225",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V215",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V296",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V257",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V207",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V155",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V332",
+  "registros_nulos": "508189",
+  "registros_disponibles": "82351",
+  "tasa_fraude_nulos": "3.3406862407490125",
+  "tasa_fraude_disponibles": "4.4759626476909817",
+  "diferencia_puntos_porcentuales": "-1.1352764069419687"
+}, {
+  "variable": "V169",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V173",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V194",
+  "registros_nulos": "450721",
+  "registros_disponibles": "139819",
+  "tasa_fraude_nulos": "2.1283676598161612",
+  "tasa_fraude_disponibles": "7.9173788970025525",
+  "diferencia_puntos_porcentuales": "-5.7890112371863918"
+}, {
+  "variable": "V236",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V117",
+  "registros_nulos": "314",
+  "registros_disponibles": "590226",
+  "tasa_fraude_nulos": "5.4140127388535033",
+  "tasa_fraude_disponibles": "3.4979821288794462",
+  "diferencia_puntos_porcentuales": "1.9160306099740572"
+}, {
+  "variable": "V254",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V164",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V162",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V218",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V314",
+  "registros_nulos": "1269",
+  "registros_disponibles": "589271",
+  "tasa_fraude_nulos": "3.6249014972419227",
+  "tasa_fraude_disponibles": "3.4987297864649713",
+  "diferencia_puntos_porcentuales": "0.12617171077695111"
+}, {
+  "variable": "V166",
+  "registros_nulos": "508589",
+  "registros_disponibles": "81951",
+  "tasa_fraude_nulos": "3.3449406101980181",
+  "tasa_fraude_disponibles": "4.4551012190211221",
+  "diferencia_puntos_porcentuales": "-1.110160608823104"
+}, {
+  "variable": "V168",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V217",
+  "registros_nulos": "460110",
+  "registros_disponibles": "130430",
+  "tasa_fraude_nulos": "2.2757601443133164",
+  "tasa_fraude_disponibles": "7.8141531856168056",
+  "diferencia_puntos_porcentuales": "-5.5383930413034888"
+}, {
+  "variable": "V190",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V163",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}, {
+  "variable": "V177",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V203",
+  "registros_nulos": "450909",
+  "registros_disponibles": "139631",
+  "tasa_fraude_nulos": "2.13435526902324",
+  "tasa_fraude_disponibles": "7.905837528915499",
+  "diferencia_puntos_porcentuales": "-5.7714822598922595"
+}, {
+  "variable": "V222",
+  "registros_nulos": "449124",
+  "registros_disponibles": "141416",
+  "tasa_fraude_nulos": "2.15552943062495",
+  "tasa_fraude_disponibles": "7.7657407931210054",
+  "diferencia_puntos_porcentuales": "-5.610211362496055"
+}, {
+  "variable": "V148",
+  "registros_nulos": "508595",
+  "registros_disponibles": "81945",
+  "tasa_fraude_nulos": "3.34509776934496",
+  "tasa_fraude_disponibles": "4.4542070901214235",
+  "diferencia_puntos_porcentuales": "-1.1091093207764628"
+}]

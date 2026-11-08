@@ -1,0 +1,13 @@
+[{
+  "variable": "addr1",
+  "total_transacciones": "590540",
+  "valores_nulos": "65706",
+  "valores_distintos": "332",
+  "porcentaje_nulos": "11.126"
+}, {
+  "variable": "addr2",
+  "total_transacciones": "590540",
+  "valores_nulos": "65706",
+  "valores_distintos": "74",
+  "porcentaje_nulos": "11.126"
+}]

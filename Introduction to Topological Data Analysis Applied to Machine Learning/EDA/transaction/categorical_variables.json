@@ -1,0 +1,831 @@
+[{
+  "variable": "M1",
+  "valor": "true",
+  "frecuencia": "319415",
+  "porcentaje": "54.09"
+}, {
+  "variable": "M1",
+  "valor": "NULL",
+  "frecuencia": "271100",
+  "porcentaje": "45.91"
+}, {
+  "variable": "M1",
+  "valor": "false",
+  "frecuencia": "25",
+  "porcentaje": "0.0"
+}, {
+  "variable": "M2",
+  "valor": "true",
+  "frecuencia": "285468",
+  "porcentaje": "48.34"
+}, {
+  "variable": "M2",
+  "valor": "NULL",
+  "frecuencia": "271100",
+  "porcentaje": "45.91"
+}, {
+  "variable": "M2",
+  "valor": "false",
+  "frecuencia": "33972",
+  "porcentaje": "5.75"
+}, {
+  "variable": "M3",
+  "valor": "NULL",
+  "frecuencia": "271100",
+  "porcentaje": "45.91"
+}, {
+  "variable": "M3",
+  "valor": "true",
+  "frecuencia": "251731",
+  "porcentaje": "42.63"
+}, {
+  "variable": "M3",
+  "valor": "false",
+  "frecuencia": "67709",
+  "porcentaje": "11.47"
+}, {
+  "variable": "M4",
+  "valor": "NULL",
+  "frecuencia": "281444",
+  "porcentaje": "47.66"
+}, {
+  "variable": "M4",
+  "valor": "M0",
+  "frecuencia": "196405",
+  "porcentaje": "33.26"
+}, {
+  "variable": "M4",
+  "valor": "M2",
+  "frecuencia": "59865",
+  "porcentaje": "10.14"
+}, {
+  "variable": "M4",
+  "valor": "M1",
+  "frecuencia": "52826",
+  "porcentaje": "8.95"
+}, {
+  "variable": "M5",
+  "valor": "NULL",
+  "frecuencia": "350482",
+  "porcentaje": "59.35"
+}, {
+  "variable": "M5",
+  "valor": "false",
+  "frecuencia": "132491",
+  "porcentaje": "22.44"
+}, {
+  "variable": "M5",
+  "valor": "true",
+  "frecuencia": "107567",
+  "porcentaje": "18.22"
+}, {
+  "variable": "M6",
+  "valor": "false",
+  "frecuencia": "227856",
+  "porcentaje": "38.58"
+}, {
+  "variable": "M6",
+  "valor": "true",
+  "frecuencia": "193324",
+  "porcentaje": "32.74"
+}, {
+  "variable": "M6",
+  "valor": "NULL",
+  "frecuencia": "169360",
+  "porcentaje": "28.68"
+}, {
+  "variable": "M7",
+  "valor": "NULL",
+  "frecuencia": "346265",
+  "porcentaje": "58.64"
+}, {
+  "variable": "M7",
+  "valor": "false",
+  "frecuencia": "211374",
+  "porcentaje": "35.79"
+}, {
+  "variable": "M7",
+  "valor": "true",
+  "frecuencia": "32901",
+  "porcentaje": "5.57"
+}, {
+  "variable": "M8",
+  "valor": "NULL",
+  "frecuencia": "346252",
+  "porcentaje": "58.63"
+}, {
+  "variable": "M8",
+  "valor": "false",
+  "frecuencia": "155251",
+  "porcentaje": "26.29"
+}, {
+  "variable": "M8",
+  "valor": "true",
+  "frecuencia": "89037",
+  "porcentaje": "15.08"
+}, {
+  "variable": "M9",
+  "valor": "NULL",
+  "frecuencia": "346252",
+  "porcentaje": "58.63"
+}, {
+  "variable": "M9",
+  "valor": "true",
+  "frecuencia": "205656",
+  "porcentaje": "34.83"
+}, {
+  "variable": "M9",
+  "valor": "false",
+  "frecuencia": "38632",
+  "porcentaje": "6.54"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "gmail.com",
+  "frecuencia": "228355",
+  "porcentaje": "38.67"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "yahoo.com",
+  "frecuencia": "100934",
+  "porcentaje": "17.09"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "NULL",
+  "frecuencia": "94456",
+  "porcentaje": "15.99"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "hotmail.com",
+  "frecuencia": "45250",
+  "porcentaje": "7.66"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "anonymous.com",
+  "frecuencia": "36998",
+  "porcentaje": "6.27"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "aol.com",
+  "frecuencia": "28289",
+  "porcentaje": "4.79"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "comcast.net",
+  "frecuencia": "7888",
+  "porcentaje": "1.34"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "icloud.com",
+  "frecuencia": "6267",
+  "porcentaje": "1.06"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "outlook.com",
+  "frecuencia": "5096",
+  "porcentaje": "0.86"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "msn.com",
+  "frecuencia": "4092",
+  "porcentaje": "0.69"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "att.net",
+  "frecuencia": "4033",
+  "porcentaje": "0.68"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "live.com",
+  "frecuencia": "3041",
+  "porcentaje": "0.51"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "sbcglobal.net",
+  "frecuencia": "2970",
+  "porcentaje": "0.5"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "verizon.net",
+  "frecuencia": "2705",
+  "porcentaje": "0.46"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "ymail.com",
+  "frecuencia": "2396",
+  "porcentaje": "0.41"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "bellsouth.net",
+  "frecuencia": "1909",
+  "porcentaje": "0.32"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "yahoo.com.mx",
+  "frecuencia": "1543",
+  "porcentaje": "0.26"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "me.com",
+  "frecuencia": "1522",
+  "porcentaje": "0.26"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "cox.net",
+  "frecuencia": "1393",
+  "porcentaje": "0.24"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "optonline.net",
+  "frecuencia": "1011",
+  "porcentaje": "0.17"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "charter.net",
+  "frecuencia": "816",
+  "porcentaje": "0.14"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "live.com.mx",
+  "frecuencia": "749",
+  "porcentaje": "0.13"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "rocketmail.com",
+  "frecuencia": "664",
+  "porcentaje": "0.11"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "mail.com",
+  "frecuencia": "559",
+  "porcentaje": "0.09"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "earthlink.net",
+  "frecuencia": "514",
+  "porcentaje": "0.09"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "gmail",
+  "frecuencia": "496",
+  "porcentaje": "0.08"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "outlook.es",
+  "frecuencia": "438",
+  "porcentaje": "0.07"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "mac.com",
+  "frecuencia": "436",
+  "porcentaje": "0.07"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "juno.com",
+  "frecuencia": "322",
+  "porcentaje": "0.05"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "aim.com",
+  "frecuencia": "315",
+  "porcentaje": "0.05"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "hotmail.es",
+  "frecuencia": "305",
+  "porcentaje": "0.05"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "roadrunner.com",
+  "frecuencia": "305",
+  "porcentaje": "0.05"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "windstream.net",
+  "frecuencia": "305",
+  "porcentaje": "0.05"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "hotmail.fr",
+  "frecuencia": "295",
+  "porcentaje": "0.05"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "frontier.com",
+  "frecuencia": "280",
+  "porcentaje": "0.05"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "embarqmail.com",
+  "frecuencia": "260",
+  "porcentaje": "0.04"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "web.de",
+  "frecuencia": "240",
+  "porcentaje": "0.04"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "twc.com",
+  "frecuencia": "230",
+  "porcentaje": "0.04"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "netzero.com",
+  "frecuencia": "230",
+  "porcentaje": "0.04"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "prodigy.net.mx",
+  "frecuencia": "207",
+  "porcentaje": "0.04"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "centurylink.net",
+  "frecuencia": "205",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "netzero.net",
+  "frecuencia": "196",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "frontiernet.net",
+  "frecuencia": "195",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "q.com",
+  "frecuencia": "189",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "suddenlink.net",
+  "frecuencia": "175",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "cfl.rr.com",
+  "frecuencia": "172",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "sc.rr.com",
+  "frecuencia": "164",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "cableone.net",
+  "frecuencia": "159",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "gmx.de",
+  "frecuencia": "149",
+  "porcentaje": "0.03"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "yahoo.fr",
+  "frecuencia": "143",
+  "porcentaje": "0.02"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "yahoo.es",
+  "frecuencia": "134",
+  "porcentaje": "0.02"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "hotmail.co.uk",
+  "frecuencia": "112",
+  "porcentaje": "0.02"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "protonmail.com",
+  "frecuencia": "76",
+  "porcentaje": "0.01"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "yahoo.de",
+  "frecuencia": "74",
+  "porcentaje": "0.01"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "ptd.net",
+  "frecuencia": "68",
+  "porcentaje": "0.01"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "live.fr",
+  "frecuencia": "56",
+  "porcentaje": "0.01"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "yahoo.co.uk",
+  "frecuencia": "49",
+  "porcentaje": "0.01"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "hotmail.de",
+  "frecuencia": "43",
+  "porcentaje": "0.01"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "servicios-ta.com",
+  "frecuencia": "35",
+  "porcentaje": "0.01"
+}, {
+  "variable": "P_emaildomain",
+  "valor": "yahoo.co.jp",
+  "frecuencia": "32",
+  "porcentaje": "0.01"
+}, {
+  "variable": "ProductCD",
+  "valor": "W",
+  "frecuencia": "439670",
+  "porcentaje": "74.45"
+}, {
+  "variable": "ProductCD",
+  "valor": "C",
+  "frecuencia": "68519",
+  "porcentaje": "11.6"
+}, {
+  "variable": "ProductCD",
+  "valor": "R",
+  "frecuencia": "37699",
+  "porcentaje": "6.38"
+}, {
+  "variable": "ProductCD",
+  "valor": "H",
+  "frecuencia": "33024",
+  "porcentaje": "5.59"
+}, {
+  "variable": "ProductCD",
+  "valor": "S",
+  "frecuencia": "11628",
+  "porcentaje": "1.97"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "NULL",
+  "frecuencia": "453249",
+  "porcentaje": "76.75"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "gmail.com",
+  "frecuencia": "57147",
+  "porcentaje": "9.68"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "hotmail.com",
+  "frecuencia": "27509",
+  "porcentaje": "4.66"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "anonymous.com",
+  "frecuencia": "20529",
+  "porcentaje": "3.48"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "yahoo.com",
+  "frecuencia": "11842",
+  "porcentaje": "2.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "aol.com",
+  "frecuencia": "3701",
+  "porcentaje": "0.63"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "outlook.com",
+  "frecuencia": "2507",
+  "porcentaje": "0.42"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "comcast.net",
+  "frecuencia": "1812",
+  "porcentaje": "0.31"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "yahoo.com.mx",
+  "frecuencia": "1508",
+  "porcentaje": "0.26"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "icloud.com",
+  "frecuencia": "1398",
+  "porcentaje": "0.24"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "msn.com",
+  "frecuencia": "852",
+  "porcentaje": "0.14"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "live.com",
+  "frecuencia": "762",
+  "porcentaje": "0.13"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "live.com.mx",
+  "frecuencia": "754",
+  "porcentaje": "0.13"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "verizon.net",
+  "frecuencia": "620",
+  "porcentaje": "0.1"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "me.com",
+  "frecuencia": "556",
+  "porcentaje": "0.09"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "sbcglobal.net",
+  "frecuencia": "552",
+  "porcentaje": "0.09"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "cox.net",
+  "frecuencia": "459",
+  "porcentaje": "0.08"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "outlook.es",
+  "frecuencia": "433",
+  "porcentaje": "0.07"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "att.net",
+  "frecuencia": "430",
+  "porcentaje": "0.07"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "bellsouth.net",
+  "frecuencia": "422",
+  "porcentaje": "0.07"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "hotmail.fr",
+  "frecuencia": "293",
+  "porcentaje": "0.05"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "hotmail.es",
+  "frecuencia": "292",
+  "porcentaje": "0.05"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "web.de",
+  "frecuencia": "237",
+  "porcentaje": "0.04"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "mac.com",
+  "frecuencia": "218",
+  "porcentaje": "0.04"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "prodigy.net.mx",
+  "frecuencia": "207",
+  "porcentaje": "0.04"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "ymail.com",
+  "frecuencia": "207",
+  "porcentaje": "0.04"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "optonline.net",
+  "frecuencia": "187",
+  "porcentaje": "0.03"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "gmx.de",
+  "frecuencia": "147",
+  "porcentaje": "0.02"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "yahoo.fr",
+  "frecuencia": "137",
+  "porcentaje": "0.02"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "charter.net",
+  "frecuencia": "127",
+  "porcentaje": "0.02"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "mail.com",
+  "frecuencia": "122",
+  "porcentaje": "0.02"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "hotmail.co.uk",
+  "frecuencia": "105",
+  "porcentaje": "0.02"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "gmail",
+  "frecuencia": "95",
+  "porcentaje": "0.02"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "earthlink.net",
+  "frecuencia": "79",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "yahoo.de",
+  "frecuencia": "75",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "rocketmail.com",
+  "frecuencia": "69",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "embarqmail.com",
+  "frecuencia": "68",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "scranton.edu",
+  "frecuencia": "63",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "yahoo.es",
+  "frecuencia": "57",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "live.fr",
+  "frecuencia": "55",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "roadrunner.com",
+  "frecuencia": "53",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "juno.com",
+  "frecuencia": "53",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "frontier.com",
+  "frecuencia": "52",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "windstream.net",
+  "frecuencia": "47",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "hotmail.de",
+  "frecuencia": "42",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "protonmail.com",
+  "frecuencia": "41",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "yahoo.co.uk",
+  "frecuencia": "39",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "cfl.rr.com",
+  "frecuencia": "37",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "aim.com",
+  "frecuencia": "36",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "servicios-ta.com",
+  "frecuencia": "35",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "yahoo.co.jp",
+  "frecuencia": "33",
+  "porcentaje": "0.01"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "twc.com",
+  "frecuencia": "29",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "cableone.net",
+  "frecuencia": "27",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "ptd.net",
+  "frecuencia": "27",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "q.com",
+  "frecuencia": "25",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "suddenlink.net",
+  "frecuencia": "25",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "frontiernet.net",
+  "frecuencia": "14",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "netzero.com",
+  "frecuencia": "14",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "centurylink.net",
+  "frecuencia": "12",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "netzero.net",
+  "frecuencia": "9",
+  "porcentaje": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "valor": "sc.rr.com",
+  "frecuencia": "8",
+  "porcentaje": "0.0"
+}, {
+  "variable": "card4",
+  "valor": "visa",
+  "frecuencia": "384767",
+  "porcentaje": "65.16"
+}, {
+  "variable": "card4",
+  "valor": "mastercard",
+  "frecuencia": "189217",
+  "porcentaje": "32.04"
+}, {
+  "variable": "card4",
+  "valor": "american express",
+  "frecuencia": "8328",
+  "porcentaje": "1.41"
+}, {
+  "variable": "card4",
+  "valor": "discover",
+  "frecuencia": "6651",
+  "porcentaje": "1.13"
+}, {
+  "variable": "card4",
+  "valor": "NULL",
+  "frecuencia": "1577",
+  "porcentaje": "0.27"
+}, {
+  "variable": "card6",
+  "valor": "debit",
+  "frecuencia": "439938",
+  "porcentaje": "74.5"
+}, {
+  "variable": "card6",
+  "valor": "credit",
+  "frecuencia": "148986",
+  "porcentaje": "25.23"
+}, {
+  "variable": "card6",
+  "valor": "NULL",
+  "frecuencia": "1571",
+  "porcentaje": "0.27"
+}, {
+  "variable": "card6",
+  "valor": "debit or credit",
+  "frecuencia": "30",
+  "porcentaje": "0.01"
+}, {
+  "variable": "card6",
+  "valor": "charge card",
+  "frecuencia": "15",
+  "porcentaje": "0.0"
+}, {
+  "variable": "isFraud",
+  "valor": "0",
+  "frecuencia": "569877",
+  "porcentaje": "96.5"
+}, {
+  "variable": "isFraud",
+  "valor": "1",
+  "frecuencia": "20663",
+  "porcentaje": "3.5"
+}]

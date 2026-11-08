@@ -1,0 +1,17 @@
+[{
+  "intervalo": "1. \u003e\u003d 0.20",
+  "numero_variables": "32",
+  "porcentaje": "9.44"
+}, {
+  "intervalo": "2. 0.10 - 0.20",
+  "numero_variables": "81",
+  "porcentaje": "23.89"
+}, {
+  "intervalo": "3. 0.05 - 0.10",
+  "numero_variables": "40",
+  "porcentaje": "11.8"
+}, {
+  "intervalo": "4. \u003c 0.05",
+  "numero_variables": "186",
+  "porcentaje": "54.87"
+}]

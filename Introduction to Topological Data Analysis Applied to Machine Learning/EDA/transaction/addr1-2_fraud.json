@@ -1,0 +1,385 @@
+[{
+  "variable": "addr1",
+  "valor": "296",
+  "total_transacciones": "367",
+  "fraudes": "78",
+  "tasa_fraude": "21.253"
+}, {
+  "variable": "addr1",
+  "valor": "161",
+  "total_transacciones": "421",
+  "fraudes": "82",
+  "tasa_fraude": "19.477"
+}, {
+  "variable": "addr1",
+  "valor": "536",
+  "total_transacciones": "309",
+  "fraudes": "50",
+  "tasa_fraude": "16.181"
+}, {
+  "variable": "addr1",
+  "valor": "130",
+  "total_transacciones": "342",
+  "fraudes": "29",
+  "tasa_fraude": "8.48"
+}, {
+  "variable": "addr1",
+  "valor": "465",
+  "total_transacciones": "503",
+  "fraudes": "42",
+  "tasa_fraude": "8.35"
+}, {
+  "variable": "addr1",
+  "valor": "122",
+  "total_transacciones": "1617",
+  "fraudes": "117",
+  "tasa_fraude": "7.236"
+}, {
+  "variable": "addr1",
+  "valor": "308",
+  "total_transacciones": "1279",
+  "fraudes": "83",
+  "tasa_fraude": "6.489"
+}, {
+  "variable": "addr1",
+  "valor": "511",
+  "total_transacciones": "157",
+  "fraudes": "10",
+  "tasa_fraude": "6.369"
+}, {
+  "variable": "addr1",
+  "valor": "324",
+  "total_transacciones": "2173",
+  "fraudes": "112",
+  "tasa_fraude": "5.154"
+}, {
+  "variable": "addr1",
+  "valor": "418",
+  "total_transacciones": "101",
+  "fraudes": "5",
+  "tasa_fraude": "4.95"
+}, {
+  "variable": "addr1",
+  "valor": "203",
+  "total_transacciones": "3808",
+  "fraudes": "155",
+  "tasa_fraude": "4.07"
+}, {
+  "variable": "addr1",
+  "valor": "226",
+  "total_transacciones": "4867",
+  "fraudes": "189",
+  "tasa_fraude": "3.883"
+}, {
+  "variable": "addr1",
+  "valor": "269",
+  "total_transacciones": "6404",
+  "fraudes": "226",
+  "tasa_fraude": "3.529"
+}, {
+  "variable": "addr1",
+  "valor": "512",
+  "total_transacciones": "8268",
+  "fraudes": "284",
+  "tasa_fraude": "3.435"
+}, {
+  "variable": "addr1",
+  "valor": "170",
+  "total_transacciones": "2001",
+  "fraudes": "68",
+  "tasa_fraude": "3.398"
+}, {
+  "variable": "addr1",
+  "valor": "420",
+  "total_transacciones": "3581",
+  "fraudes": "117",
+  "tasa_fraude": "3.267"
+}, {
+  "variable": "addr1",
+  "valor": "284",
+  "total_transacciones": "773",
+  "fraudes": "25",
+  "tasa_fraude": "3.234"
+}, {
+  "variable": "addr1",
+  "valor": "330",
+  "total_transacciones": "26287",
+  "fraudes": "840",
+  "tasa_fraude": "3.195"
+}, {
+  "variable": "addr1",
+  "valor": "476",
+  "total_transacciones": "9478",
+  "fraudes": "300",
+  "tasa_fraude": "3.165"
+}, {
+  "variable": "addr1",
+  "valor": "498",
+  "total_transacciones": "4744",
+  "fraudes": "150",
+  "tasa_fraude": "3.162"
+}, {
+  "variable": "addr1",
+  "valor": "177",
+  "total_transacciones": "4674",
+  "fraudes": "142",
+  "tasa_fraude": "3.038"
+}, {
+  "variable": "addr1",
+  "valor": "157",
+  "total_transacciones": "169",
+  "fraudes": "5",
+  "tasa_fraude": "2.959"
+}, {
+  "variable": "addr1",
+  "valor": "337",
+  "total_transacciones": "15149",
+  "fraudes": "439",
+  "tasa_fraude": "2.898"
+}, {
+  "variable": "addr1",
+  "valor": "384",
+  "total_transacciones": "1670",
+  "fraudes": "48",
+  "tasa_fraude": "2.874"
+}, {
+  "variable": "addr1",
+  "valor": "231",
+  "total_transacciones": "7605",
+  "fraudes": "218",
+  "tasa_fraude": "2.867"
+}, {
+  "variable": "addr1",
+  "valor": "272",
+  "total_transacciones": "20141",
+  "fraudes": "576",
+  "tasa_fraude": "2.86"
+}, {
+  "variable": "addr1",
+  "valor": "428",
+  "total_transacciones": "1425",
+  "fraudes": "40",
+  "tasa_fraude": "2.807"
+}, {
+  "variable": "addr1",
+  "valor": "220",
+  "total_transacciones": "5041",
+  "fraudes": "137",
+  "tasa_fraude": "2.718"
+}, {
+  "variable": "addr1",
+  "valor": "204",
+  "total_transacciones": "42020",
+  "fraudes": "1120",
+  "tasa_fraude": "2.665"
+}, {
+  "variable": "addr1",
+  "valor": "441",
+  "total_transacciones": "20827",
+  "fraudes": "533",
+  "tasa_fraude": "2.559"
+}, {
+  "variable": "addr1",
+  "valor": "325",
+  "total_transacciones": "42751",
+  "fraudes": "1087",
+  "tasa_fraude": "2.543"
+}, {
+  "variable": "addr1",
+  "valor": "126",
+  "total_transacciones": "15243",
+  "fraudes": "386",
+  "tasa_fraude": "2.532"
+}, {
+  "variable": "addr1",
+  "valor": "472",
+  "total_transacciones": "8478",
+  "fraudes": "213",
+  "tasa_fraude": "2.512"
+}, {
+  "variable": "addr1",
+  "valor": "225",
+  "total_transacciones": "5323",
+  "fraudes": "133",
+  "tasa_fraude": "2.499"
+}, {
+  "variable": "addr1",
+  "valor": "123",
+  "total_transacciones": "16105",
+  "fraudes": "398",
+  "tasa_fraude": "2.471"
+}, {
+  "variable": "addr1",
+  "valor": "469",
+  "total_transacciones": "2940",
+  "fraudes": "72",
+  "tasa_fraude": "2.449"
+}, {
+  "variable": "addr1",
+  "valor": "158",
+  "total_transacciones": "1562",
+  "fraudes": "38",
+  "tasa_fraude": "2.433"
+}, {
+  "variable": "addr1",
+  "valor": "251",
+  "total_transacciones": "5216",
+  "fraudes": "116",
+  "tasa_fraude": "2.224"
+}, {
+  "variable": "addr1",
+  "valor": "448",
+  "total_transacciones": "923",
+  "fraudes": "20",
+  "tasa_fraude": "2.167"
+}, {
+  "variable": "addr1",
+  "valor": "502",
+  "total_transacciones": "835",
+  "fraudes": "18",
+  "tasa_fraude": "2.156"
+}, {
+  "variable": "addr1",
+  "valor": "181",
+  "total_transacciones": "13856",
+  "fraudes": "298",
+  "tasa_fraude": "2.151"
+}, {
+  "variable": "addr1",
+  "valor": "299",
+  "total_transacciones": "46335",
+  "fraudes": "985",
+  "tasa_fraude": "2.126"
+}, {
+  "variable": "addr1",
+  "valor": "433",
+  "total_transacciones": "7831",
+  "fraudes": "160",
+  "tasa_fraude": "2.043"
+}, {
+  "variable": "addr1",
+  "valor": "110",
+  "total_transacciones": "3220",
+  "fraudes": "64",
+  "tasa_fraude": "1.988"
+}, {
+  "variable": "addr1",
+  "valor": "310",
+  "total_transacciones": "8486",
+  "fraudes": "167",
+  "tasa_fraude": "1.968"
+}, {
+  "variable": "addr1",
+  "valor": "485",
+  "total_transacciones": "6816",
+  "fraudes": "134",
+  "tasa_fraude": "1.966"
+}, {
+  "variable": "addr1",
+  "valor": "327",
+  "total_transacciones": "8425",
+  "fraudes": "164",
+  "tasa_fraude": "1.947"
+}, {
+  "variable": "addr1",
+  "valor": "387",
+  "total_transacciones": "8187",
+  "fraudes": "157",
+  "tasa_fraude": "1.918"
+}, {
+  "variable": "addr1",
+  "valor": "253",
+  "total_transacciones": "1058",
+  "fraudes": "20",
+  "tasa_fraude": "1.89"
+}, {
+  "variable": "addr1",
+  "valor": "264",
+  "total_transacciones": "39870",
+  "fraudes": "728",
+  "tasa_fraude": "1.826"
+}, {
+  "variable": "addr1",
+  "valor": "343",
+  "total_transacciones": "1734",
+  "fraudes": "31",
+  "tasa_fraude": "1.788"
+}, {
+  "variable": "addr1",
+  "valor": "315",
+  "total_transacciones": "23078",
+  "fraudes": "411",
+  "tasa_fraude": "1.781"
+}, {
+  "variable": "addr1",
+  "valor": "191",
+  "total_transacciones": "14979",
+  "fraudes": "249",
+  "tasa_fraude": "1.662"
+}, {
+  "variable": "addr1",
+  "valor": "184",
+  "total_transacciones": "15160",
+  "fraudes": "206",
+  "tasa_fraude": "1.359"
+}, {
+  "variable": "addr1",
+  "valor": "492",
+  "total_transacciones": "987",
+  "fraudes": "13",
+  "tasa_fraude": "1.317"
+}, {
+  "variable": "addr1",
+  "valor": "436",
+  "total_transacciones": "3169",
+  "fraudes": "41",
+  "tasa_fraude": "1.294"
+}, {
+  "variable": "addr1",
+  "valor": "143",
+  "total_transacciones": "9806",
+  "fraudes": "124",
+  "tasa_fraude": "1.265"
+}, {
+  "variable": "addr1",
+  "valor": "205",
+  "total_transacciones": "5725",
+  "fraudes": "64",
+  "tasa_fraude": "1.118"
+}, {
+  "variable": "addr1",
+  "valor": "194",
+  "total_transacciones": "1572",
+  "fraudes": "17",
+  "tasa_fraude": "1.081"
+}, {
+  "variable": "addr1",
+  "valor": "494",
+  "total_transacciones": "5065",
+  "fraudes": "40",
+  "tasa_fraude": "0.79"
+}, {
+  "variable": "addr1",
+  "valor": "444",
+  "total_transacciones": "2033",
+  "fraudes": "16",
+  "tasa_fraude": "0.787"
+}, {
+  "variable": "addr2",
+  "valor": "96",
+  "total_transacciones": "638",
+  "fraudes": "89",
+  "tasa_fraude": "13.95"
+}, {
+  "variable": "addr2",
+  "valor": "60",
+  "total_transacciones": "3084",
+  "fraudes": "279",
+  "tasa_fraude": "9.047"
+}, {
+  "variable": "addr2",
+  "valor": "87",
+  "total_transacciones": "520481",
+  "fraudes": "12477",
+  "tasa_fraude": "2.397"
+}]

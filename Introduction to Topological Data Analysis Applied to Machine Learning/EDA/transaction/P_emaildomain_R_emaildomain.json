@@ -1,0 +1,727 @@
+[{
+  "variable": "P_emaildomain",
+  "dominio": "gmail.com",
+  "total_transacciones": "228355",
+  "transacciones_fraudulentas": "9943",
+  "tasa_fraude": "4.354"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "yahoo.com",
+  "total_transacciones": "100934",
+  "transacciones_fraudulentas": "2297",
+  "tasa_fraude": "2.276"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "NULL",
+  "total_transacciones": "94456",
+  "transacciones_fraudulentas": "2790",
+  "tasa_fraude": "2.954"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "hotmail.com",
+  "total_transacciones": "45250",
+  "transacciones_fraudulentas": "2396",
+  "tasa_fraude": "5.295"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "anonymous.com",
+  "total_transacciones": "36998",
+  "transacciones_fraudulentas": "859",
+  "tasa_fraude": "2.322"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "aol.com",
+  "total_transacciones": "28289",
+  "transacciones_fraudulentas": "617",
+  "tasa_fraude": "2.181"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "comcast.net",
+  "total_transacciones": "7888",
+  "transacciones_fraudulentas": "246",
+  "tasa_fraude": "3.119"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "icloud.com",
+  "total_transacciones": "6267",
+  "transacciones_fraudulentas": "197",
+  "tasa_fraude": "3.143"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "outlook.com",
+  "total_transacciones": "5096",
+  "transacciones_fraudulentas": "482",
+  "tasa_fraude": "9.458"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "msn.com",
+  "total_transacciones": "4092",
+  "transacciones_fraudulentas": "90",
+  "tasa_fraude": "2.199"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "att.net",
+  "total_transacciones": "4033",
+  "transacciones_fraudulentas": "30",
+  "tasa_fraude": "0.744"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "live.com",
+  "total_transacciones": "3041",
+  "transacciones_fraudulentas": "84",
+  "tasa_fraude": "2.762"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "sbcglobal.net",
+  "total_transacciones": "2970",
+  "transacciones_fraudulentas": "12",
+  "tasa_fraude": "0.404"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "verizon.net",
+  "total_transacciones": "2705",
+  "transacciones_fraudulentas": "22",
+  "tasa_fraude": "0.813"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "ymail.com",
+  "total_transacciones": "2396",
+  "transacciones_fraudulentas": "50",
+  "tasa_fraude": "2.087"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "bellsouth.net",
+  "total_transacciones": "1909",
+  "transacciones_fraudulentas": "53",
+  "tasa_fraude": "2.776"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "yahoo.com.mx",
+  "total_transacciones": "1543",
+  "transacciones_fraudulentas": "16",
+  "tasa_fraude": "1.037"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "me.com",
+  "total_transacciones": "1522",
+  "transacciones_fraudulentas": "27",
+  "tasa_fraude": "1.774"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "cox.net",
+  "total_transacciones": "1393",
+  "transacciones_fraudulentas": "29",
+  "tasa_fraude": "2.082"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "optonline.net",
+  "total_transacciones": "1011",
+  "transacciones_fraudulentas": "17",
+  "tasa_fraude": "1.682"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "charter.net",
+  "total_transacciones": "816",
+  "transacciones_fraudulentas": "25",
+  "tasa_fraude": "3.064"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "live.com.mx",
+  "total_transacciones": "749",
+  "transacciones_fraudulentas": "41",
+  "tasa_fraude": "5.474"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "rocketmail.com",
+  "total_transacciones": "664",
+  "transacciones_fraudulentas": "2",
+  "tasa_fraude": "0.301"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "mail.com",
+  "total_transacciones": "559",
+  "transacciones_fraudulentas": "106",
+  "tasa_fraude": "18.962"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "earthlink.net",
+  "total_transacciones": "514",
+  "transacciones_fraudulentas": "11",
+  "tasa_fraude": "2.14"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "gmail",
+  "total_transacciones": "496",
+  "transacciones_fraudulentas": "11",
+  "tasa_fraude": "2.218"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "outlook.es",
+  "total_transacciones": "438",
+  "transacciones_fraudulentas": "57",
+  "tasa_fraude": "13.014"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "mac.com",
+  "total_transacciones": "436",
+  "transacciones_fraudulentas": "14",
+  "tasa_fraude": "3.211"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "juno.com",
+  "total_transacciones": "322",
+  "transacciones_fraudulentas": "6",
+  "tasa_fraude": "1.863"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "aim.com",
+  "total_transacciones": "315",
+  "transacciones_fraudulentas": "40",
+  "tasa_fraude": "12.698"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "roadrunner.com",
+  "total_transacciones": "305",
+  "transacciones_fraudulentas": "3",
+  "tasa_fraude": "0.984"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "hotmail.es",
+  "total_transacciones": "305",
+  "transacciones_fraudulentas": "20",
+  "tasa_fraude": "6.557"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "windstream.net",
+  "total_transacciones": "305",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "hotmail.fr",
+  "total_transacciones": "295",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "frontier.com",
+  "total_transacciones": "280",
+  "transacciones_fraudulentas": "8",
+  "tasa_fraude": "2.857"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "embarqmail.com",
+  "total_transacciones": "260",
+  "transacciones_fraudulentas": "9",
+  "tasa_fraude": "3.462"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "web.de",
+  "total_transacciones": "240",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "netzero.com",
+  "total_transacciones": "230",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "twc.com",
+  "total_transacciones": "230",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "prodigy.net.mx",
+  "total_transacciones": "207",
+  "transacciones_fraudulentas": "1",
+  "tasa_fraude": "0.483"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "centurylink.net",
+  "total_transacciones": "205",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "netzero.net",
+  "total_transacciones": "196",
+  "transacciones_fraudulentas": "1",
+  "tasa_fraude": "0.51"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "frontiernet.net",
+  "total_transacciones": "195",
+  "transacciones_fraudulentas": "5",
+  "tasa_fraude": "2.564"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "q.com",
+  "total_transacciones": "189",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "suddenlink.net",
+  "total_transacciones": "175",
+  "transacciones_fraudulentas": "4",
+  "tasa_fraude": "2.286"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "cfl.rr.com",
+  "total_transacciones": "172",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "sc.rr.com",
+  "total_transacciones": "164",
+  "transacciones_fraudulentas": "1",
+  "tasa_fraude": "0.61"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "cableone.net",
+  "total_transacciones": "159",
+  "transacciones_fraudulentas": "3",
+  "tasa_fraude": "1.887"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "gmx.de",
+  "total_transacciones": "149",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "yahoo.fr",
+  "total_transacciones": "143",
+  "transacciones_fraudulentas": "5",
+  "tasa_fraude": "3.497"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "yahoo.es",
+  "total_transacciones": "134",
+  "transacciones_fraudulentas": "2",
+  "tasa_fraude": "1.493"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "hotmail.co.uk",
+  "total_transacciones": "112",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "protonmail.com",
+  "total_transacciones": "76",
+  "transacciones_fraudulentas": "31",
+  "tasa_fraude": "40.789"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "yahoo.de",
+  "total_transacciones": "74",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "ptd.net",
+  "total_transacciones": "68",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "live.fr",
+  "total_transacciones": "56",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "yahoo.co.uk",
+  "total_transacciones": "49",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "hotmail.de",
+  "total_transacciones": "43",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "servicios-ta.com",
+  "total_transacciones": "35",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "P_emaildomain",
+  "dominio": "yahoo.co.jp",
+  "total_transacciones": "32",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "NULL",
+  "total_transacciones": "453249",
+  "transacciones_fraudulentas": "9436",
+  "tasa_fraude": "2.082"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "gmail.com",
+  "total_transacciones": "57147",
+  "transacciones_fraudulentas": "6811",
+  "tasa_fraude": "11.918"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "hotmail.com",
+  "total_transacciones": "27509",
+  "transacciones_fraudulentas": "2140",
+  "tasa_fraude": "7.779"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "anonymous.com",
+  "total_transacciones": "20529",
+  "transacciones_fraudulentas": "598",
+  "tasa_fraude": "2.913"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "yahoo.com",
+  "total_transacciones": "11842",
+  "transacciones_fraudulentas": "610",
+  "tasa_fraude": "5.151"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "aol.com",
+  "total_transacciones": "3701",
+  "transacciones_fraudulentas": "129",
+  "tasa_fraude": "3.486"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "outlook.com",
+  "total_transacciones": "2507",
+  "transacciones_fraudulentas": "414",
+  "tasa_fraude": "16.514"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "comcast.net",
+  "total_transacciones": "1812",
+  "transacciones_fraudulentas": "21",
+  "tasa_fraude": "1.159"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "yahoo.com.mx",
+  "total_transacciones": "1508",
+  "transacciones_fraudulentas": "16",
+  "tasa_fraude": "1.061"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "icloud.com",
+  "total_transacciones": "1398",
+  "transacciones_fraudulentas": "180",
+  "tasa_fraude": "12.876"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "msn.com",
+  "total_transacciones": "852",
+  "transacciones_fraudulentas": "1",
+  "tasa_fraude": "0.117"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "live.com",
+  "total_transacciones": "762",
+  "transacciones_fraudulentas": "38",
+  "tasa_fraude": "4.987"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "live.com.mx",
+  "total_transacciones": "754",
+  "transacciones_fraudulentas": "44",
+  "tasa_fraude": "5.836"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "verizon.net",
+  "total_transacciones": "620",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "me.com",
+  "total_transacciones": "556",
+  "transacciones_fraudulentas": "11",
+  "tasa_fraude": "1.978"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "sbcglobal.net",
+  "total_transacciones": "552",
+  "transacciones_fraudulentas": "1",
+  "tasa_fraude": "0.181"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "cox.net",
+  "total_transacciones": "459",
+  "transacciones_fraudulentas": "11",
+  "tasa_fraude": "2.397"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "outlook.es",
+  "total_transacciones": "433",
+  "transacciones_fraudulentas": "57",
+  "tasa_fraude": "13.164"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "att.net",
+  "total_transacciones": "430",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "bellsouth.net",
+  "total_transacciones": "422",
+  "transacciones_fraudulentas": "2",
+  "tasa_fraude": "0.474"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "hotmail.fr",
+  "total_transacciones": "293",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "hotmail.es",
+  "total_transacciones": "292",
+  "transacciones_fraudulentas": "20",
+  "tasa_fraude": "6.849"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "web.de",
+  "total_transacciones": "237",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "mac.com",
+  "total_transacciones": "218",
+  "transacciones_fraudulentas": "2",
+  "tasa_fraude": "0.917"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "prodigy.net.mx",
+  "total_transacciones": "207",
+  "transacciones_fraudulentas": "1",
+  "tasa_fraude": "0.483"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "ymail.com",
+  "total_transacciones": "207",
+  "transacciones_fraudulentas": "8",
+  "tasa_fraude": "3.865"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "optonline.net",
+  "total_transacciones": "187",
+  "transacciones_fraudulentas": "2",
+  "tasa_fraude": "1.07"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "gmx.de",
+  "total_transacciones": "147",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "yahoo.fr",
+  "total_transacciones": "137",
+  "transacciones_fraudulentas": "5",
+  "tasa_fraude": "3.65"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "charter.net",
+  "total_transacciones": "127",
+  "transacciones_fraudulentas": "5",
+  "tasa_fraude": "3.937"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "mail.com",
+  "total_transacciones": "122",
+  "transacciones_fraudulentas": "46",
+  "tasa_fraude": "37.705"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "hotmail.co.uk",
+  "total_transacciones": "105",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "gmail",
+  "total_transacciones": "95",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "earthlink.net",
+  "total_transacciones": "79",
+  "transacciones_fraudulentas": "6",
+  "tasa_fraude": "7.595"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "yahoo.de",
+  "total_transacciones": "75",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "rocketmail.com",
+  "total_transacciones": "69",
+  "transacciones_fraudulentas": "3",
+  "tasa_fraude": "4.348"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "embarqmail.com",
+  "total_transacciones": "68",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "scranton.edu",
+  "total_transacciones": "63",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "yahoo.es",
+  "total_transacciones": "57",
+  "transacciones_fraudulentas": "2",
+  "tasa_fraude": "3.509"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "live.fr",
+  "total_transacciones": "55",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "roadrunner.com",
+  "total_transacciones": "53",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "juno.com",
+  "total_transacciones": "53",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "frontier.com",
+  "total_transacciones": "52",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "windstream.net",
+  "total_transacciones": "47",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "hotmail.de",
+  "total_transacciones": "42",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "protonmail.com",
+  "total_transacciones": "41",
+  "transacciones_fraudulentas": "39",
+  "tasa_fraude": "95.122"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "yahoo.co.uk",
+  "total_transacciones": "39",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "cfl.rr.com",
+  "total_transacciones": "37",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "aim.com",
+  "total_transacciones": "36",
+  "transacciones_fraudulentas": "1",
+  "tasa_fraude": "2.778"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "servicios-ta.com",
+  "total_transacciones": "35",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "yahoo.co.jp",
+  "total_transacciones": "33",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "twc.com",
+  "total_transacciones": "29",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "cableone.net",
+  "total_transacciones": "27",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "ptd.net",
+  "total_transacciones": "27",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "q.com",
+  "total_transacciones": "25",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "suddenlink.net",
+  "total_transacciones": "25",
+  "transacciones_fraudulentas": "1",
+  "tasa_fraude": "4.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "frontiernet.net",
+  "total_transacciones": "14",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "netzero.com",
+  "total_transacciones": "14",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "centurylink.net",
+  "total_transacciones": "12",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "netzero.net",
+  "total_transacciones": "9",
+  "transacciones_fraudulentas": "2",
+  "tasa_fraude": "22.222"
+}, {
+  "variable": "R_emaildomain",
+  "dominio": "sc.rr.com",
+  "total_transacciones": "8",
+  "transacciones_fraudulentas": "0",
+  "tasa_fraude": "0.0"
+}]

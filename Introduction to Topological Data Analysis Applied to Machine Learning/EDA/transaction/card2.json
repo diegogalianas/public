@@ -1,0 +1,1821 @@
+[{
+  "card2": "289.0",
+  "total_transacciones": "118",
+  "fraudes": "48",
+  "tasa_fraude": "40.678"
+}, {
+  "card2": "405.0",
+  "total_transacciones": "228",
+  "fraudes": "92",
+  "tasa_fraude": "40.351"
+}, {
+  "card2": "319.0",
+  "total_transacciones": "100",
+  "fraudes": "39",
+  "tasa_fraude": "39.0"
+}, {
+  "card2": "176.0",
+  "total_transacciones": "513",
+  "fraudes": "185",
+  "tasa_fraude": "36.062"
+}, {
+  "card2": "482.0",
+  "total_transacciones": "168",
+  "fraudes": "55",
+  "tasa_fraude": "32.738"
+}, {
+  "card2": "311.0",
+  "total_transacciones": "289",
+  "fraudes": "81",
+  "tasa_fraude": "28.028"
+}, {
+  "card2": "104.0",
+  "total_transacciones": "754",
+  "fraudes": "187",
+  "tasa_fraude": "24.801"
+}, {
+  "card2": "324.0",
+  "total_transacciones": "331",
+  "fraudes": "80",
+  "tasa_fraude": "24.169"
+}, {
+  "card2": "177.0",
+  "total_transacciones": "1642",
+  "fraudes": "396",
+  "tasa_fraude": "24.117"
+}, {
+  "card2": "142.0",
+  "total_transacciones": "1685",
+  "fraudes": "405",
+  "tasa_fraude": "24.036"
+}, {
+  "card2": "130.0",
+  "total_transacciones": "2746",
+  "fraudes": "657",
+  "tasa_fraude": "23.926"
+}, {
+  "card2": "141.0",
+  "total_transacciones": "279",
+  "fraudes": "66",
+  "tasa_fraude": "23.656"
+}, {
+  "card2": "585.0",
+  "total_transacciones": "395",
+  "fraudes": "83",
+  "tasa_fraude": "21.013"
+}, {
+  "card2": "459.0",
+  "total_transacciones": "677",
+  "fraudes": "135",
+  "tasa_fraude": "19.941"
+}, {
+  "card2": "211.0",
+  "total_transacciones": "101",
+  "fraudes": "20",
+  "tasa_fraude": "19.802"
+}, {
+  "card2": "156.0",
+  "total_transacciones": "102",
+  "fraudes": "20",
+  "tasa_fraude": "19.608"
+}, {
+  "card2": "341.0",
+  "total_transacciones": "285",
+  "fraudes": "55",
+  "tasa_fraude": "19.298"
+}, {
+  "card2": "296.0",
+  "total_transacciones": "2516",
+  "fraudes": "483",
+  "tasa_fraude": "19.197"
+}, {
+  "card2": "266.0",
+  "total_transacciones": "872",
+  "fraudes": "167",
+  "tasa_fraude": "19.151"
+}, {
+  "card2": "500.0",
+  "total_transacciones": "5045",
+  "fraudes": "911",
+  "tasa_fraude": "18.057"
+}, {
+  "card2": "529.0",
+  "total_transacciones": "754",
+  "fraudes": "136",
+  "tasa_fraude": "18.037"
+}, {
+  "card2": "238.0",
+  "total_transacciones": "157",
+  "fraudes": "28",
+  "tasa_fraude": "17.834"
+}, {
+  "card2": "463.0",
+  "total_transacciones": "146",
+  "fraudes": "26",
+  "tasa_fraude": "17.808"
+}, {
+  "card2": "279.0",
+  "total_transacciones": "113",
+  "fraudes": "20",
+  "tasa_fraude": "17.699"
+}, {
+  "card2": "440.0",
+  "total_transacciones": "329",
+  "fraudes": "54",
+  "tasa_fraude": "16.413"
+}, {
+  "card2": "273.0",
+  "total_transacciones": "195",
+  "fraudes": "30",
+  "tasa_fraude": "15.385"
+}, {
+  "card2": "246.0",
+  "total_transacciones": "131",
+  "fraudes": "20",
+  "tasa_fraude": "15.267"
+}, {
+  "card2": "271.0",
+  "total_transacciones": "481",
+  "fraudes": "65",
+  "tasa_fraude": "13.514"
+}, {
+  "card2": "202.0",
+  "total_transacciones": "491",
+  "fraudes": "63",
+  "tasa_fraude": "12.831"
+}, {
+  "card2": "491.0",
+  "total_transacciones": "258",
+  "fraudes": "27",
+  "tasa_fraude": "10.465"
+}, {
+  "card2": "515.0",
+  "total_transacciones": "117",
+  "fraudes": "12",
+  "tasa_fraude": "10.256"
+}, {
+  "card2": "103.0",
+  "total_transacciones": "3468",
+  "fraudes": "345",
+  "tasa_fraude": "9.948"
+}, {
+  "card2": "307.0",
+  "total_transacciones": "182",
+  "fraudes": "18",
+  "tasa_fraude": "9.89"
+}, {
+  "card2": "548.0",
+  "total_transacciones": "1082",
+  "fraudes": "107",
+  "tasa_fraude": "9.889"
+}, {
+  "card2": "277.0",
+  "total_transacciones": "254",
+  "fraudes": "25",
+  "tasa_fraude": "9.843"
+}, {
+  "card2": "168.0",
+  "total_transacciones": "210",
+  "fraudes": "20",
+  "tasa_fraude": "9.524"
+}, {
+  "card2": "354.0",
+  "total_transacciones": "118",
+  "fraudes": "11",
+  "tasa_fraude": "9.322"
+}, {
+  "card2": "123.0",
+  "total_transacciones": "111",
+  "fraudes": "10",
+  "tasa_fraude": "9.009"
+}, {
+  "card2": "327.0",
+  "total_transacciones": "5100",
+  "fraudes": "452",
+  "tasa_fraude": "8.863"
+}, {
+  "card2": "528.0",
+  "total_transacciones": "876",
+  "fraudes": "77",
+  "tasa_fraude": "8.79"
+}, {
+  "card2": "204.0",
+  "total_transacciones": "2994",
+  "fraudes": "262",
+  "tasa_fraude": "8.751"
+}, {
+  "card2": "545.0",
+  "total_transacciones": "16355",
+  "fraudes": "1420",
+  "tasa_fraude": "8.682"
+}, {
+  "card2": "408.0",
+  "total_transacciones": "8012",
+  "fraudes": "673",
+  "tasa_fraude": "8.4"
+}, {
+  "card2": "160.0",
+  "total_transacciones": "264",
+  "fraudes": "22",
+  "tasa_fraude": "8.333"
+}, {
+  "card2": "375.0",
+  "total_transacciones": "5473",
+  "fraudes": "438",
+  "tasa_fraude": "8.003"
+}, {
+  "card2": "284.0",
+  "total_transacciones": "202",
+  "fraudes": "16",
+  "tasa_fraude": "7.921"
+}, {
+  "card2": "536.0",
+  "total_transacciones": "304",
+  "fraudes": "23",
+  "tasa_fraude": "7.566"
+}, {
+  "card2": "119.0",
+  "total_transacciones": "231",
+  "fraudes": "16",
+  "tasa_fraude": "6.926"
+}, {
+  "card2": "537.0",
+  "total_transacciones": "263",
+  "fraudes": "18",
+  "tasa_fraude": "6.844"
+}, {
+  "card2": "404.0",
+  "total_transacciones": "3056",
+  "fraudes": "199",
+  "tasa_fraude": "6.512"
+}, {
+  "card2": "453.0",
+  "total_transacciones": "2597",
+  "fraudes": "169",
+  "tasa_fraude": "6.508"
+}, {
+  "card2": "308.0",
+  "total_transacciones": "277",
+  "fraudes": "18",
+  "tasa_fraude": "6.498"
+}, {
+  "card2": "439.0",
+  "total_transacciones": "159",
+  "fraudes": "10",
+  "tasa_fraude": "6.289"
+}, {
+  "card2": "216.0",
+  "total_transacciones": "929",
+  "fraudes": "57",
+  "tasa_fraude": "6.136"
+}, {
+  "card2": "594.0",
+  "total_transacciones": "212",
+  "fraudes": "13",
+  "tasa_fraude": "6.132"
+}, {
+  "card2": "181.0",
+  "total_transacciones": "1655",
+  "fraudes": "92",
+  "tasa_fraude": "5.559"
+}, {
+  "card2": "231.0",
+  "total_transacciones": "289",
+  "fraudes": "16",
+  "tasa_fraude": "5.536"
+}, {
+  "card2": "544.0",
+  "total_transacciones": "146",
+  "fraudes": "8",
+  "tasa_fraude": "5.479"
+}, {
+  "card2": "387.0",
+  "total_transacciones": "667",
+  "fraudes": "36",
+  "tasa_fraude": "5.397"
+}, {
+  "card2": "384.0",
+  "total_transacciones": "149",
+  "fraudes": "8",
+  "tasa_fraude": "5.369"
+}, {
+  "card2": "299.0",
+  "total_transacciones": "205",
+  "fraudes": "11",
+  "tasa_fraude": "5.366"
+}, {
+  "card2": "547.0",
+  "total_transacciones": "243",
+  "fraudes": "13",
+  "tasa_fraude": "5.35"
+}, {
+  "card2": "443.0",
+  "total_transacciones": "113",
+  "fraudes": "6",
+  "tasa_fraude": "5.31"
+}, {
+  "card2": "228.0",
+  "total_transacciones": "173",
+  "fraudes": "9",
+  "tasa_fraude": "5.202"
+}, {
+  "card2": "565.0",
+  "total_transacciones": "311",
+  "fraudes": "16",
+  "tasa_fraude": "5.145"
+}, {
+  "card2": "154.0",
+  "total_transacciones": "158",
+  "fraudes": "8",
+  "tasa_fraude": "5.063"
+}, {
+  "card2": "553.0",
+  "total_transacciones": "6495",
+  "fraudes": "328",
+  "tasa_fraude": "5.05"
+}, {
+  "card2": "385.0",
+  "total_transacciones": "668",
+  "fraudes": "33",
+  "tasa_fraude": "4.94"
+}, {
+  "card2": "502.0",
+  "total_transacciones": "142",
+  "fraudes": "7",
+  "tasa_fraude": "4.93"
+}, {
+  "card2": "158.0",
+  "total_transacciones": "1149",
+  "fraudes": "55",
+  "tasa_fraude": "4.787"
+}, {
+  "card2": null,
+  "total_transacciones": "8933",
+  "fraudes": "423",
+  "tasa_fraude": "4.735"
+}, {
+  "card2": "549.0",
+  "total_transacciones": "428",
+  "fraudes": "20",
+  "tasa_fraude": "4.673"
+}, {
+  "card2": "514.0",
+  "total_transacciones": "14541",
+  "fraudes": "672",
+  "tasa_fraude": "4.621"
+}, {
+  "card2": "239.0",
+  "total_transacciones": "314",
+  "fraudes": "14",
+  "tasa_fraude": "4.459"
+}, {
+  "card2": "579.0",
+  "total_transacciones": "957",
+  "fraudes": "42",
+  "tasa_fraude": "4.389"
+}, {
+  "card2": "118.0",
+  "total_transacciones": "185",
+  "fraudes": "8",
+  "tasa_fraude": "4.324"
+}, {
+  "card2": "221.0",
+  "total_transacciones": "139",
+  "fraudes": "6",
+  "tasa_fraude": "4.317"
+}, {
+  "card2": "417.0",
+  "total_transacciones": "2340",
+  "fraudes": "99",
+  "tasa_fraude": "4.231"
+}, {
+  "card2": "583.0",
+  "total_transacciones": "21803",
+  "fraudes": "899",
+  "tasa_fraude": "4.123"
+}, {
+  "card2": "474.0",
+  "total_transacciones": "414",
+  "fraudes": "17",
+  "tasa_fraude": "4.106"
+}, {
+  "card2": "134.0",
+  "total_transacciones": "490",
+  "fraudes": "20",
+  "tasa_fraude": "4.082"
+}, {
+  "card2": "572.0",
+  "total_transacciones": "303",
+  "fraudes": "12",
+  "tasa_fraude": "3.96"
+}, {
+  "card2": "478.0",
+  "total_transacciones": "645",
+  "fraudes": "25",
+  "tasa_fraude": "3.876"
+}, {
+  "card2": "224.0",
+  "total_transacciones": "259",
+  "fraudes": "10",
+  "tasa_fraude": "3.861"
+}, {
+  "card2": "346.0",
+  "total_transacciones": "978",
+  "fraudes": "37",
+  "tasa_fraude": "3.783"
+}, {
+  "card2": "159.0",
+  "total_transacciones": "159",
+  "fraudes": "6",
+  "tasa_fraude": "3.774"
+}, {
+  "card2": "301.0",
+  "total_transacciones": "162",
+  "fraudes": "6",
+  "tasa_fraude": "3.704"
+}, {
+  "card2": "422.0",
+  "total_transacciones": "304",
+  "fraudes": "11",
+  "tasa_fraude": "3.618"
+}, {
+  "card2": "501.0",
+  "total_transacciones": "257",
+  "fraudes": "9",
+  "tasa_fraude": "3.502"
+}, {
+  "card2": "566.0",
+  "total_transacciones": "261",
+  "fraudes": "9",
+  "tasa_fraude": "3.448"
+}, {
+  "card2": "562.0",
+  "total_transacciones": "3756",
+  "fraudes": "129",
+  "tasa_fraude": "3.435"
+}, {
+  "card2": "507.0",
+  "total_transacciones": "328",
+  "fraudes": "11",
+  "tasa_fraude": "3.354"
+}, {
+  "card2": "480.0",
+  "total_transacciones": "1090",
+  "fraudes": "35",
+  "tasa_fraude": "3.211"
+}, {
+  "card2": "475.0",
+  "total_transacciones": "219",
+  "fraudes": "7",
+  "tasa_fraude": "3.196"
+}, {
+  "card2": "550.0",
+  "total_transacciones": "376",
+  "fraudes": "12",
+  "tasa_fraude": "3.191"
+}, {
+  "card2": "205.0",
+  "total_transacciones": "505",
+  "fraudes": "16",
+  "tasa_fraude": "3.168"
+}, {
+  "card2": "381.0",
+  "total_transacciones": "381",
+  "fraudes": "12",
+  "tasa_fraude": "3.15"
+}, {
+  "card2": "269.0",
+  "total_transacciones": "3338",
+  "fraudes": "105",
+  "tasa_fraude": "3.146"
+}, {
+  "card2": "170.0",
+  "total_transacciones": "18214",
+  "fraudes": "570",
+  "tasa_fraude": "3.129"
+}, {
+  "card2": "247.0",
+  "total_transacciones": "905",
+  "fraudes": "28",
+  "tasa_fraude": "3.094"
+}, {
+  "card2": "274.0",
+  "total_transacciones": "133",
+  "fraudes": "4",
+  "tasa_fraude": "3.008"
+}, {
+  "card2": "481.0",
+  "total_transacciones": "6336",
+  "fraudes": "186",
+  "tasa_fraude": "2.936"
+}, {
+  "card2": "445.0",
+  "total_transacciones": "2430",
+  "fraudes": "70",
+  "tasa_fraude": "2.881"
+}, {
+  "card2": "479.0",
+  "total_transacciones": "592",
+  "fraudes": "17",
+  "tasa_fraude": "2.872"
+}, {
+  "card2": "128.0",
+  "total_transacciones": "105",
+  "fraudes": "3",
+  "tasa_fraude": "2.857"
+}, {
+  "card2": "321.0",
+  "total_transacciones": "48935",
+  "fraudes": "1396",
+  "tasa_fraude": "2.853"
+}, {
+  "card2": "226.0",
+  "total_transacciones": "386",
+  "fraudes": "11",
+  "tasa_fraude": "2.85"
+}, {
+  "card2": "399.0",
+  "total_transacciones": "7180",
+  "fraudes": "204",
+  "tasa_fraude": "2.841"
+}, {
+  "card2": "265.0",
+  "total_transacciones": "252",
+  "fraudes": "7",
+  "tasa_fraude": "2.778"
+}, {
+  "card2": "225.0",
+  "total_transacciones": "7445",
+  "fraudes": "204",
+  "tasa_fraude": "2.74"
+}, {
+  "card2": "382.0",
+  "total_transacciones": "113",
+  "fraudes": "3",
+  "tasa_fraude": "2.655"
+}, {
+  "card2": "336.0",
+  "total_transacciones": "153",
+  "fraudes": "4",
+  "tasa_fraude": "2.614"
+}, {
+  "card2": "113.0",
+  "total_transacciones": "347",
+  "fraudes": "9",
+  "tasa_fraude": "2.594"
+}, {
+  "card2": "315.0",
+  "total_transacciones": "235",
+  "fraudes": "6",
+  "tasa_fraude": "2.553"
+}, {
+  "card2": "444.0",
+  "total_transacciones": "157",
+  "fraudes": "4",
+  "tasa_fraude": "2.548"
+}, {
+  "card2": "174.0",
+  "total_transacciones": "11310",
+  "fraudes": "288",
+  "tasa_fraude": "2.546"
+}, {
+  "card2": "155.0",
+  "total_transacciones": "317",
+  "fraudes": "8",
+  "tasa_fraude": "2.524"
+}, {
+  "card2": "442.0",
+  "total_transacciones": "647",
+  "fraudes": "16",
+  "tasa_fraude": "2.473"
+}, {
+  "card2": "560.0",
+  "total_transacciones": "243",
+  "fraudes": "6",
+  "tasa_fraude": "2.469"
+}, {
+  "card2": "267.0",
+  "total_transacciones": "122",
+  "fraudes": "3",
+  "tasa_fraude": "2.459"
+}, {
+  "card2": "218.0",
+  "total_transacciones": "204",
+  "fraudes": "5",
+  "tasa_fraude": "2.451"
+}, {
+  "card2": "264.0",
+  "total_transacciones": "2746",
+  "fraudes": "67",
+  "tasa_fraude": "2.44"
+}, {
+  "card2": "490.0",
+  "total_transacciones": "38145",
+  "fraudes": "916",
+  "tasa_fraude": "2.401"
+}, {
+  "card2": "310.0",
+  "total_transacciones": "3255",
+  "fraudes": "77",
+  "tasa_fraude": "2.366"
+}, {
+  "card2": "298.0",
+  "total_transacciones": "4356",
+  "fraudes": "101",
+  "tasa_fraude": "2.319"
+}, {
+  "card2": "555.0",
+  "total_transacciones": "41995",
+  "fraudes": "959",
+  "tasa_fraude": "2.284"
+}, {
+  "card2": "322.0",
+  "total_transacciones": "543",
+  "fraudes": "12",
+  "tasa_fraude": "2.21"
+}, {
+  "card2": "542.0",
+  "total_transacciones": "182",
+  "fraudes": "4",
+  "tasa_fraude": "2.198"
+}, {
+  "card2": "272.0",
+  "total_transacciones": "415",
+  "fraudes": "9",
+  "tasa_fraude": "2.169"
+}, {
+  "card2": "343.0",
+  "total_transacciones": "1063",
+  "fraudes": "23",
+  "tasa_fraude": "2.164"
+}, {
+  "card2": "111.0",
+  "total_transacciones": "45191",
+  "fraudes": "978",
+  "tasa_fraude": "2.164"
+}, {
+  "card2": "127.0",
+  "total_transacciones": "1350",
+  "fraudes": "29",
+  "tasa_fraude": "2.148"
+}, {
+  "card2": "520.0",
+  "total_transacciones": "522",
+  "fraudes": "11",
+  "tasa_fraude": "2.107"
+}, {
+  "card2": "393.0",
+  "total_transacciones": "1933",
+  "fraudes": "40",
+  "tasa_fraude": "2.069"
+}, {
+  "card2": "303.0",
+  "total_transacciones": "632",
+  "fraudes": "13",
+  "tasa_fraude": "2.057"
+}, {
+  "card2": "295.0",
+  "total_transacciones": "246",
+  "fraudes": "5",
+  "tasa_fraude": "2.033"
+}, {
+  "card2": "359.0",
+  "total_transacciones": "197",
+  "fraudes": "4",
+  "tasa_fraude": "2.03"
+}, {
+  "card2": "512.0",
+  "total_transacciones": "10126",
+  "fraudes": "200",
+  "tasa_fraude": "1.975"
+}, {
+  "card2": "250.0",
+  "total_transacciones": "2688",
+  "fraudes": "53",
+  "tasa_fraude": "1.972"
+}, {
+  "card2": "494.0",
+  "total_transacciones": "3136",
+  "fraudes": "61",
+  "tasa_fraude": "1.945"
+}, {
+  "card2": "413.0",
+  "total_transacciones": "103",
+  "fraudes": "2",
+  "tasa_fraude": "1.942"
+}, {
+  "card2": "414.0",
+  "total_transacciones": "413",
+  "fraudes": "8",
+  "tasa_fraude": "1.937"
+}, {
+  "card2": "161.0",
+  "total_transacciones": "3541",
+  "fraudes": "67",
+  "tasa_fraude": "1.892"
+}, {
+  "card2": "245.0",
+  "total_transacciones": "106",
+  "fraudes": "2",
+  "tasa_fraude": "1.887"
+}, {
+  "card2": "379.0",
+  "total_transacciones": "107",
+  "fraudes": "2",
+  "tasa_fraude": "1.869"
+}, {
+  "card2": "348.0",
+  "total_transacciones": "270",
+  "fraudes": "5",
+  "tasa_fraude": "1.852"
+}, {
+  "card2": "588.0",
+  "total_transacciones": "162",
+  "fraudes": "3",
+  "tasa_fraude": "1.852"
+}, {
+  "card2": "116.0",
+  "total_transacciones": "109",
+  "fraudes": "2",
+  "tasa_fraude": "1.835"
+}, {
+  "card2": "449.0",
+  "total_transacciones": "386",
+  "fraudes": "7",
+  "tasa_fraude": "1.813"
+}, {
+  "card2": "371.0",
+  "total_transacciones": "280",
+  "fraudes": "5",
+  "tasa_fraude": "1.786"
+}, {
+  "card2": "400.0",
+  "total_transacciones": "282",
+  "fraudes": "5",
+  "tasa_fraude": "1.773"
+}, {
+  "card2": "595.0",
+  "total_transacciones": "734",
+  "fraudes": "13",
+  "tasa_fraude": "1.771"
+}, {
+  "card2": "164.0",
+  "total_transacciones": "113",
+  "fraudes": "2",
+  "tasa_fraude": "1.77"
+}, {
+  "card2": "345.0",
+  "total_transacciones": "346",
+  "fraudes": "6",
+  "tasa_fraude": "1.734"
+}, {
+  "card2": "361.0",
+  "total_transacciones": "7827",
+  "fraudes": "135",
+  "tasa_fraude": "1.725"
+}, {
+  "card2": "532.0",
+  "total_transacciones": "2040",
+  "fraudes": "35",
+  "tasa_fraude": "1.716"
+}, {
+  "card2": "489.0",
+  "total_transacciones": "647",
+  "fraudes": "11",
+  "tasa_fraude": "1.7"
+}, {
+  "card2": "410.0",
+  "total_transacciones": "178",
+  "fraudes": "3",
+  "tasa_fraude": "1.685"
+}, {
+  "card2": "131.0",
+  "total_transacciones": "120",
+  "fraudes": "2",
+  "tasa_fraude": "1.667"
+}, {
+  "card2": "409.0",
+  "total_transacciones": "121",
+  "fraudes": "2",
+  "tasa_fraude": "1.653"
+}, {
+  "card2": "497.0",
+  "total_transacciones": "121",
+  "fraudes": "2",
+  "tasa_fraude": "1.653"
+}, {
+  "card2": "254.0",
+  "total_transacciones": "851",
+  "fraudes": "14",
+  "tasa_fraude": "1.645"
+}, {
+  "card2": "567.0",
+  "total_transacciones": "6137",
+  "fraudes": "100",
+  "tasa_fraude": "1.629"
+}, {
+  "card2": "484.0",
+  "total_transacciones": "185",
+  "fraudes": "3",
+  "tasa_fraude": "1.622"
+}, {
+  "card2": "426.0",
+  "total_transacciones": "187",
+  "fraudes": "3",
+  "tasa_fraude": "1.604"
+}, {
+  "card2": "383.0",
+  "total_transacciones": "1066",
+  "fraudes": "17",
+  "tasa_fraude": "1.595"
+}, {
+  "card2": "198.0",
+  "total_transacciones": "257",
+  "fraudes": "4",
+  "tasa_fraude": "1.556"
+}, {
+  "card2": "600.0",
+  "total_transacciones": "194",
+  "fraudes": "3",
+  "tasa_fraude": "1.546"
+}, {
+  "card2": "320.0",
+  "total_transacciones": "325",
+  "fraudes": "5",
+  "tasa_fraude": "1.538"
+}, {
+  "card2": "249.0",
+  "total_transacciones": "131",
+  "fraudes": "2",
+  "tasa_fraude": "1.527"
+}, {
+  "card2": "276.0",
+  "total_transacciones": "1010",
+  "fraudes": "15",
+  "tasa_fraude": "1.485"
+}, {
+  "card2": "215.0",
+  "total_transacciones": "7281",
+  "fraudes": "108",
+  "tasa_fraude": "1.483"
+}, {
+  "card2": "462.0",
+  "total_transacciones": "339",
+  "fraudes": "5",
+  "tasa_fraude": "1.475"
+}, {
+  "card2": "530.0",
+  "total_transacciones": "206",
+  "fraudes": "3",
+  "tasa_fraude": "1.456"
+}, {
+  "card2": "390.0",
+  "total_transacciones": "2896",
+  "fraudes": "42",
+  "tasa_fraude": "1.45"
+}, {
+  "card2": "411.0",
+  "total_transacciones": "414",
+  "fraudes": "6",
+  "tasa_fraude": "1.449"
+}, {
+  "card2": "178.0",
+  "total_transacciones": "208",
+  "fraudes": "3",
+  "tasa_fraude": "1.442"
+}, {
+  "card2": "355.0",
+  "total_transacciones": "279",
+  "fraudes": "4",
+  "tasa_fraude": "1.434"
+}, {
+  "card2": "418.0",
+  "total_transacciones": "1846",
+  "fraudes": "26",
+  "tasa_fraude": "1.408"
+}, {
+  "card2": "157.0",
+  "total_transacciones": "145",
+  "fraudes": "2",
+  "tasa_fraude": "1.379"
+}, {
+  "card2": "364.0",
+  "total_transacciones": "146",
+  "fraudes": "2",
+  "tasa_fraude": "1.37"
+}, {
+  "card2": "180.0",
+  "total_transacciones": "147",
+  "fraudes": "2",
+  "tasa_fraude": "1.361"
+}, {
+  "card2": "122.0",
+  "total_transacciones": "2519",
+  "fraudes": "34",
+  "tasa_fraude": "1.35"
+}, {
+  "card2": "138.0",
+  "total_transacciones": "149",
+  "fraudes": "2",
+  "tasa_fraude": "1.342"
+}, {
+  "card2": "554.0",
+  "total_transacciones": "971",
+  "fraudes": "13",
+  "tasa_fraude": "1.339"
+}, {
+  "card2": "203.0",
+  "total_transacciones": "686",
+  "fraudes": "9",
+  "tasa_fraude": "1.312"
+}, {
+  "card2": "100.0",
+  "total_transacciones": "7570",
+  "fraudes": "97",
+  "tasa_fraude": "1.281"
+}, {
+  "card2": "441.0",
+  "total_transacciones": "160",
+  "fraudes": "2",
+  "tasa_fraude": "1.25"
+}, {
+  "card2": "470.0",
+  "total_transacciones": "1228",
+  "fraudes": "15",
+  "tasa_fraude": "1.221"
+}, {
+  "card2": "534.0",
+  "total_transacciones": "261",
+  "fraudes": "3",
+  "tasa_fraude": "1.149"
+}, {
+  "card2": "460.0",
+  "total_transacciones": "350",
+  "fraudes": "4",
+  "tasa_fraude": "1.143"
+}, {
+  "card2": "210.0",
+  "total_transacciones": "288",
+  "fraudes": "3",
+  "tasa_fraude": "1.042"
+}, {
+  "card2": "360.0",
+  "total_transacciones": "15190",
+  "fraudes": "158",
+  "tasa_fraude": "1.04"
+}, {
+  "card2": "477.0",
+  "total_transacciones": "289",
+  "fraudes": "3",
+  "tasa_fraude": "1.038"
+}, {
+  "card2": "172.0",
+  "total_transacciones": "194",
+  "fraudes": "2",
+  "tasa_fraude": "1.031"
+}, {
+  "card2": "525.0",
+  "total_transacciones": "198",
+  "fraudes": "2",
+  "tasa_fraude": "1.01"
+}, {
+  "card2": "455.0",
+  "total_transacciones": "2979",
+  "fraudes": "30",
+  "tasa_fraude": "1.007"
+}, {
+  "card2": "575.0",
+  "total_transacciones": "199",
+  "fraudes": "2",
+  "tasa_fraude": "1.005"
+}, {
+  "card2": "505.0",
+  "total_transacciones": "100",
+  "fraudes": "1",
+  "tasa_fraude": "1.0"
+}, {
+  "card2": "114.0",
+  "total_transacciones": "101",
+  "fraudes": "1",
+  "tasa_fraude": "0.99"
+}, {
+  "card2": "332.0",
+  "total_transacciones": "611",
+  "fraudes": "6",
+  "tasa_fraude": "0.982"
+}, {
+  "card2": "316.0",
+  "total_transacciones": "102",
+  "fraudes": "1",
+  "tasa_fraude": "0.98"
+}, {
+  "card2": "338.0",
+  "total_transacciones": "102",
+  "fraudes": "1",
+  "tasa_fraude": "0.98"
+}, {
+  "card2": "353.0",
+  "total_transacciones": "104",
+  "fraudes": "1",
+  "tasa_fraude": "0.962"
+}, {
+  "card2": "232.0",
+  "total_transacciones": "104",
+  "fraudes": "1",
+  "tasa_fraude": "0.962"
+}, {
+  "card2": "169.0",
+  "total_transacciones": "104",
+  "fraudes": "1",
+  "tasa_fraude": "0.962"
+}, {
+  "card2": "253.0",
+  "total_transacciones": "315",
+  "fraudes": "3",
+  "tasa_fraude": "0.952"
+}, {
+  "card2": "144.0",
+  "total_transacciones": "210",
+  "fraudes": "2",
+  "tasa_fraude": "0.952"
+}, {
+  "card2": "242.0",
+  "total_transacciones": "743",
+  "fraudes": "7",
+  "tasa_fraude": "0.942"
+}, {
+  "card2": "464.0",
+  "total_transacciones": "425",
+  "fraudes": "4",
+  "tasa_fraude": "0.941"
+}, {
+  "card2": "184.0",
+  "total_transacciones": "322",
+  "fraudes": "3",
+  "tasa_fraude": "0.932"
+}, {
+  "card2": "415.0",
+  "total_transacciones": "108",
+  "fraudes": "1",
+  "tasa_fraude": "0.926"
+}, {
+  "card2": "564.0",
+  "total_transacciones": "325",
+  "fraudes": "3",
+  "tasa_fraude": "0.923"
+}, {
+  "card2": "406.0",
+  "total_transacciones": "109",
+  "fraudes": "1",
+  "tasa_fraude": "0.917"
+}, {
+  "card2": "197.0",
+  "total_transacciones": "219",
+  "fraudes": "2",
+  "tasa_fraude": "0.913"
+}, {
+  "card2": "436.0",
+  "total_transacciones": "110",
+  "fraudes": "1",
+  "tasa_fraude": "0.909"
+}, {
+  "card2": "392.0",
+  "total_transacciones": "110",
+  "fraudes": "1",
+  "tasa_fraude": "0.909"
+}, {
+  "card2": "452.0",
+  "total_transacciones": "1682",
+  "fraudes": "15",
+  "tasa_fraude": "0.892"
+}, {
+  "card2": "498.0",
+  "total_transacciones": "340",
+  "fraudes": "3",
+  "tasa_fraude": "0.882"
+}, {
+  "card2": "366.0",
+  "total_transacciones": "114",
+  "fraudes": "1",
+  "tasa_fraude": "0.877"
+}, {
+  "card2": "165.0",
+  "total_transacciones": "116",
+  "fraudes": "1",
+  "tasa_fraude": "0.862"
+}, {
+  "card2": "523.0",
+  "total_transacciones": "235",
+  "fraudes": "2",
+  "tasa_fraude": "0.851"
+}, {
+  "card2": "270.0",
+  "total_transacciones": "595",
+  "fraudes": "5",
+  "tasa_fraude": "0.84"
+}, {
+  "card2": "365.0",
+  "total_transacciones": "120",
+  "fraudes": "1",
+  "tasa_fraude": "0.833"
+}, {
+  "card2": "429.0",
+  "total_transacciones": "126",
+  "fraudes": "1",
+  "tasa_fraude": "0.794"
+}, {
+  "card2": "561.0",
+  "total_transacciones": "382",
+  "fraudes": "3",
+  "tasa_fraude": "0.785"
+}, {
+  "card2": "194.0",
+  "total_transacciones": "16938",
+  "fraudes": "130",
+  "tasa_fraude": "0.768"
+}, {
+  "card2": "391.0",
+  "total_transacciones": "527",
+  "fraudes": "4",
+  "tasa_fraude": "0.759"
+}, {
+  "card2": "599.0",
+  "total_transacciones": "403",
+  "fraudes": "3",
+  "tasa_fraude": "0.744"
+}, {
+  "card2": "476.0",
+  "total_transacciones": "5822",
+  "fraudes": "43",
+  "tasa_fraude": "0.739"
+}, {
+  "card2": "268.0",
+  "total_transacciones": "6239",
+  "fraudes": "46",
+  "tasa_fraude": "0.737"
+}, {
+  "card2": "527.0",
+  "total_transacciones": "275",
+  "fraudes": "2",
+  "tasa_fraude": "0.727"
+}, {
+  "card2": "199.0",
+  "total_transacciones": "1385",
+  "fraudes": "10",
+  "tasa_fraude": "0.722"
+}, {
+  "card2": "145.0",
+  "total_transacciones": "139",
+  "fraudes": "1",
+  "tasa_fraude": "0.719"
+}, {
+  "card2": "148.0",
+  "total_transacciones": "560",
+  "fraudes": "4",
+  "tasa_fraude": "0.714"
+}, {
+  "card2": "300.0",
+  "total_transacciones": "707",
+  "fraudes": "5",
+  "tasa_fraude": "0.707"
+}, {
+  "card2": "257.0",
+  "total_transacciones": "143",
+  "fraudes": "1",
+  "tasa_fraude": "0.699"
+}, {
+  "card2": "586.0",
+  "total_transacciones": "293",
+  "fraudes": "2",
+  "tasa_fraude": "0.683"
+}, {
+  "card2": "297.0",
+  "total_transacciones": "441",
+  "fraudes": "3",
+  "tasa_fraude": "0.68"
+}, {
+  "card2": "435.0",
+  "total_transacciones": "149",
+  "fraudes": "1",
+  "tasa_fraude": "0.671"
+}, {
+  "card2": "556.0",
+  "total_transacciones": "450",
+  "fraudes": "3",
+  "tasa_fraude": "0.667"
+}, {
+  "card2": "543.0",
+  "total_transacciones": "5451",
+  "fraudes": "36",
+  "tasa_fraude": "0.66"
+}, {
+  "card2": "110.0",
+  "total_transacciones": "309",
+  "fraudes": "2",
+  "tasa_fraude": "0.647"
+}, {
+  "card2": "513.0",
+  "total_transacciones": "1085",
+  "fraudes": "7",
+  "tasa_fraude": "0.645"
+}, {
+  "card2": "492.0",
+  "total_transacciones": "312",
+  "fraudes": "2",
+  "tasa_fraude": "0.641"
+}, {
+  "card2": "294.0",
+  "total_transacciones": "156",
+  "fraudes": "1",
+  "tasa_fraude": "0.641"
+}, {
+  "card2": "454.0",
+  "total_transacciones": "314",
+  "fraudes": "2",
+  "tasa_fraude": "0.637"
+}, {
+  "card2": "351.0",
+  "total_transacciones": "158",
+  "fraudes": "1",
+  "tasa_fraude": "0.633"
+}, {
+  "card2": "570.0",
+  "total_transacciones": "162",
+  "fraudes": "1",
+  "tasa_fraude": "0.617"
+}, {
+  "card2": "438.0",
+  "total_transacciones": "165",
+  "fraudes": "1",
+  "tasa_fraude": "0.606"
+}, {
+  "card2": "420.0",
+  "total_transacciones": "827",
+  "fraudes": "5",
+  "tasa_fraude": "0.605"
+}, {
+  "card2": "236.0",
+  "total_transacciones": "685",
+  "fraudes": "4",
+  "tasa_fraude": "0.584"
+}, {
+  "card2": "314.0",
+  "total_transacciones": "689",
+  "fraudes": "4",
+  "tasa_fraude": "0.581"
+}, {
+  "card2": "467.0",
+  "total_transacciones": "175",
+  "fraudes": "1",
+  "tasa_fraude": "0.571"
+}, {
+  "card2": "206.0",
+  "total_transacciones": "4208",
+  "fraudes": "24",
+  "tasa_fraude": "0.57"
+}, {
+  "card2": "252.0",
+  "total_transacciones": "177",
+  "fraudes": "1",
+  "tasa_fraude": "0.565"
+}, {
+  "card2": "115.0",
+  "total_transacciones": "195",
+  "fraudes": "1",
+  "tasa_fraude": "0.513"
+}, {
+  "card2": "584.0",
+  "total_transacciones": "397",
+  "fraudes": "2",
+  "tasa_fraude": "0.504"
+}, {
+  "card2": "437.0",
+  "total_transacciones": "215",
+  "fraudes": "1",
+  "tasa_fraude": "0.465"
+}, {
+  "card2": "143.0",
+  "total_transacciones": "657",
+  "fraudes": "3",
+  "tasa_fraude": "0.457"
+}, {
+  "card2": "214.0",
+  "total_transacciones": "225",
+  "fraudes": "1",
+  "tasa_fraude": "0.444"
+}, {
+  "card2": "237.0",
+  "total_transacciones": "225",
+  "fraudes": "1",
+  "tasa_fraude": "0.444"
+}, {
+  "card2": "504.0",
+  "total_transacciones": "228",
+  "fraudes": "1",
+  "tasa_fraude": "0.439"
+}, {
+  "card2": "167.0",
+  "total_transacciones": "470",
+  "fraudes": "2",
+  "tasa_fraude": "0.426"
+}, {
+  "card2": "374.0",
+  "total_transacciones": "240",
+  "fraudes": "1",
+  "tasa_fraude": "0.417"
+}, {
+  "card2": "396.0",
+  "total_transacciones": "980",
+  "fraudes": "4",
+  "tasa_fraude": "0.408"
+}, {
+  "card2": "373.0",
+  "total_transacciones": "265",
+  "fraudes": "1",
+  "tasa_fraude": "0.377"
+}, {
+  "card2": "369.0",
+  "total_transacciones": "1881",
+  "fraudes": "7",
+  "tasa_fraude": "0.372"
+}, {
+  "card2": "533.0",
+  "total_transacciones": "270",
+  "fraudes": "1",
+  "tasa_fraude": "0.37"
+}, {
+  "card2": "152.0",
+  "total_transacciones": "301",
+  "fraudes": "1",
+  "tasa_fraude": "0.332"
+}, {
+  "card2": "325.0",
+  "total_transacciones": "336",
+  "fraudes": "1",
+  "tasa_fraude": "0.298"
+}, {
+  "card2": "333.0",
+  "total_transacciones": "344",
+  "fraudes": "1",
+  "tasa_fraude": "0.291"
+}, {
+  "card2": "350.0",
+  "total_transacciones": "375",
+  "fraudes": "1",
+  "tasa_fraude": "0.267"
+}, {
+  "card2": "517.0",
+  "total_transacciones": "1157",
+  "fraudes": "3",
+  "tasa_fraude": "0.259"
+}, {
+  "card2": "372.0",
+  "total_transacciones": "387",
+  "fraudes": "1",
+  "tasa_fraude": "0.258"
+}, {
+  "card2": "496.0",
+  "total_transacciones": "444",
+  "fraudes": "1",
+  "tasa_fraude": "0.225"
+}, {
+  "card2": "558.0",
+  "total_transacciones": "1482",
+  "fraudes": "3",
+  "tasa_fraude": "0.202"
+}, {
+  "card2": "428.0",
+  "total_transacciones": "988",
+  "fraudes": "2",
+  "tasa_fraude": "0.202"
+}, {
+  "card2": "318.0",
+  "total_transacciones": "542",
+  "fraudes": "1",
+  "tasa_fraude": "0.185"
+}, {
+  "card2": "431.0",
+  "total_transacciones": "557",
+  "fraudes": "1",
+  "tasa_fraude": "0.18"
+}, {
+  "card2": "275.0",
+  "total_transacciones": "648",
+  "fraudes": "1",
+  "tasa_fraude": "0.154"
+}, {
+  "card2": "302.0",
+  "total_transacciones": "1075",
+  "fraudes": "1",
+  "tasa_fraude": "0.093"
+}, {
+  "card2": "516.0",
+  "total_transacciones": "141",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "234.0",
+  "total_transacciones": "149",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "412.0",
+  "total_transacciones": "109",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "191.0",
+  "total_transacciones": "302",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "424.0",
+  "total_transacciones": "234",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "208.0",
+  "total_transacciones": "229",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "233.0",
+  "total_transacciones": "100",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "524.0",
+  "total_transacciones": "130",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "471.0",
+  "total_transacciones": "115",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "432.0",
+  "total_transacciones": "484",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "457.0",
+  "total_transacciones": "113",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "286.0",
+  "total_transacciones": "215",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "229.0",
+  "total_transacciones": "153",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "105.0",
+  "total_transacciones": "290",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "540.0",
+  "total_transacciones": "117",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "126.0",
+  "total_transacciones": "129",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "263.0",
+  "total_transacciones": "100",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "195.0",
+  "total_transacciones": "108",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "430.0",
+  "total_transacciones": "127",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "151.0",
+  "total_transacciones": "122",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "112.0",
+  "total_transacciones": "269",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "499.0",
+  "total_transacciones": "161",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "258.0",
+  "total_transacciones": "407",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "571.0",
+  "total_transacciones": "486",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "259.0",
+  "total_transacciones": "180",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "509.0",
+  "total_transacciones": "126",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "222.0",
+  "total_transacciones": "220",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "468.0",
+  "total_transacciones": "227",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "559.0",
+  "total_transacciones": "377",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "485.0",
+  "total_transacciones": "172",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "522.0",
+  "total_transacciones": "100",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "589.0",
+  "total_transacciones": "208",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "376.0",
+  "total_transacciones": "141",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "183.0",
+  "total_transacciones": "122",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "220.0",
+  "total_transacciones": "160",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "190.0",
+  "total_transacciones": "132",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "243.0",
+  "total_transacciones": "190",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "189.0",
+  "total_transacciones": "106",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "102.0",
+  "total_transacciones": "332",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "469.0",
+  "total_transacciones": "103",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "580.0",
+  "total_transacciones": "113",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "260.0",
+  "total_transacciones": "182",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "304.0",
+  "total_transacciones": "303",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "378.0",
+  "total_transacciones": "108",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "486.0",
+  "total_transacciones": "121",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "337.0",
+  "total_transacciones": "171",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "596.0",
+  "total_transacciones": "209",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "278.0",
+  "total_transacciones": "191",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "101.0",
+  "total_transacciones": "156",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "219.0",
+  "total_transacciones": "100",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "456.0",
+  "total_transacciones": "125",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "290.0",
+  "total_transacciones": "199",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "281.0",
+  "total_transacciones": "114",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "248.0",
+  "total_transacciones": "171",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "227.0",
+  "total_transacciones": "186",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "458.0",
+  "total_transacciones": "141",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "291.0",
+  "total_transacciones": "121",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "535.0",
+  "total_transacciones": "137",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "201.0",
+  "total_transacciones": "164",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "287.0",
+  "total_transacciones": "126",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "461.0",
+  "total_transacciones": "148",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "193.0",
+  "total_transacciones": "140",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "288.0",
+  "total_transacciones": "120",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "551.0",
+  "total_transacciones": "268",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "568.0",
+  "total_transacciones": "321",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "106.0",
+  "total_transacciones": "262",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "171.0",
+  "total_transacciones": "172",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "133.0",
+  "total_transacciones": "243",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "433.0",
+  "total_transacciones": "245",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "356.0",
+  "total_transacciones": "211",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "305.0",
+  "total_transacciones": "175",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "241.0",
+  "total_transacciones": "154",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "339.0",
+  "total_transacciones": "233",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "217.0",
+  "total_transacciones": "124",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "146.0",
+  "total_transacciones": "243",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "402.0",
+  "total_transacciones": "118",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "240.0",
+  "total_transacciones": "178",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "370.0",
+  "total_transacciones": "211",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "330.0",
+  "total_transacciones": "142",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "251.0",
+  "total_transacciones": "467",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "472.0",
+  "total_transacciones": "457",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}, {
+  "card2": "593.0",
+  "total_transacciones": "370",
+  "fraudes": "0",
+  "tasa_fraude": "0.0"
+}]

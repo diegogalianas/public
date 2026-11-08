@@ -1,0 +1,911 @@
+[{
+  "dia_relativo": "1",
+  "total_transacciones": "5122",
+  "fraudes": "112",
+  "porcentaje_fraude": "2.187"
+}, {
+  "dia_relativo": "2",
+  "total_transacciones": "3730",
+  "fraudes": "123",
+  "porcentaje_fraude": "3.298"
+}, {
+  "dia_relativo": "3",
+  "total_transacciones": "3241",
+  "fraudes": "92",
+  "porcentaje_fraude": "2.839"
+}, {
+  "dia_relativo": "4",
+  "total_transacciones": "4036",
+  "fraudes": "115",
+  "porcentaje_fraude": "2.849"
+}, {
+  "dia_relativo": "5",
+  "total_transacciones": "3964",
+  "fraudes": "127",
+  "porcentaje_fraude": "3.204"
+}, {
+  "dia_relativo": "6",
+  "total_transacciones": "3717",
+  "fraudes": "99",
+  "porcentaje_fraude": "2.663"
+}, {
+  "dia_relativo": "7",
+  "total_transacciones": "3786",
+  "fraudes": "136",
+  "porcentaje_fraude": "3.592"
+}, {
+  "dia_relativo": "8",
+  "total_transacciones": "3999",
+  "fraudes": "93",
+  "porcentaje_fraude": "2.326"
+}, {
+  "dia_relativo": "9",
+  "total_transacciones": "3907",
+  "fraudes": "119",
+  "porcentaje_fraude": "3.046"
+}, {
+  "dia_relativo": "10",
+  "total_transacciones": "3445",
+  "fraudes": "90",
+  "porcentaje_fraude": "2.612"
+}, {
+  "dia_relativo": "11",
+  "total_transacciones": "4319",
+  "fraudes": "123",
+  "porcentaje_fraude": "2.848"
+}, {
+  "dia_relativo": "12",
+  "total_transacciones": "4164",
+  "fraudes": "84",
+  "porcentaje_fraude": "2.017"
+}, {
+  "dia_relativo": "13",
+  "total_transacciones": "4183",
+  "fraudes": "82",
+  "porcentaje_fraude": "1.96"
+}, {
+  "dia_relativo": "14",
+  "total_transacciones": "4446",
+  "fraudes": "126",
+  "porcentaje_fraude": "2.834"
+}, {
+  "dia_relativo": "15",
+  "total_transacciones": "5034",
+  "fraudes": "143",
+  "porcentaje_fraude": "2.841"
+}, {
+  "dia_relativo": "16",
+  "total_transacciones": "4325",
+  "fraudes": "70",
+  "porcentaje_fraude": "1.618"
+}, {
+  "dia_relativo": "17",
+  "total_transacciones": "3805",
+  "fraudes": "126",
+  "porcentaje_fraude": "3.311"
+}, {
+  "dia_relativo": "18",
+  "total_transacciones": "5585",
+  "fraudes": "161",
+  "porcentaje_fraude": "2.883"
+}, {
+  "dia_relativo": "19",
+  "total_transacciones": "5526",
+  "fraudes": "118",
+  "porcentaje_fraude": "2.135"
+}, {
+  "dia_relativo": "20",
+  "total_transacciones": "5749",
+  "fraudes": "135",
+  "porcentaje_fraude": "2.348"
+}, {
+  "dia_relativo": "21",
+  "total_transacciones": "5677",
+  "fraudes": "116",
+  "porcentaje_fraude": "2.043"
+}, {
+  "dia_relativo": "22",
+  "total_transacciones": "6852",
+  "fraudes": "147",
+  "porcentaje_fraude": "2.145"
+}, {
+  "dia_relativo": "23",
+  "total_transacciones": "5872",
+  "fraudes": "106",
+  "porcentaje_fraude": "1.805"
+}, {
+  "dia_relativo": "24",
+  "total_transacciones": "6065",
+  "fraudes": "76",
+  "porcentaje_fraude": "1.253"
+}, {
+  "dia_relativo": "25",
+  "total_transacciones": "5742",
+  "fraudes": "63",
+  "porcentaje_fraude": "1.097"
+}, {
+  "dia_relativo": "26",
+  "total_transacciones": "3458",
+  "fraudes": "82",
+  "porcentaje_fraude": "2.371"
+}, {
+  "dia_relativo": "27",
+  "total_transacciones": "3585",
+  "fraudes": "100",
+  "porcentaje_fraude": "2.789"
+}, {
+  "dia_relativo": "28",
+  "total_transacciones": "3332",
+  "fraudes": "150",
+  "porcentaje_fraude": "4.502"
+}, {
+  "dia_relativo": "29",
+  "total_transacciones": "4302",
+  "fraudes": "129",
+  "porcentaje_fraude": "2.999"
+}, {
+  "dia_relativo": "30",
+  "total_transacciones": "3371",
+  "fraudes": "158",
+  "porcentaje_fraude": "4.687"
+}, {
+  "dia_relativo": "31",
+  "total_transacciones": "2982",
+  "fraudes": "149",
+  "porcentaje_fraude": "4.997"
+}, {
+  "dia_relativo": "32",
+  "total_transacciones": "2387",
+  "fraudes": "51",
+  "porcentaje_fraude": "2.137"
+}, {
+  "dia_relativo": "33",
+  "total_transacciones": "3403",
+  "fraudes": "123",
+  "porcentaje_fraude": "3.614"
+}, {
+  "dia_relativo": "34",
+  "total_transacciones": "4264",
+  "fraudes": "159",
+  "porcentaje_fraude": "3.729"
+}, {
+  "dia_relativo": "35",
+  "total_transacciones": "3830",
+  "fraudes": "120",
+  "porcentaje_fraude": "3.133"
+}, {
+  "dia_relativo": "36",
+  "total_transacciones": "3571",
+  "fraudes": "135",
+  "porcentaje_fraude": "3.78"
+}, {
+  "dia_relativo": "37",
+  "total_transacciones": "3030",
+  "fraudes": "126",
+  "porcentaje_fraude": "4.158"
+}, {
+  "dia_relativo": "38",
+  "total_transacciones": "2544",
+  "fraudes": "110",
+  "porcentaje_fraude": "4.324"
+}, {
+  "dia_relativo": "39",
+  "total_transacciones": "3017",
+  "fraudes": "117",
+  "porcentaje_fraude": "3.878"
+}, {
+  "dia_relativo": "40",
+  "total_transacciones": "2914",
+  "fraudes": "109",
+  "porcentaje_fraude": "3.741"
+}, {
+  "dia_relativo": "41",
+  "total_transacciones": "2962",
+  "fraudes": "121",
+  "porcentaje_fraude": "4.085"
+}, {
+  "dia_relativo": "42",
+  "total_transacciones": "2881",
+  "fraudes": "85",
+  "porcentaje_fraude": "2.95"
+}, {
+  "dia_relativo": "43",
+  "total_transacciones": "3606",
+  "fraudes": "160",
+  "porcentaje_fraude": "4.437"
+}, {
+  "dia_relativo": "44",
+  "total_transacciones": "2786",
+  "fraudes": "119",
+  "porcentaje_fraude": "4.271"
+}, {
+  "dia_relativo": "45",
+  "total_transacciones": "2300",
+  "fraudes": "100",
+  "porcentaje_fraude": "4.348"
+}, {
+  "dia_relativo": "46",
+  "total_transacciones": "2786",
+  "fraudes": "117",
+  "porcentaje_fraude": "4.2"
+}, {
+  "dia_relativo": "47",
+  "total_transacciones": "2971",
+  "fraudes": "91",
+  "porcentaje_fraude": "3.063"
+}, {
+  "dia_relativo": "48",
+  "total_transacciones": "3062",
+  "fraudes": "115",
+  "porcentaje_fraude": "3.756"
+}, {
+  "dia_relativo": "49",
+  "total_transacciones": "3053",
+  "fraudes": "121",
+  "porcentaje_fraude": "3.963"
+}, {
+  "dia_relativo": "50",
+  "total_transacciones": "3336",
+  "fraudes": "175",
+  "porcentaje_fraude": "5.246"
+}, {
+  "dia_relativo": "51",
+  "total_transacciones": "2826",
+  "fraudes": "148",
+  "porcentaje_fraude": "5.237"
+}, {
+  "dia_relativo": "52",
+  "total_transacciones": "2333",
+  "fraudes": "114",
+  "porcentaje_fraude": "4.886"
+}, {
+  "dia_relativo": "53",
+  "total_transacciones": "2908",
+  "fraudes": "79",
+  "porcentaje_fraude": "2.717"
+}, {
+  "dia_relativo": "54",
+  "total_transacciones": "2798",
+  "fraudes": "112",
+  "porcentaje_fraude": "4.003"
+}, {
+  "dia_relativo": "55",
+  "total_transacciones": "2771",
+  "fraudes": "76",
+  "porcentaje_fraude": "2.743"
+}, {
+  "dia_relativo": "56",
+  "total_transacciones": "2789",
+  "fraudes": "158",
+  "porcentaje_fraude": "5.665"
+}, {
+  "dia_relativo": "57",
+  "total_transacciones": "3274",
+  "fraudes": "109",
+  "porcentaje_fraude": "3.329"
+}, {
+  "dia_relativo": "58",
+  "total_transacciones": "2681",
+  "fraudes": "102",
+  "porcentaje_fraude": "3.805"
+}, {
+  "dia_relativo": "59",
+  "total_transacciones": "2402",
+  "fraudes": "168",
+  "porcentaje_fraude": "6.994"
+}, {
+  "dia_relativo": "60",
+  "total_transacciones": "2932",
+  "fraudes": "108",
+  "porcentaje_fraude": "3.683"
+}, {
+  "dia_relativo": "61",
+  "total_transacciones": "3111",
+  "fraudes": "112",
+  "porcentaje_fraude": "3.6"
+}, {
+  "dia_relativo": "62",
+  "total_transacciones": "3057",
+  "fraudes": "165",
+  "porcentaje_fraude": "5.397"
+}, {
+  "dia_relativo": "63",
+  "total_transacciones": "3975",
+  "fraudes": "163",
+  "porcentaje_fraude": "4.101"
+}, {
+  "dia_relativo": "64",
+  "total_transacciones": "4317",
+  "fraudes": "234",
+  "porcentaje_fraude": "5.42"
+}, {
+  "dia_relativo": "65",
+  "total_transacciones": "3209",
+  "fraudes": "183",
+  "porcentaje_fraude": "5.703"
+}, {
+  "dia_relativo": "66",
+  "total_transacciones": "2584",
+  "fraudes": "85",
+  "porcentaje_fraude": "3.289"
+}, {
+  "dia_relativo": "67",
+  "total_transacciones": "3223",
+  "fraudes": "120",
+  "porcentaje_fraude": "3.723"
+}, {
+  "dia_relativo": "68",
+  "total_transacciones": "3158",
+  "fraudes": "111",
+  "porcentaje_fraude": "3.515"
+}, {
+  "dia_relativo": "69",
+  "total_transacciones": "3130",
+  "fraudes": "118",
+  "porcentaje_fraude": "3.77"
+}, {
+  "dia_relativo": "70",
+  "total_transacciones": "2913",
+  "fraudes": "145",
+  "porcentaje_fraude": "4.978"
+}, {
+  "dia_relativo": "71",
+  "total_transacciones": "3267",
+  "fraudes": "152",
+  "porcentaje_fraude": "4.653"
+}, {
+  "dia_relativo": "72",
+  "total_transacciones": "2744",
+  "fraudes": "94",
+  "porcentaje_fraude": "3.426"
+}, {
+  "dia_relativo": "73",
+  "total_transacciones": "2304",
+  "fraudes": "135",
+  "porcentaje_fraude": "5.859"
+}, {
+  "dia_relativo": "74",
+  "total_transacciones": "3122",
+  "fraudes": "120",
+  "porcentaje_fraude": "3.844"
+}, {
+  "dia_relativo": "75",
+  "total_transacciones": "3054",
+  "fraudes": "110",
+  "porcentaje_fraude": "3.602"
+}, {
+  "dia_relativo": "76",
+  "total_transacciones": "3456",
+  "fraudes": "144",
+  "porcentaje_fraude": "4.167"
+}, {
+  "dia_relativo": "77",
+  "total_transacciones": "3006",
+  "fraudes": "125",
+  "porcentaje_fraude": "4.158"
+}, {
+  "dia_relativo": "78",
+  "total_transacciones": "3166",
+  "fraudes": "100",
+  "porcentaje_fraude": "3.159"
+}, {
+  "dia_relativo": "79",
+  "total_transacciones": "2688",
+  "fraudes": "113",
+  "porcentaje_fraude": "4.204"
+}, {
+  "dia_relativo": "80",
+  "total_transacciones": "2204",
+  "fraudes": "66",
+  "porcentaje_fraude": "2.995"
+}, {
+  "dia_relativo": "81",
+  "total_transacciones": "2863",
+  "fraudes": "105",
+  "porcentaje_fraude": "3.667"
+}, {
+  "dia_relativo": "82",
+  "total_transacciones": "2970",
+  "fraudes": "95",
+  "porcentaje_fraude": "3.199"
+}, {
+  "dia_relativo": "83",
+  "total_transacciones": "2934",
+  "fraudes": "81",
+  "porcentaje_fraude": "2.761"
+}, {
+  "dia_relativo": "84",
+  "total_transacciones": "3350",
+  "fraudes": "116",
+  "porcentaje_fraude": "3.463"
+}, {
+  "dia_relativo": "85",
+  "total_transacciones": "3574",
+  "fraudes": "187",
+  "porcentaje_fraude": "5.232"
+}, {
+  "dia_relativo": "86",
+  "total_transacciones": "2661",
+  "fraudes": "125",
+  "porcentaje_fraude": "4.697"
+}, {
+  "dia_relativo": "87",
+  "total_transacciones": "2549",
+  "fraudes": "99",
+  "porcentaje_fraude": "3.884"
+}, {
+  "dia_relativo": "88",
+  "total_transacciones": "3021",
+  "fraudes": "75",
+  "porcentaje_fraude": "2.483"
+}, {
+  "dia_relativo": "89",
+  "total_transacciones": "3226",
+  "fraudes": "114",
+  "porcentaje_fraude": "3.534"
+}, {
+  "dia_relativo": "90",
+  "total_transacciones": "3353",
+  "fraudes": "132",
+  "porcentaje_fraude": "3.937"
+}, {
+  "dia_relativo": "91",
+  "total_transacciones": "4007",
+  "fraudes": "180",
+  "porcentaje_fraude": "4.492"
+}, {
+  "dia_relativo": "92",
+  "total_transacciones": "6252",
+  "fraudes": "147",
+  "porcentaje_fraude": "2.351"
+}, {
+  "dia_relativo": "93",
+  "total_transacciones": "4524",
+  "fraudes": "151",
+  "porcentaje_fraude": "3.338"
+}, {
+  "dia_relativo": "94",
+  "total_transacciones": "2931",
+  "fraudes": "81",
+  "porcentaje_fraude": "2.764"
+}, {
+  "dia_relativo": "95",
+  "total_transacciones": "3711",
+  "fraudes": "150",
+  "porcentaje_fraude": "4.042"
+}, {
+  "dia_relativo": "96",
+  "total_transacciones": "3243",
+  "fraudes": "91",
+  "porcentaje_fraude": "2.806"
+}, {
+  "dia_relativo": "97",
+  "total_transacciones": "3102",
+  "fraudes": "135",
+  "porcentaje_fraude": "4.352"
+}, {
+  "dia_relativo": "98",
+  "total_transacciones": "3666",
+  "fraudes": "129",
+  "porcentaje_fraude": "3.519"
+}, {
+  "dia_relativo": "99",
+  "total_transacciones": "3301",
+  "fraudes": "105",
+  "porcentaje_fraude": "3.181"
+}, {
+  "dia_relativo": "100",
+  "total_transacciones": "3052",
+  "fraudes": "100",
+  "porcentaje_fraude": "3.277"
+}, {
+  "dia_relativo": "101",
+  "total_transacciones": "2500",
+  "fraudes": "68",
+  "porcentaje_fraude": "2.72"
+}, {
+  "dia_relativo": "102",
+  "total_transacciones": "3166",
+  "fraudes": "105",
+  "porcentaje_fraude": "3.316"
+}, {
+  "dia_relativo": "103",
+  "total_transacciones": "3101",
+  "fraudes": "97",
+  "porcentaje_fraude": "3.128"
+}, {
+  "dia_relativo": "104",
+  "total_transacciones": "3115",
+  "fraudes": "111",
+  "porcentaje_fraude": "3.563"
+}, {
+  "dia_relativo": "105",
+  "total_transacciones": "3034",
+  "fraudes": "132",
+  "porcentaje_fraude": "4.351"
+}, {
+  "dia_relativo": "106",
+  "total_transacciones": "3221",
+  "fraudes": "152",
+  "porcentaje_fraude": "4.719"
+}, {
+  "dia_relativo": "107",
+  "total_transacciones": "2809",
+  "fraudes": "127",
+  "porcentaje_fraude": "4.521"
+}, {
+  "dia_relativo": "108",
+  "total_transacciones": "2287",
+  "fraudes": "96",
+  "porcentaje_fraude": "4.198"
+}, {
+  "dia_relativo": "109",
+  "total_transacciones": "3151",
+  "fraudes": "133",
+  "porcentaje_fraude": "4.221"
+}, {
+  "dia_relativo": "110",
+  "total_transacciones": "3018",
+  "fraudes": "117",
+  "porcentaje_fraude": "3.877"
+}, {
+  "dia_relativo": "111",
+  "total_transacciones": "3180",
+  "fraudes": "102",
+  "porcentaje_fraude": "3.208"
+}, {
+  "dia_relativo": "112",
+  "total_transacciones": "3225",
+  "fraudes": "139",
+  "porcentaje_fraude": "4.31"
+}, {
+  "dia_relativo": "113",
+  "total_transacciones": "3227",
+  "fraudes": "161",
+  "porcentaje_fraude": "4.989"
+}, {
+  "dia_relativo": "114",
+  "total_transacciones": "2758",
+  "fraudes": "150",
+  "porcentaje_fraude": "5.439"
+}, {
+  "dia_relativo": "115",
+  "total_transacciones": "2461",
+  "fraudes": "139",
+  "porcentaje_fraude": "5.648"
+}, {
+  "dia_relativo": "116",
+  "total_transacciones": "3111",
+  "fraudes": "163",
+  "porcentaje_fraude": "5.239"
+}, {
+  "dia_relativo": "117",
+  "total_transacciones": "3042",
+  "fraudes": "194",
+  "porcentaje_fraude": "6.377"
+}, {
+  "dia_relativo": "118",
+  "total_transacciones": "3179",
+  "fraudes": "117",
+  "porcentaje_fraude": "3.68"
+}, {
+  "dia_relativo": "119",
+  "total_transacciones": "3300",
+  "fraudes": "145",
+  "porcentaje_fraude": "4.394"
+}, {
+  "dia_relativo": "120",
+  "total_transacciones": "3941",
+  "fraudes": "181",
+  "porcentaje_fraude": "4.593"
+}, {
+  "dia_relativo": "121",
+  "total_transacciones": "3017",
+  "fraudes": "121",
+  "porcentaje_fraude": "4.011"
+}, {
+  "dia_relativo": "122",
+  "total_transacciones": "2507",
+  "fraudes": "64",
+  "porcentaje_fraude": "2.553"
+}, {
+  "dia_relativo": "123",
+  "total_transacciones": "3390",
+  "fraudes": "128",
+  "porcentaje_fraude": "3.776"
+}, {
+  "dia_relativo": "124",
+  "total_transacciones": "4202",
+  "fraudes": "89",
+  "porcentaje_fraude": "2.118"
+}, {
+  "dia_relativo": "125",
+  "total_transacciones": "3467",
+  "fraudes": "148",
+  "porcentaje_fraude": "4.269"
+}, {
+  "dia_relativo": "126",
+  "total_transacciones": "3051",
+  "fraudes": "102",
+  "porcentaje_fraude": "3.343"
+}, {
+  "dia_relativo": "127",
+  "total_transacciones": "3335",
+  "fraudes": "84",
+  "porcentaje_fraude": "2.519"
+}, {
+  "dia_relativo": "128",
+  "total_transacciones": "2507",
+  "fraudes": "69",
+  "porcentaje_fraude": "2.752"
+}, {
+  "dia_relativo": "129",
+  "total_transacciones": "2348",
+  "fraudes": "130",
+  "porcentaje_fraude": "5.537"
+}, {
+  "dia_relativo": "130",
+  "total_transacciones": "2807",
+  "fraudes": "95",
+  "porcentaje_fraude": "3.384"
+}, {
+  "dia_relativo": "131",
+  "total_transacciones": "2822",
+  "fraudes": "105",
+  "porcentaje_fraude": "3.721"
+}, {
+  "dia_relativo": "132",
+  "total_transacciones": "2752",
+  "fraudes": "108",
+  "porcentaje_fraude": "3.924"
+}, {
+  "dia_relativo": "133",
+  "total_transacciones": "2687",
+  "fraudes": "136",
+  "porcentaje_fraude": "5.061"
+}, {
+  "dia_relativo": "134",
+  "total_transacciones": "2937",
+  "fraudes": "103",
+  "porcentaje_fraude": "3.507"
+}, {
+  "dia_relativo": "135",
+  "total_transacciones": "2429",
+  "fraudes": "90",
+  "porcentaje_fraude": "3.705"
+}, {
+  "dia_relativo": "136",
+  "total_transacciones": "2048",
+  "fraudes": "73",
+  "porcentaje_fraude": "3.564"
+}, {
+  "dia_relativo": "137",
+  "total_transacciones": "2914",
+  "fraudes": "69",
+  "porcentaje_fraude": "2.368"
+}, {
+  "dia_relativo": "138",
+  "total_transacciones": "2846",
+  "fraudes": "112",
+  "porcentaje_fraude": "3.935"
+}, {
+  "dia_relativo": "139",
+  "total_transacciones": "2769",
+  "fraudes": "61",
+  "porcentaje_fraude": "2.203"
+}, {
+  "dia_relativo": "140",
+  "total_transacciones": "2629",
+  "fraudes": "103",
+  "porcentaje_fraude": "3.918"
+}, {
+  "dia_relativo": "141",
+  "total_transacciones": "3000",
+  "fraudes": "131",
+  "porcentaje_fraude": "4.367"
+}, {
+  "dia_relativo": "142",
+  "total_transacciones": "2391",
+  "fraudes": "103",
+  "porcentaje_fraude": "4.308"
+}, {
+  "dia_relativo": "143",
+  "total_transacciones": "2064",
+  "fraudes": "71",
+  "porcentaje_fraude": "3.44"
+}, {
+  "dia_relativo": "144",
+  "total_transacciones": "2718",
+  "fraudes": "90",
+  "porcentaje_fraude": "3.311"
+}, {
+  "dia_relativo": "145",
+  "total_transacciones": "2668",
+  "fraudes": "67",
+  "porcentaje_fraude": "2.511"
+}, {
+  "dia_relativo": "146",
+  "total_transacciones": "2990",
+  "fraudes": "98",
+  "porcentaje_fraude": "3.278"
+}, {
+  "dia_relativo": "147",
+  "total_transacciones": "2718",
+  "fraudes": "79",
+  "porcentaje_fraude": "2.907"
+}, {
+  "dia_relativo": "148",
+  "total_transacciones": "3060",
+  "fraudes": "86",
+  "porcentaje_fraude": "2.81"
+}, {
+  "dia_relativo": "149",
+  "total_transacciones": "2289",
+  "fraudes": "66",
+  "porcentaje_fraude": "2.883"
+}, {
+  "dia_relativo": "150",
+  "total_transacciones": "2209",
+  "fraudes": "69",
+  "porcentaje_fraude": "3.124"
+}, {
+  "dia_relativo": "151",
+  "total_transacciones": "3101",
+  "fraudes": "99",
+  "porcentaje_fraude": "3.193"
+}, {
+  "dia_relativo": "152",
+  "total_transacciones": "3896",
+  "fraudes": "120",
+  "porcentaje_fraude": "3.08"
+}, {
+  "dia_relativo": "153",
+  "total_transacciones": "3105",
+  "fraudes": "126",
+  "porcentaje_fraude": "4.058"
+}, {
+  "dia_relativo": "154",
+  "total_transacciones": "3783",
+  "fraudes": "94",
+  "porcentaje_fraude": "2.485"
+}, {
+  "dia_relativo": "155",
+  "total_transacciones": "3352",
+  "fraudes": "119",
+  "porcentaje_fraude": "3.55"
+}, {
+  "dia_relativo": "156",
+  "total_transacciones": "2575",
+  "fraudes": "54",
+  "porcentaje_fraude": "2.097"
+}, {
+  "dia_relativo": "157",
+  "total_transacciones": "2259",
+  "fraudes": "69",
+  "porcentaje_fraude": "3.054"
+}, {
+  "dia_relativo": "158",
+  "total_transacciones": "3048",
+  "fraudes": "81",
+  "porcentaje_fraude": "2.657"
+}, {
+  "dia_relativo": "159",
+  "total_transacciones": "2845",
+  "fraudes": "89",
+  "porcentaje_fraude": "3.128"
+}, {
+  "dia_relativo": "160",
+  "total_transacciones": "2878",
+  "fraudes": "85",
+  "porcentaje_fraude": "2.953"
+}, {
+  "dia_relativo": "161",
+  "total_transacciones": "2854",
+  "fraudes": "68",
+  "porcentaje_fraude": "2.383"
+}, {
+  "dia_relativo": "162",
+  "total_transacciones": "3233",
+  "fraudes": "114",
+  "porcentaje_fraude": "3.526"
+}, {
+  "dia_relativo": "163",
+  "total_transacciones": "2880",
+  "fraudes": "136",
+  "porcentaje_fraude": "4.722"
+}, {
+  "dia_relativo": "164",
+  "total_transacciones": "2988",
+  "fraudes": "77",
+  "porcentaje_fraude": "2.577"
+}, {
+  "dia_relativo": "165",
+  "total_transacciones": "3038",
+  "fraudes": "73",
+  "porcentaje_fraude": "2.403"
+}, {
+  "dia_relativo": "166",
+  "total_transacciones": "2931",
+  "fraudes": "94",
+  "porcentaje_fraude": "3.207"
+}, {
+  "dia_relativo": "167",
+  "total_transacciones": "3020",
+  "fraudes": "119",
+  "porcentaje_fraude": "3.94"
+}, {
+  "dia_relativo": "168",
+  "total_transacciones": "2948",
+  "fraudes": "116",
+  "porcentaje_fraude": "3.935"
+}, {
+  "dia_relativo": "169",
+  "total_transacciones": "3191",
+  "fraudes": "146",
+  "porcentaje_fraude": "4.575"
+}, {
+  "dia_relativo": "170",
+  "total_transacciones": "2409",
+  "fraudes": "101",
+  "porcentaje_fraude": "4.193"
+}, {
+  "dia_relativo": "171",
+  "total_transacciones": "2795",
+  "fraudes": "68",
+  "porcentaje_fraude": "2.433"
+}, {
+  "dia_relativo": "172",
+  "total_transacciones": "3160",
+  "fraudes": "81",
+  "porcentaje_fraude": "2.563"
+}, {
+  "dia_relativo": "173",
+  "total_transacciones": "2866",
+  "fraudes": "142",
+  "porcentaje_fraude": "4.955"
+}, {
+  "dia_relativo": "174",
+  "total_transacciones": "2837",
+  "fraudes": "87",
+  "porcentaje_fraude": "3.067"
+}, {
+  "dia_relativo": "175",
+  "total_transacciones": "2683",
+  "fraudes": "108",
+  "porcentaje_fraude": "4.025"
+}, {
+  "dia_relativo": "176",
+  "total_transacciones": "3032",
+  "fraudes": "145",
+  "porcentaje_fraude": "4.782"
+}, {
+  "dia_relativo": "177",
+  "total_transacciones": "2364",
+  "fraudes": "109",
+  "porcentaje_fraude": "4.611"
+}, {
+  "dia_relativo": "178",
+  "total_transacciones": "2068",
+  "fraudes": "88",
+  "porcentaje_fraude": "4.255"
+}, {
+  "dia_relativo": "179",
+  "total_transacciones": "2177",
+  "fraudes": "66",
+  "porcentaje_fraude": "3.032"
+}, {
+  "dia_relativo": "180",
+  "total_transacciones": "2618",
+  "fraudes": "98",
+  "porcentaje_fraude": "3.743"
+}, {
+  "dia_relativo": "181",
+  "total_transacciones": "2739",
+  "fraudes": "122",
+  "porcentaje_fraude": "4.454"
+}, {
+  "dia_relativo": "182",
+  "total_transacciones": "2754",
+  "fraudes": "119",
+  "porcentaje_fraude": "4.321"
+}]

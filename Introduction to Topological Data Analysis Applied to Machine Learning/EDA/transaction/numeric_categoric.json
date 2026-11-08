@@ -1,0 +1,481 @@
+[{
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "299",
+  "frecuencia": "46335",
+  "porcentaje_total": "7.85"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "325",
+  "frecuencia": "42751",
+  "porcentaje_total": "7.24"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "204",
+  "frecuencia": "42020",
+  "porcentaje_total": "7.12"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "264",
+  "frecuencia": "39870",
+  "porcentaje_total": "6.75"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "330",
+  "frecuencia": "26287",
+  "porcentaje_total": "4.45"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "315",
+  "frecuencia": "23078",
+  "porcentaje_total": "3.91"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "441",
+  "frecuencia": "20827",
+  "porcentaje_total": "3.53"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "272",
+  "frecuencia": "20141",
+  "porcentaje_total": "3.41"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "123",
+  "frecuencia": "16105",
+  "porcentaje_total": "2.73"
+}, {
+  "variable": "addr1",
+  "valores_distintos": "332",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "126",
+  "frecuencia": "15243",
+  "porcentaje_total": "2.58"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "87",
+  "frecuencia": "520481",
+  "porcentaje_total": "88.14"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "60",
+  "frecuencia": "3084",
+  "porcentaje_total": "0.52"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "96",
+  "frecuencia": "638",
+  "porcentaje_total": "0.11"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "32",
+  "frecuencia": "91",
+  "porcentaje_total": "0.02"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "65",
+  "frecuencia": "82",
+  "porcentaje_total": "0.01"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "16",
+  "frecuencia": "55",
+  "porcentaje_total": "0.01"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "31",
+  "frecuencia": "47",
+  "porcentaje_total": "0.01"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "19",
+  "frecuencia": "33",
+  "porcentaje_total": "0.01"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "26",
+  "frecuencia": "25",
+  "porcentaje_total": "0.0"
+}, {
+  "variable": "addr2",
+  "valores_distintos": "74",
+  "valores_nulos": "65706",
+  "porcentaje_nulos": "11.13",
+  "categoria": "27",
+  "frecuencia": "20",
+  "porcentaje_total": "0.0"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "7919",
+  "frecuencia": "14932",
+  "porcentaje_total": "2.53"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "9500",
+  "frecuencia": "14162",
+  "porcentaje_total": "2.4"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "15885",
+  "frecuencia": "10361",
+  "porcentaje_total": "1.75"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "17188",
+  "frecuencia": "10344",
+  "porcentaje_total": "1.75"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "15066",
+  "frecuencia": "7945",
+  "porcentaje_total": "1.35"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "12695",
+  "frecuencia": "7091",
+  "porcentaje_total": "1.2"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "12544",
+  "frecuencia": "6773",
+  "porcentaje_total": "1.15"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "6019",
+  "frecuencia": "6771",
+  "porcentaje_total": "1.15"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "2803",
+  "frecuencia": "6141",
+  "porcentaje_total": "1.04"
+}, {
+  "variable": "card1",
+  "valores_distintos": "13553",
+  "valores_nulos": "0",
+  "porcentaje_nulos": "0.0",
+  "categoria": "7585",
+  "frecuencia": "5334",
+  "porcentaje_total": "0.9"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "321",
+  "frecuencia": "48935",
+  "porcentaje_total": "8.29"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "111",
+  "frecuencia": "45191",
+  "porcentaje_total": "7.65"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "555",
+  "frecuencia": "41995",
+  "porcentaje_total": "7.11"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "490",
+  "frecuencia": "38145",
+  "porcentaje_total": "6.46"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "583",
+  "frecuencia": "21803",
+  "porcentaje_total": "3.69"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "170",
+  "frecuencia": "18214",
+  "porcentaje_total": "3.08"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "194",
+  "frecuencia": "16938",
+  "porcentaje_total": "2.87"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "545",
+  "frecuencia": "16355",
+  "porcentaje_total": "2.77"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "360",
+  "frecuencia": "15190",
+  "porcentaje_total": "2.57"
+}, {
+  "variable": "card2",
+  "valores_distintos": "500",
+  "valores_nulos": "8933",
+  "porcentaje_nulos": "1.51",
+  "categoria": "514",
+  "frecuencia": "14541",
+  "porcentaje_total": "2.46"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "150",
+  "frecuencia": "521287",
+  "porcentaje_total": "88.27"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "185",
+  "frecuencia": "56346",
+  "porcentaje_total": "9.54"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "106",
+  "frecuencia": "1571",
+  "porcentaje_total": "0.27"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "144",
+  "frecuencia": "1252",
+  "porcentaje_total": "0.21"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "146",
+  "frecuencia": "1252",
+  "porcentaje_total": "0.21"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "117",
+  "frecuencia": "962",
+  "porcentaje_total": "0.16"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "143",
+  "frecuencia": "899",
+  "porcentaje_total": "0.15"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "119",
+  "frecuencia": "750",
+  "porcentaje_total": "0.13"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "102",
+  "frecuencia": "460",
+  "porcentaje_total": "0.08"
+}, {
+  "variable": "card3",
+  "valores_distintos": "114",
+  "valores_nulos": "1565",
+  "porcentaje_nulos": "0.27",
+  "categoria": "147",
+  "frecuencia": "390",
+  "porcentaje_total": "0.07"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "226",
+  "frecuencia": "296546",
+  "porcentaje_total": "50.22"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "224",
+  "frecuencia": "81513",
+  "porcentaje_total": "13.8"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "166",
+  "frecuencia": "57140",
+  "porcentaje_total": "9.68"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "102",
+  "frecuencia": "29105",
+  "porcentaje_total": "4.93"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "117",
+  "frecuencia": "25941",
+  "porcentaje_total": "4.39"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "138",
+  "frecuencia": "19737",
+  "porcentaje_total": "3.34"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "195",
+  "frecuencia": "16945",
+  "porcentaje_total": "2.87"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "137",
+  "frecuencia": "11720",
+  "porcentaje_total": "1.98"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "126",
+  "frecuencia": "10298",
+  "porcentaje_total": "1.74"
+}, {
+  "variable": "card5",
+  "valores_distintos": "119",
+  "valores_nulos": "4259",
+  "porcentaje_nulos": "0.72",
+  "categoria": "219",
+  "frecuencia": "9924",
+  "porcentaje_total": "1.68"
+}]

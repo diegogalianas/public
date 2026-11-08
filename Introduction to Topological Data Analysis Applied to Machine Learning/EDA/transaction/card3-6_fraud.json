@@ -1,0 +1,1471 @@
+[{
+  "variable": "card3",
+  "categoria": "150",
+  "total_transacciones": "521287",
+  "fraudes": "12807",
+  "porcentaje_fraude": "2.457"
+}, {
+  "variable": "card3",
+  "categoria": "185",
+  "total_transacciones": "56346",
+  "fraudes": "7362",
+  "porcentaje_fraude": "13.066"
+}, {
+  "variable": "card3",
+  "categoria": "106",
+  "total_transacciones": "1571",
+  "fraudes": "24",
+  "porcentaje_fraude": "1.528"
+}, {
+  "variable": "card3",
+  "categoria": null,
+  "total_transacciones": "1565",
+  "fraudes": "39",
+  "porcentaje_fraude": "2.492"
+}, {
+  "variable": "card3",
+  "categoria": "144",
+  "total_transacciones": "1252",
+  "fraudes": "112",
+  "porcentaje_fraude": "8.946"
+}, {
+  "variable": "card3",
+  "categoria": "146",
+  "total_transacciones": "1252",
+  "fraudes": "25",
+  "porcentaje_fraude": "1.997"
+}, {
+  "variable": "card3",
+  "categoria": "117",
+  "total_transacciones": "962",
+  "fraudes": "18",
+  "porcentaje_fraude": "1.871"
+}, {
+  "variable": "card3",
+  "categoria": "143",
+  "total_transacciones": "899",
+  "fraudes": "28",
+  "porcentaje_fraude": "3.115"
+}, {
+  "variable": "card3",
+  "categoria": "119",
+  "total_transacciones": "750",
+  "fraudes": "70",
+  "porcentaje_fraude": "9.333"
+}, {
+  "variable": "card3",
+  "categoria": "102",
+  "total_transacciones": "460",
+  "fraudes": "11",
+  "porcentaje_fraude": "2.391"
+}, {
+  "variable": "card3",
+  "categoria": "147",
+  "total_transacciones": "390",
+  "fraudes": "7",
+  "porcentaje_fraude": "1.795"
+}, {
+  "variable": "card3",
+  "categoria": "162",
+  "total_transacciones": "339",
+  "fraudes": "3",
+  "porcentaje_fraude": "0.885"
+}, {
+  "variable": "card3",
+  "categoria": "203",
+  "total_transacciones": "253",
+  "fraudes": "6",
+  "porcentaje_fraude": "2.372"
+}, {
+  "variable": "card3",
+  "categoria": "213",
+  "total_transacciones": "221",
+  "fraudes": "3",
+  "porcentaje_fraude": "1.357"
+}, {
+  "variable": "card3",
+  "categoria": "100",
+  "total_transacciones": "202",
+  "fraudes": "10",
+  "porcentaje_fraude": "4.95"
+}, {
+  "variable": "card3",
+  "categoria": "200",
+  "total_transacciones": "184",
+  "fraudes": "2",
+  "porcentaje_fraude": "1.087"
+}, {
+  "variable": "card3",
+  "categoria": "188",
+  "total_transacciones": "175",
+  "fraudes": "6",
+  "porcentaje_fraude": "3.429"
+}, {
+  "variable": "card3",
+  "categoria": "131",
+  "total_transacciones": "172",
+  "fraudes": "2",
+  "porcentaje_fraude": "1.163"
+}, {
+  "variable": "card3",
+  "categoria": "134",
+  "total_transacciones": "166",
+  "fraudes": "11",
+  "porcentaje_fraude": "6.627"
+}, {
+  "variable": "card3",
+  "categoria": "149",
+  "total_transacciones": "127",
+  "fraudes": "2",
+  "porcentaje_fraude": "1.575"
+}, {
+  "variable": "card3",
+  "categoria": "135",
+  "total_transacciones": "120",
+  "fraudes": "6",
+  "porcentaje_fraude": "5.0"
+}, {
+  "variable": "card3",
+  "categoria": "229",
+  "total_transacciones": "118",
+  "fraudes": "1",
+  "porcentaje_fraude": "0.847"
+}, {
+  "variable": "card3",
+  "categoria": "210",
+  "total_transacciones": "104",
+  "fraudes": "3",
+  "porcentaje_fraude": "2.885"
+}, {
+  "variable": "card3",
+  "categoria": "195",
+  "total_transacciones": "101",
+  "fraudes": "1",
+  "porcentaje_fraude": "0.99"
+}, {
+  "variable": "card3",
+  "categoria": "121",
+  "total_transacciones": "99",
+  "fraudes": "5",
+  "porcentaje_fraude": "5.051"
+}, {
+  "variable": "card3",
+  "categoria": "159",
+  "total_transacciones": "82",
+  "fraudes": "2",
+  "porcentaje_fraude": "2.439"
+}, {
+  "variable": "card3",
+  "categoria": "197",
+  "total_transacciones": "81",
+  "fraudes": "1",
+  "porcentaje_fraude": "1.235"
+}, {
+  "variable": "card3",
+  "categoria": "137",
+  "total_transacciones": "71",
+  "fraudes": "3",
+  "porcentaje_fraude": "4.225"
+}, {
+  "variable": "card3",
+  "categoria": "138",
+  "total_transacciones": "70",
+  "fraudes": "2",
+  "porcentaje_fraude": "2.857"
+}, {
+  "variable": "card3",
+  "categoria": "214",
+  "total_transacciones": "66",
+  "fraudes": "6",
+  "porcentaje_fraude": "9.091"
+}, {
+  "variable": "card3",
+  "categoria": "148",
+  "total_transacciones": "61",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "223",
+  "total_transacciones": "55",
+  "fraudes": "14",
+  "porcentaje_fraude": "25.455"
+}, {
+  "variable": "card3",
+  "categoria": "204",
+  "total_transacciones": "51",
+  "fraudes": "1",
+  "porcentaje_fraude": "1.961"
+}, {
+  "variable": "card3",
+  "categoria": "133",
+  "total_transacciones": "50",
+  "fraudes": "4",
+  "porcentaje_fraude": "8.0"
+}, {
+  "variable": "card3",
+  "categoria": "141",
+  "total_transacciones": "49",
+  "fraudes": "3",
+  "porcentaje_fraude": "6.122"
+}, {
+  "variable": "card3",
+  "categoria": "166",
+  "total_transacciones": "47",
+  "fraudes": "1",
+  "porcentaje_fraude": "2.128"
+}, {
+  "variable": "card3",
+  "categoria": "212",
+  "total_transacciones": "46",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "215",
+  "total_transacciones": "44",
+  "fraudes": "1",
+  "porcentaje_fraude": "2.273"
+}, {
+  "variable": "card3",
+  "categoria": "142",
+  "total_transacciones": "40",
+  "fraudes": "5",
+  "porcentaje_fraude": "12.5"
+}, {
+  "variable": "card3",
+  "categoria": "111",
+  "total_transacciones": "39",
+  "fraudes": "1",
+  "porcentaje_fraude": "2.564"
+}, {
+  "variable": "card3",
+  "categoria": "182",
+  "total_transacciones": "39",
+  "fraudes": "7",
+  "porcentaje_fraude": "17.949"
+}, {
+  "variable": "card3",
+  "categoria": "177",
+  "total_transacciones": "33",
+  "fraudes": "2",
+  "porcentaje_fraude": "6.061"
+}, {
+  "variable": "card3",
+  "categoria": "190",
+  "total_transacciones": "31",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "198",
+  "total_transacciones": "31",
+  "fraudes": "6",
+  "porcentaje_fraude": "19.355"
+}, {
+  "variable": "card3",
+  "categoria": "127",
+  "total_transacciones": "28",
+  "fraudes": "4",
+  "porcentaje_fraude": "14.286"
+}, {
+  "variable": "card3",
+  "categoria": "194",
+  "total_transacciones": "25",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "126",
+  "total_transacciones": "23",
+  "fraudes": "1",
+  "porcentaje_fraude": "4.348"
+}, {
+  "variable": "card3",
+  "categoria": "191",
+  "total_transacciones": "18",
+  "fraudes": "7",
+  "porcentaje_fraude": "38.889"
+}, {
+  "variable": "card3",
+  "categoria": "217",
+  "total_transacciones": "17",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "227",
+  "total_transacciones": "17",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "118",
+  "total_transacciones": "17",
+  "fraudes": "4",
+  "porcentaje_fraude": "23.529"
+}, {
+  "variable": "card3",
+  "categoria": "189",
+  "total_transacciones": "14",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "152",
+  "total_transacciones": "13",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "180",
+  "total_transacciones": "13",
+  "fraudes": "1",
+  "porcentaje_fraude": "7.692"
+}, {
+  "variable": "card3",
+  "categoria": "222",
+  "total_transacciones": "13",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "168",
+  "total_transacciones": "11",
+  "fraudes": "1",
+  "porcentaje_fraude": "9.091"
+}, {
+  "variable": "card3",
+  "categoria": "211",
+  "total_transacciones": "11",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "171",
+  "total_transacciones": "10",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "130",
+  "total_transacciones": "10",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "219",
+  "total_transacciones": "9",
+  "fraudes": "1",
+  "porcentaje_fraude": "11.111"
+}, {
+  "variable": "card3",
+  "categoria": "163",
+  "total_transacciones": "9",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "183",
+  "total_transacciones": "9",
+  "fraudes": "1",
+  "porcentaje_fraude": "11.111"
+}, {
+  "variable": "card3",
+  "categoria": "129",
+  "total_transacciones": "9",
+  "fraudes": "2",
+  "porcentaje_fraude": "22.222"
+}, {
+  "variable": "card3",
+  "categoria": "109",
+  "total_transacciones": "8",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "161",
+  "total_transacciones": "8",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "116",
+  "total_transacciones": "8",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "128",
+  "total_transacciones": "7",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "169",
+  "total_transacciones": "7",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "120",
+  "total_transacciones": "6",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "231",
+  "total_transacciones": "6",
+  "fraudes": "1",
+  "porcentaje_fraude": "16.667"
+}, {
+  "variable": "card3",
+  "categoria": "107",
+  "total_transacciones": "6",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "156",
+  "total_transacciones": "6",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "108",
+  "total_transacciones": "5",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "153",
+  "total_transacciones": "5",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "157",
+  "total_transacciones": "5",
+  "fraudes": "1",
+  "porcentaje_fraude": "20.0"
+}, {
+  "variable": "card3",
+  "categoria": "184",
+  "total_transacciones": "5",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "151",
+  "total_transacciones": "5",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "122",
+  "total_transacciones": "4",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "167",
+  "total_transacciones": "4",
+  "fraudes": "1",
+  "porcentaje_fraude": "25.0"
+}, {
+  "variable": "card3",
+  "categoria": "174",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "124",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "205",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "136",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "123",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "160",
+  "total_transacciones": "3",
+  "fraudes": "3",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card3",
+  "categoria": "155",
+  "total_transacciones": "3",
+  "fraudes": "1",
+  "porcentaje_fraude": "33.333"
+}, {
+  "variable": "card3",
+  "categoria": "181",
+  "total_transacciones": "3",
+  "fraudes": "3",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card3",
+  "categoria": "207",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "202",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "105",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "225",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "220",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "176",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "208",
+  "total_transacciones": "2",
+  "fraudes": "1",
+  "porcentaje_fraude": "50.0"
+}, {
+  "variable": "card3",
+  "categoria": "206",
+  "total_transacciones": "2",
+  "fraudes": "2",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card3",
+  "categoria": "179",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "186",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "226",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "193",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "172",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "209",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "221",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "224",
+  "total_transacciones": "1",
+  "fraudes": "1",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card3",
+  "categoria": "228",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "125",
+  "total_transacciones": "1",
+  "fraudes": "1",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card3",
+  "categoria": "101",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "114",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "170",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "201",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "173",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "199",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "139",
+  "total_transacciones": "1",
+  "fraudes": "1",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card3",
+  "categoria": "132",
+  "total_transacciones": "1",
+  "fraudes": "1",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card3",
+  "categoria": "164",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card3",
+  "categoria": "175",
+  "total_transacciones": "1",
+  "fraudes": "1",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card4",
+  "categoria": "visa",
+  "total_transacciones": "384767",
+  "fraudes": "13373",
+  "porcentaje_fraude": "3.476"
+}, {
+  "variable": "card4",
+  "categoria": "mastercard",
+  "total_transacciones": "189217",
+  "fraudes": "6496",
+  "porcentaje_fraude": "3.433"
+}, {
+  "variable": "card4",
+  "categoria": "american express",
+  "total_transacciones": "8328",
+  "fraudes": "239",
+  "porcentaje_fraude": "2.87"
+}, {
+  "variable": "card4",
+  "categoria": "discover",
+  "total_transacciones": "6651",
+  "fraudes": "514",
+  "porcentaje_fraude": "7.728"
+}, {
+  "variable": "card4",
+  "categoria": null,
+  "total_transacciones": "1577",
+  "fraudes": "41",
+  "porcentaje_fraude": "2.6"
+}, {
+  "variable": "card5",
+  "categoria": "226",
+  "total_transacciones": "296546",
+  "fraudes": "8753",
+  "porcentaje_fraude": "2.952"
+}, {
+  "variable": "card5",
+  "categoria": "224",
+  "total_transacciones": "81513",
+  "fraudes": "3152",
+  "porcentaje_fraude": "3.867"
+}, {
+  "variable": "card5",
+  "categoria": "166",
+  "total_transacciones": "57140",
+  "fraudes": "630",
+  "porcentaje_fraude": "1.103"
+}, {
+  "variable": "card5",
+  "categoria": "102",
+  "total_transacciones": "29105",
+  "fraudes": "1832",
+  "porcentaje_fraude": "6.294"
+}, {
+  "variable": "card5",
+  "categoria": "117",
+  "total_transacciones": "25941",
+  "fraudes": "354",
+  "porcentaje_fraude": "1.365"
+}, {
+  "variable": "card5",
+  "categoria": "138",
+  "total_transacciones": "19737",
+  "fraudes": "1682",
+  "porcentaje_fraude": "8.522"
+}, {
+  "variable": "card5",
+  "categoria": "195",
+  "total_transacciones": "16945",
+  "fraudes": "681",
+  "porcentaje_fraude": "4.019"
+}, {
+  "variable": "card5",
+  "categoria": "137",
+  "total_transacciones": "11720",
+  "fraudes": "1725",
+  "porcentaje_fraude": "14.718"
+}, {
+  "variable": "card5",
+  "categoria": "126",
+  "total_transacciones": "10298",
+  "fraudes": "105",
+  "porcentaje_fraude": "1.02"
+}, {
+  "variable": "card5",
+  "categoria": "219",
+  "total_transacciones": "9924",
+  "fraudes": "571",
+  "porcentaje_fraude": "5.754"
+}, {
+  "variable": "card5",
+  "categoria": "202",
+  "total_transacciones": "7103",
+  "fraudes": "58",
+  "porcentaje_fraude": "0.817"
+}, {
+  "variable": "card5",
+  "categoria": "162",
+  "total_transacciones": "4524",
+  "fraudes": "301",
+  "porcentaje_fraude": "6.653"
+}, {
+  "variable": "card5",
+  "categoria": null,
+  "total_transacciones": "4259",
+  "fraudes": "210",
+  "porcentaje_fraude": "4.931"
+}, {
+  "variable": "card5",
+  "categoria": "229",
+  "total_transacciones": "2048",
+  "fraudes": "32",
+  "porcentaje_fraude": "1.563"
+}, {
+  "variable": "card5",
+  "categoria": "197",
+  "total_transacciones": "1551",
+  "fraudes": "86",
+  "porcentaje_fraude": "5.545"
+}, {
+  "variable": "card5",
+  "categoria": "150",
+  "total_transacciones": "1338",
+  "fraudes": "23",
+  "porcentaje_fraude": "1.719"
+}, {
+  "variable": "card5",
+  "categoria": "100",
+  "total_transacciones": "978",
+  "fraudes": "18",
+  "porcentaje_fraude": "1.84"
+}, {
+  "variable": "card5",
+  "categoria": "223",
+  "total_transacciones": "936",
+  "fraudes": "83",
+  "porcentaje_fraude": "8.868"
+}, {
+  "variable": "card5",
+  "categoria": "118",
+  "total_transacciones": "752",
+  "fraudes": "15",
+  "porcentaje_fraude": "1.995"
+}, {
+  "variable": "card5",
+  "categoria": "190",
+  "total_transacciones": "744",
+  "fraudes": "20",
+  "porcentaje_fraude": "2.688"
+}, {
+  "variable": "card5",
+  "categoria": "146",
+  "total_transacciones": "671",
+  "fraudes": "23",
+  "porcentaje_fraude": "3.428"
+}, {
+  "variable": "card5",
+  "categoria": "198",
+  "total_transacciones": "670",
+  "fraudes": "34",
+  "porcentaje_fraude": "5.075"
+}, {
+  "variable": "card5",
+  "categoria": "236",
+  "total_transacciones": "647",
+  "fraudes": "20",
+  "porcentaje_fraude": "3.091"
+}, {
+  "variable": "card5",
+  "categoria": "185",
+  "total_transacciones": "474",
+  "fraudes": "19",
+  "porcentaje_fraude": "4.008"
+}, {
+  "variable": "card5",
+  "categoria": "203",
+  "total_transacciones": "428",
+  "fraudes": "28",
+  "porcentaje_fraude": "6.542"
+}, {
+  "variable": "card5",
+  "categoria": "147",
+  "total_transacciones": "417",
+  "fraudes": "47",
+  "porcentaje_fraude": "11.271"
+}, {
+  "variable": "card5",
+  "categoria": "141",
+  "total_transacciones": "341",
+  "fraudes": "32",
+  "porcentaje_fraude": "9.384"
+}, {
+  "variable": "card5",
+  "categoria": "129",
+  "total_transacciones": "325",
+  "fraudes": "9",
+  "porcentaje_fraude": "2.769"
+}, {
+  "variable": "card5",
+  "categoria": "142",
+  "total_transacciones": "277",
+  "fraudes": "12",
+  "porcentaje_fraude": "4.332"
+}, {
+  "variable": "card5",
+  "categoria": "194",
+  "total_transacciones": "259",
+  "fraudes": "13",
+  "porcentaje_fraude": "5.019"
+}, {
+  "variable": "card5",
+  "categoria": "183",
+  "total_transacciones": "258",
+  "fraudes": "3",
+  "porcentaje_fraude": "1.163"
+}, {
+  "variable": "card5",
+  "categoria": "228",
+  "total_transacciones": "248",
+  "fraudes": "13",
+  "porcentaje_fraude": "5.242"
+}, {
+  "variable": "card5",
+  "categoria": "144",
+  "total_transacciones": "219",
+  "fraudes": "16",
+  "porcentaje_fraude": "7.306"
+}, {
+  "variable": "card5",
+  "categoria": "119",
+  "total_transacciones": "219",
+  "fraudes": "6",
+  "porcentaje_fraude": "2.74"
+}, {
+  "variable": "card5",
+  "categoria": "131",
+  "total_transacciones": "205",
+  "fraudes": "1",
+  "porcentaje_fraude": "0.488"
+}, {
+  "variable": "card5",
+  "categoria": "132",
+  "total_transacciones": "203",
+  "fraudes": "7",
+  "porcentaje_fraude": "3.448"
+}, {
+  "variable": "card5",
+  "categoria": "135",
+  "total_transacciones": "196",
+  "fraudes": "8",
+  "porcentaje_fraude": "4.082"
+}, {
+  "variable": "card5",
+  "categoria": "133",
+  "total_transacciones": "145",
+  "fraudes": "8",
+  "porcentaje_fraude": "5.517"
+}, {
+  "variable": "card5",
+  "categoria": "134",
+  "total_transacciones": "94",
+  "fraudes": "1",
+  "porcentaje_fraude": "1.064"
+}, {
+  "variable": "card5",
+  "categoria": "207",
+  "total_transacciones": "82",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "213",
+  "total_transacciones": "79",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "177",
+  "total_transacciones": "77",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "149",
+  "total_transacciones": "77",
+  "fraudes": "5",
+  "porcentaje_fraude": "6.494"
+}, {
+  "variable": "card5",
+  "categoria": "232",
+  "total_transacciones": "69",
+  "fraudes": "4",
+  "porcentaje_fraude": "5.797"
+}, {
+  "variable": "card5",
+  "categoria": "222",
+  "total_transacciones": "64",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "237",
+  "total_transacciones": "49",
+  "fraudes": "2",
+  "porcentaje_fraude": "4.082"
+}, {
+  "variable": "card5",
+  "categoria": "215",
+  "total_transacciones": "44",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "143",
+  "total_transacciones": "43",
+  "fraudes": "4",
+  "porcentaje_fraude": "9.302"
+}, {
+  "variable": "card5",
+  "categoria": "212",
+  "total_transacciones": "42",
+  "fraudes": "5",
+  "porcentaje_fraude": "11.905"
+}, {
+  "variable": "card5",
+  "categoria": "159",
+  "total_transacciones": "36",
+  "fraudes": "2",
+  "porcentaje_fraude": "5.556"
+}, {
+  "variable": "card5",
+  "categoria": "184",
+  "total_transacciones": "33",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "182",
+  "total_transacciones": "30",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "199",
+  "total_transacciones": "28",
+  "fraudes": "1",
+  "porcentaje_fraude": "3.571"
+}, {
+  "variable": "card5",
+  "categoria": "188",
+  "total_transacciones": "26",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "111",
+  "total_transacciones": "25",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "127",
+  "total_transacciones": "25",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "225",
+  "total_transacciones": "24",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "104",
+  "total_transacciones": "23",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "233",
+  "total_transacciones": "19",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "189",
+  "total_transacciones": "15",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "139",
+  "total_transacciones": "13",
+  "fraudes": "3",
+  "porcentaje_fraude": "23.077"
+}, {
+  "variable": "card5",
+  "categoria": "136",
+  "total_transacciones": "13",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "130",
+  "total_transacciones": "12",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "107",
+  "total_transacciones": "12",
+  "fraudes": "4",
+  "porcentaje_fraude": "33.333"
+}, {
+  "variable": "card5",
+  "categoria": "121",
+  "total_transacciones": "12",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "180",
+  "total_transacciones": "10",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "148",
+  "total_transacciones": "9",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "168",
+  "total_transacciones": "8",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "171",
+  "total_transacciones": "8",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "156",
+  "total_transacciones": "8",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "217",
+  "total_transacciones": "7",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "101",
+  "total_transacciones": "7",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "235",
+  "total_transacciones": "6",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "116",
+  "total_transacciones": "5",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "122",
+  "total_transacciones": "5",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "106",
+  "total_transacciones": "5",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "210",
+  "total_transacciones": "5",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "151",
+  "total_transacciones": "4",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "230",
+  "total_transacciones": "4",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "164",
+  "total_transacciones": "4",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "112",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "216",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "169",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "114",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "214",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "211",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "163",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "157",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "158",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "128",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "172",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "109",
+  "total_transacciones": "3",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "160",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "123",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "152",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "145",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "200",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "105",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "205",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "231",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "140",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "191",
+  "total_transacciones": "2",
+  "fraudes": "1",
+  "porcentaje_fraude": "50.0"
+}, {
+  "variable": "card5",
+  "categoria": "113",
+  "total_transacciones": "2",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "178",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "204",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "221",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "125",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "209",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "181",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "196",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "167",
+  "total_transacciones": "1",
+  "fraudes": "1",
+  "porcentaje_fraude": "100.0"
+}, {
+  "variable": "card5",
+  "categoria": "165",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "175",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "120",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "201",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "234",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "187",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "206",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "173",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card5",
+  "categoria": "115",
+  "total_transacciones": "1",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card6",
+  "categoria": "debit",
+  "total_transacciones": "439938",
+  "fraudes": "10674",
+  "porcentaje_fraude": "2.426"
+}, {
+  "variable": "card6",
+  "categoria": "credit",
+  "total_transacciones": "148986",
+  "fraudes": "9950",
+  "porcentaje_fraude": "6.678"
+}, {
+  "variable": "card6",
+  "categoria": null,
+  "total_transacciones": "1571",
+  "fraudes": "39",
+  "porcentaje_fraude": "2.482"
+}, {
+  "variable": "card6",
+  "categoria": "debit or credit",
+  "total_transacciones": "30",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}, {
+  "variable": "card6",
+  "categoria": "charge card",
+  "total_transacciones": "15",
+  "fraudes": "0",
+  "porcentaje_fraude": "0.0"
+}]

@@ -1,0 +1,11 @@
+[{
+  "total_registros": "590540",
+  "valores_nulos": "0",
+  "minimo": "86400",
+  "maximo": "15811131",
+  "media": "7372311.31",
+  "q1": "3043574",
+  "mediana": "7247919",
+  "q3": "11215377",
+  "valores_distintos": "573349"
+}]

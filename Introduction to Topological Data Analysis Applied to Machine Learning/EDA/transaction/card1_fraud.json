@@ -1,0 +1,10 @@
+[{
+  "total_transacciones": "590540",
+  "fraudes": "20663",
+  "valores_distintos": "13553",
+  "tasa_fraude_global": "3.499",
+  "media": "9898.73",
+  "q1": "6019",
+  "mediana": "9680",
+  "q3": "14182"
+}]

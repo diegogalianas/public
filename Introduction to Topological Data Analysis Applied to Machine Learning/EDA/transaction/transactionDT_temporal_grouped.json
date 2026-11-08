@@ -1,0 +1,729 @@
+[{
+  "dia_relativo": "1",
+  "numero_transacciones": "5122",
+  "importe_medio": "144.9"
+}, {
+  "dia_relativo": "2",
+  "numero_transacciones": "3730",
+  "importe_medio": "121.55"
+}, {
+  "dia_relativo": "3",
+  "numero_transacciones": "3241",
+  "importe_medio": "107.53"
+}, {
+  "dia_relativo": "4",
+  "numero_transacciones": "4036",
+  "importe_medio": "127.84"
+}, {
+  "dia_relativo": "5",
+  "numero_transacciones": "3964",
+  "importe_medio": "137.02"
+}, {
+  "dia_relativo": "6",
+  "numero_transacciones": "3717",
+  "importe_medio": "128.29"
+}, {
+  "dia_relativo": "7",
+  "numero_transacciones": "3786",
+  "importe_medio": "141.14"
+}, {
+  "dia_relativo": "8",
+  "numero_transacciones": "3999",
+  "importe_medio": "136.68"
+}, {
+  "dia_relativo": "9",
+  "numero_transacciones": "3907",
+  "importe_medio": "116.89"
+}, {
+  "dia_relativo": "10",
+  "numero_transacciones": "3445",
+  "importe_medio": "103.16"
+}, {
+  "dia_relativo": "11",
+  "numero_transacciones": "4319",
+  "importe_medio": "134.23"
+}, {
+  "dia_relativo": "12",
+  "numero_transacciones": "4164",
+  "importe_medio": "124.58"
+}, {
+  "dia_relativo": "13",
+  "numero_transacciones": "4183",
+  "importe_medio": "133.68"
+}, {
+  "dia_relativo": "14",
+  "numero_transacciones": "4446",
+  "importe_medio": "136.24"
+}, {
+  "dia_relativo": "15",
+  "numero_transacciones": "5034",
+  "importe_medio": "138.63"
+}, {
+  "dia_relativo": "16",
+  "numero_transacciones": "4325",
+  "importe_medio": "116.51"
+}, {
+  "dia_relativo": "17",
+  "numero_transacciones": "3805",
+  "importe_medio": "105.66"
+}, {
+  "dia_relativo": "18",
+  "numero_transacciones": "5585",
+  "importe_medio": "134.17"
+}, {
+  "dia_relativo": "19",
+  "numero_transacciones": "5526",
+  "importe_medio": "140.32"
+}, {
+  "dia_relativo": "20",
+  "numero_transacciones": "5749",
+  "importe_medio": "138.4"
+}, {
+  "dia_relativo": "21",
+  "numero_transacciones": "5677",
+  "importe_medio": "141.22"
+}, {
+  "dia_relativo": "22",
+  "numero_transacciones": "6852",
+  "importe_medio": "141.26"
+}, {
+  "dia_relativo": "23",
+  "numero_transacciones": "5872",
+  "importe_medio": "115.11"
+}, {
+  "dia_relativo": "24",
+  "numero_transacciones": "6065",
+  "importe_medio": "104.98"
+}, {
+  "dia_relativo": "25",
+  "numero_transacciones": "5742",
+  "importe_medio": "91.73"
+}, {
+  "dia_relativo": "26",
+  "numero_transacciones": "3458",
+  "importe_medio": "123.67"
+}, {
+  "dia_relativo": "27",
+  "numero_transacciones": "3585",
+  "importe_medio": "128.23"
+}, {
+  "dia_relativo": "28",
+  "numero_transacciones": "3332",
+  "importe_medio": "141.1"
+}, {
+  "dia_relativo": "29",
+  "numero_transacciones": "4302",
+  "importe_medio": "146.37"
+}, {
+  "dia_relativo": "30",
+  "numero_transacciones": "3371",
+  "importe_medio": "141.24"
+}, {
+  "dia_relativo": "31",
+  "numero_transacciones": "2982",
+  "importe_medio": "113.99"
+}, {
+  "dia_relativo": "32",
+  "numero_transacciones": "2387",
+  "importe_medio": "107.9"
+}, {
+  "dia_relativo": "33",
+  "numero_transacciones": "3403",
+  "importe_medio": "133.23"
+}, {
+  "dia_relativo": "34",
+  "numero_transacciones": "4264",
+  "importe_medio": "137.3"
+}, {
+  "dia_relativo": "35",
+  "numero_transacciones": "3830",
+  "importe_medio": "131.71"
+}, {
+  "dia_relativo": "36",
+  "numero_transacciones": "3571",
+  "importe_medio": "139.54"
+}, {
+  "dia_relativo": "37",
+  "numero_transacciones": "3030",
+  "importe_medio": "125.48"
+}, {
+  "dia_relativo": "38",
+  "numero_transacciones": "2544",
+  "importe_medio": "103.17"
+}, {
+  "dia_relativo": "39",
+  "numero_transacciones": "3017",
+  "importe_medio": "135.94"
+}, {
+  "dia_relativo": "40",
+  "numero_transacciones": "2914",
+  "importe_medio": "149.81"
+}, {
+  "dia_relativo": "41",
+  "numero_transacciones": "2962",
+  "importe_medio": "156.77"
+}, {
+  "dia_relativo": "42",
+  "numero_transacciones": "2881",
+  "importe_medio": "149.59"
+}, {
+  "dia_relativo": "43",
+  "numero_transacciones": "3606",
+  "importe_medio": "153.37"
+}, {
+  "dia_relativo": "44",
+  "numero_transacciones": "2786",
+  "importe_medio": "123.29"
+}, {
+  "dia_relativo": "45",
+  "numero_transacciones": "2300",
+  "importe_medio": "107.49"
+}, {
+  "dia_relativo": "46",
+  "numero_transacciones": "2786",
+  "importe_medio": "125.9"
+}, {
+  "dia_relativo": "47",
+  "numero_transacciones": "2971",
+  "importe_medio": "137.93"
+}, {
+  "dia_relativo": "48",
+  "numero_transacciones": "3062",
+  "importe_medio": "141.95"
+}, {
+  "dia_relativo": "49",
+  "numero_transacciones": "3053",
+  "importe_medio": "140.6"
+}, {
+  "dia_relativo": "50",
+  "numero_transacciones": "3336",
+  "importe_medio": "146.62"
+}, {
+  "dia_relativo": "51",
+  "numero_transacciones": "2826",
+  "importe_medio": "118.94"
+}, {
+  "dia_relativo": "52",
+  "numero_transacciones": "2333",
+  "importe_medio": "101.26"
+}, {
+  "dia_relativo": "53",
+  "numero_transacciones": "2908",
+  "importe_medio": "147.52"
+}, {
+  "dia_relativo": "54",
+  "numero_transacciones": "2798",
+  "importe_medio": "137.86"
+}, {
+  "dia_relativo": "55",
+  "numero_transacciones": "2771",
+  "importe_medio": "140.18"
+}, {
+  "dia_relativo": "56",
+  "numero_transacciones": "2789",
+  "importe_medio": "138.87"
+}, {
+  "dia_relativo": "57",
+  "numero_transacciones": "3274",
+  "importe_medio": "150.25"
+}, {
+  "dia_relativo": "58",
+  "numero_transacciones": "2681",
+  "importe_medio": "124.92"
+}, {
+  "dia_relativo": "59",
+  "numero_transacciones": "2402",
+  "importe_medio": "101.49"
+}, {
+  "dia_relativo": "60",
+  "numero_transacciones": "2932",
+  "importe_medio": "144.18"
+}, {
+  "dia_relativo": "61",
+  "numero_transacciones": "3111",
+  "importe_medio": "146.12"
+}, {
+  "dia_relativo": "62",
+  "numero_transacciones": "3057",
+  "importe_medio": "173.32"
+}, {
+  "dia_relativo": "63",
+  "numero_transacciones": "3975",
+  "importe_medio": "141.04"
+}, {
+  "dia_relativo": "64",
+  "numero_transacciones": "4317",
+  "importe_medio": "142.34"
+}, {
+  "dia_relativo": "65",
+  "numero_transacciones": "3209",
+  "importe_medio": "123.99"
+}, {
+  "dia_relativo": "66",
+  "numero_transacciones": "2584",
+  "importe_medio": "104.47"
+}, {
+  "dia_relativo": "67",
+  "numero_transacciones": "3223",
+  "importe_medio": "129.87"
+}, {
+  "dia_relativo": "68",
+  "numero_transacciones": "3158",
+  "importe_medio": "157.38"
+}, {
+  "dia_relativo": "69",
+  "numero_transacciones": "3130",
+  "importe_medio": "145.51"
+}, {
+  "dia_relativo": "70",
+  "numero_transacciones": "2913",
+  "importe_medio": "135.95"
+}, {
+  "dia_relativo": "71",
+  "numero_transacciones": "3267",
+  "importe_medio": "142.6"
+}, {
+  "dia_relativo": "72",
+  "numero_transacciones": "2744",
+  "importe_medio": "117.97"
+}, {
+  "dia_relativo": "73",
+  "numero_transacciones": "2304",
+  "importe_medio": "94.09"
+}, {
+  "dia_relativo": "74",
+  "numero_transacciones": "3122",
+  "importe_medio": "146.66"
+}, {
+  "dia_relativo": "75",
+  "numero_transacciones": "3054",
+  "importe_medio": "137.93"
+}, {
+  "dia_relativo": "76",
+  "numero_transacciones": "3456",
+  "importe_medio": "157.46"
+}, {
+  "dia_relativo": "77",
+  "numero_transacciones": "3006",
+  "importe_medio": "149.93"
+}, {
+  "dia_relativo": "78",
+  "numero_transacciones": "3166",
+  "importe_medio": "145.78"
+}, {
+  "dia_relativo": "79",
+  "numero_transacciones": "2688",
+  "importe_medio": "120.17"
+}, {
+  "dia_relativo": "80",
+  "numero_transacciones": "2204",
+  "importe_medio": "106.05"
+}, {
+  "dia_relativo": "81",
+  "numero_transacciones": "2863",
+  "importe_medio": "119.52"
+}, {
+  "dia_relativo": "82",
+  "numero_transacciones": "2970",
+  "importe_medio": "129.7"
+}, {
+  "dia_relativo": "83",
+  "numero_transacciones": "2934",
+  "importe_medio": "129.23"
+}, {
+  "dia_relativo": "84",
+  "numero_transacciones": "3350",
+  "importe_medio": "169.76"
+}, {
+  "dia_relativo": "85",
+  "numero_transacciones": "3574",
+  "importe_medio": "158.7"
+}, {
+  "dia_relativo": "86",
+  "numero_transacciones": "2661",
+  "importe_medio": "130.16"
+}, {
+  "dia_relativo": "87",
+  "numero_transacciones": "2549",
+  "importe_medio": "121.09"
+}, {
+  "dia_relativo": "88",
+  "numero_transacciones": "3021",
+  "importe_medio": "151.02"
+}, {
+  "dia_relativo": "89",
+  "numero_transacciones": "3226",
+  "importe_medio": "156.15"
+}, {
+  "dia_relativo": "90",
+  "numero_transacciones": "3353",
+  "importe_medio": "166.65"
+}, {
+  "dia_relativo": "91",
+  "numero_transacciones": "4007",
+  "importe_medio": "158.31"
+}, {
+  "dia_relativo": "92",
+  "numero_transacciones": "6252",
+  "importe_medio": "160.05"
+}, {
+  "dia_relativo": "93",
+  "numero_transacciones": "4524",
+  "importe_medio": "128.65"
+}, {
+  "dia_relativo": "94",
+  "numero_transacciones": "2931",
+  "importe_medio": "118.56"
+}, {
+  "dia_relativo": "95",
+  "numero_transacciones": "3711",
+  "importe_medio": "146.02"
+}, {
+  "dia_relativo": "96",
+  "numero_transacciones": "3243",
+  "importe_medio": "140.61"
+}, {
+  "dia_relativo": "97",
+  "numero_transacciones": "3102",
+  "importe_medio": "152.12"
+}, {
+  "dia_relativo": "98",
+  "numero_transacciones": "3666",
+  "importe_medio": "140.49"
+}, {
+  "dia_relativo": "99",
+  "numero_transacciones": "3301",
+  "importe_medio": "148.68"
+}, {
+  "dia_relativo": "100",
+  "numero_transacciones": "3052",
+  "importe_medio": "130.71"
+}, {
+  "dia_relativo": "101",
+  "numero_transacciones": "2500",
+  "importe_medio": "117.11"
+}, {
+  "dia_relativo": "102",
+  "numero_transacciones": "3166",
+  "importe_medio": "138.9"
+}, {
+  "dia_relativo": "103",
+  "numero_transacciones": "3101",
+  "importe_medio": "134.72"
+}, {
+  "dia_relativo": "104",
+  "numero_transacciones": "3115",
+  "importe_medio": "149.01"
+}, {
+  "dia_relativo": "105",
+  "numero_transacciones": "3034",
+  "importe_medio": "143.9"
+}, {
+  "dia_relativo": "106",
+  "numero_transacciones": "3221",
+  "importe_medio": "147.57"
+}, {
+  "dia_relativo": "107",
+  "numero_transacciones": "2809",
+  "importe_medio": "120.32"
+}, {
+  "dia_relativo": "108",
+  "numero_transacciones": "2287",
+  "importe_medio": "112.43"
+}, {
+  "dia_relativo": "109",
+  "numero_transacciones": "3151",
+  "importe_medio": "149.29"
+}, {
+  "dia_relativo": "110",
+  "numero_transacciones": "3018",
+  "importe_medio": "140.39"
+}, {
+  "dia_relativo": "111",
+  "numero_transacciones": "3180",
+  "importe_medio": "142.42"
+}, {
+  "dia_relativo": "112",
+  "numero_transacciones": "3225",
+  "importe_medio": "138.28"
+}, {
+  "dia_relativo": "113",
+  "numero_transacciones": "3227",
+  "importe_medio": "147.78"
+}, {
+  "dia_relativo": "114",
+  "numero_transacciones": "2758",
+  "importe_medio": "118.06"
+}, {
+  "dia_relativo": "115",
+  "numero_transacciones": "2461",
+  "importe_medio": "106.64"
+}, {
+  "dia_relativo": "116",
+  "numero_transacciones": "3111",
+  "importe_medio": "141.83"
+}, {
+  "dia_relativo": "117",
+  "numero_transacciones": "3042",
+  "importe_medio": "139.82"
+}, {
+  "dia_relativo": "118",
+  "numero_transacciones": "3179",
+  "importe_medio": "129.64"
+}, {
+  "dia_relativo": "119",
+  "numero_transacciones": "3300",
+  "importe_medio": "140.51"
+}, {
+  "dia_relativo": "120",
+  "numero_transacciones": "3941",
+  "importe_medio": "151.96"
+}, {
+  "dia_relativo": "121",
+  "numero_transacciones": "3017",
+  "importe_medio": "130.01"
+}, {
+  "dia_relativo": "122",
+  "numero_transacciones": "2507",
+  "importe_medio": "103.98"
+}, {
+  "dia_relativo": "123",
+  "numero_transacciones": "3390",
+  "importe_medio": "146.43"
+}, {
+  "dia_relativo": "124",
+  "numero_transacciones": "4202",
+  "importe_medio": "136.39"
+}, {
+  "dia_relativo": "125",
+  "numero_transacciones": "3467",
+  "importe_medio": "141.14"
+}, {
+  "dia_relativo": "126",
+  "numero_transacciones": "3051",
+  "importe_medio": "131.15"
+}, {
+  "dia_relativo": "127",
+  "numero_transacciones": "3335",
+  "importe_medio": "138.93"
+}, {
+  "dia_relativo": "128",
+  "numero_transacciones": "2507",
+  "importe_medio": "118.62"
+}, {
+  "dia_relativo": "129",
+  "numero_transacciones": "2348",
+  "importe_medio": "99.6"
+}, {
+  "dia_relativo": "130",
+  "numero_transacciones": "2807",
+  "importe_medio": "136.89"
+}, {
+  "dia_relativo": "131",
+  "numero_transacciones": "2822",
+  "importe_medio": "136.54"
+}, {
+  "dia_relativo": "132",
+  "numero_transacciones": "2752",
+  "importe_medio": "144.46"
+}, {
+  "dia_relativo": "133",
+  "numero_transacciones": "2687",
+  "importe_medio": "134.7"
+}, {
+  "dia_relativo": "134",
+  "numero_transacciones": "2937",
+  "importe_medio": "144.91"
+}, {
+  "dia_relativo": "135",
+  "numero_transacciones": "2429",
+  "importe_medio": "122.13"
+}, {
+  "dia_relativo": "136",
+  "numero_transacciones": "2048",
+  "importe_medio": "111.47"
+}, {
+  "dia_relativo": "137",
+  "numero_transacciones": "2914",
+  "importe_medio": "132.65"
+}, {
+  "dia_relativo": "138",
+  "numero_transacciones": "2846",
+  "importe_medio": "130.83"
+}, {
+  "dia_relativo": "139",
+  "numero_transacciones": "2769",
+  "importe_medio": "142.2"
+}, {
+  "dia_relativo": "140",
+  "numero_transacciones": "2629",
+  "importe_medio": "140.1"
+}, {
+  "dia_relativo": "141",
+  "numero_transacciones": "3000",
+  "importe_medio": "149.87"
+}, {
+  "dia_relativo": "142",
+  "numero_transacciones": "2391",
+  "importe_medio": "135.19"
+}, {
+  "dia_relativo": "143",
+  "numero_transacciones": "2064",
+  "importe_medio": "115.02"
+}, {
+  "dia_relativo": "144",
+  "numero_transacciones": "2718",
+  "importe_medio": "142.96"
+}, {
+  "dia_relativo": "145",
+  "numero_transacciones": "2668",
+  "importe_medio": "138.41"
+}, {
+  "dia_relativo": "146",
+  "numero_transacciones": "2990",
+  "importe_medio": "134.64"
+}, {
+  "dia_relativo": "147",
+  "numero_transacciones": "2718",
+  "importe_medio": "151.59"
+}, {
+  "dia_relativo": "148",
+  "numero_transacciones": "3060",
+  "importe_medio": "142.75"
+}, {
+  "dia_relativo": "149",
+  "numero_transacciones": "2289",
+  "importe_medio": "128.82"
+}, {
+  "dia_relativo": "150",
+  "numero_transacciones": "2209",
+  "importe_medio": "114.06"
+}, {
+  "dia_relativo": "151",
+  "numero_transacciones": "3101",
+  "importe_medio": "153.52"
+}, {
+  "dia_relativo": "152",
+  "numero_transacciones": "3896",
+  "importe_medio": "140.1"
+}, {
+  "dia_relativo": "153",
+  "numero_transacciones": "3105",
+  "importe_medio": "144.7"
+}, {
+  "dia_relativo": "154",
+  "numero_transacciones": "3783",
+  "importe_medio": "139.23"
+}, {
+  "dia_relativo": "155",
+  "numero_transacciones": "3352",
+  "importe_medio": "151.69"
+}, {
+  "dia_relativo": "156",
+  "numero_transacciones": "2575",
+  "importe_medio": "145.23"
+}, {
+  "dia_relativo": "157",
+  "numero_transacciones": "2259",
+  "importe_medio": "105.05"
+}, {
+  "dia_relativo": "158",
+  "numero_transacciones": "3048",
+  "importe_medio": "133.19"
+}, {
+  "dia_relativo": "159",
+  "numero_transacciones": "2845",
+  "importe_medio": "130.53"
+}, {
+  "dia_relativo": "160",
+  "numero_transacciones": "2878",
+  "importe_medio": "139.1"
+}, {
+  "dia_relativo": "161",
+  "numero_transacciones": "2854",
+  "importe_medio": "140.3"
+}, {
+  "dia_relativo": "162",
+  "numero_transacciones": "3233",
+  "importe_medio": "143.1"
+}, {
+  "dia_relativo": "163",
+  "numero_transacciones": "2880",
+  "importe_medio": "123.3"
+}, {
+  "dia_relativo": "164",
+  "numero_transacciones": "2988",
+  "importe_medio": "109.17"
+}, {
+  "dia_relativo": "165",
+  "numero_transacciones": "3038",
+  "importe_medio": "136.74"
+}, {
+  "dia_relativo": "166",
+  "numero_transacciones": "2931",
+  "importe_medio": "138.55"
+}, {
+  "dia_relativo": "167",
+  "numero_transacciones": "3020",
+  "importe_medio": "138.24"
+}, {
+  "dia_relativo": "168",
+  "numero_transacciones": "2948",
+  "importe_medio": "142.75"
+}, {
+  "dia_relativo": "169",
+  "numero_transacciones": "3191",
+  "importe_medio": "149.95"
+}, {
+  "dia_relativo": "170",
+  "numero_transacciones": "2409",
+  "importe_medio": "120.6"
+}, {
+  "dia_relativo": "171",
+  "numero_transacciones": "2795",
+  "importe_medio": "105.88"
+}, {
+  "dia_relativo": "172",
+  "numero_transacciones": "3160",
+  "importe_medio": "139.41"
+}, {
+  "dia_relativo": "173",
+  "numero_transacciones": "2866",
+  "importe_medio": "140.77"
+}, {
+  "dia_relativo": "174",
+  "numero_transacciones": "2837",
+  "importe_medio": "141.41"
+}, {
+  "dia_relativo": "175",
+  "numero_transacciones": "2683",
+  "importe_medio": "146.06"
+}, {
+  "dia_relativo": "176",
+  "numero_transacciones": "3032",
+  "importe_medio": "157.29"
+}, {
+  "dia_relativo": "177",
+  "numero_transacciones": "2364",
+  "importe_medio": "121.86"
+}, {
+  "dia_relativo": "178",
+  "numero_transacciones": "2068",
+  "importe_medio": "107.26"
+}, {
+  "dia_relativo": "179",
+  "numero_transacciones": "2177",
+  "importe_medio": "111.39"
+}, {
+  "dia_relativo": "180",
+  "numero_transacciones": "2618",
+  "importe_medio": "153.2"
+}, {
+  "dia_relativo": "181",
+  "numero_transacciones": "2739",
+  "importe_medio": "154.28"
+}, {
+  "dia_relativo": "182",
+  "numero_transacciones": "2754",
+  "importe_medio": "171.46"
+}]
