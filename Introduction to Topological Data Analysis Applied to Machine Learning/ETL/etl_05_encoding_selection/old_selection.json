@@ -1,0 +1,9 @@
+[{
+  "stage": "04_user_aggregations_view (Pre-encoding)",
+  "total_records": "590540",
+  "total_columns": "448"
+}, {
+  "stage": "05_encoding_selection_view (Encoded Step)",
+  "total_records": "590540",
+  "total_columns": "444"
+}]
