@@ -1,0 +1,17 @@
+[{
+  "data_type": "FLOAT64",
+  "total_variables": "376",
+  "percentage": "95.43"
+}, {
+  "data_type": "BOOL",
+  "total_variables": "8",
+  "percentage": "2.03"
+}, {
+  "data_type": "STRING",
+  "total_variables": "6",
+  "percentage": "1.52"
+}, {
+  "data_type": "INT64",
+  "total_variables": "4",
+  "percentage": "1.02"
+}]
