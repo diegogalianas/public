@@ -1,0 +1,9 @@
+[{
+  "stage": "06_encoding_selection_view (Encoded Step)",
+  "total_records": "590540",
+  "total_columns": "449"
+}, {
+  "stage": "05_tda_view (Pre-encoding)",
+  "total_records": "590540",
+  "total_columns": "453"
+}]

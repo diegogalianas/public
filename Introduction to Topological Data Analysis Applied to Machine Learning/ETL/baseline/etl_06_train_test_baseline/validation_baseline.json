@@ -1,0 +1,15 @@
+[{
+  "partition_name": "Baseline Train (Days 1-145)",
+  "total_records": "484847",
+  "fraud_count": "17052",
+  "fraud_rate_percentage": "3.52",
+  "min_day": "1",
+  "max_day": "145"
+}, {
+  "partition_name": "Baseline Test (Days 146-182)",
+  "total_records": "105693",
+  "fraud_count": "3611",
+  "fraud_rate_percentage": "3.42",
+  "min_day": "146",
+  "max_day": "182"
+}]
