@@ -1,0 +1,77 @@
+=== Running Unified TDA Pipeline (Diagram + Inverse Mapping + Centroids Extraction) ===
+-> Loading subsampled TDA dataset...
+-> Computing Persistent Homology and Cocycles ONCE via Ripser...
+-> Generating and saving Persistence Diagram plot...
+-> Saved visualization to: tda_persistence_diagram.png
+
+============================================================
+=== INVERSE MAPPING: Analyzing most persistent structures ===
+============================================================
+
+Top 5 Most Persistent H0 Features (Isolated Clusters):
+  1. Birth: 0.000 | Death: 28.501 | Persistence: 28.501
+  2. Birth: 0.000 | Death: 26.593 | Persistence: 26.593
+  3. Birth: 0.000 | Death: 18.775 | Persistence: 18.775
+  4. Birth: 0.000 | Death: 17.406 | Persistence: 17.406
+  5. Birth: 0.000 | Death: 14.804 | Persistence: 14.804
+
+Top 5 Most Persistent H1 Features (Topological Loops):
+  1. Birth: 5.074 | Death: 6.239 | Persistence: 1.165
+  2. Birth: 2.451 | Death: 3.460 | Persistence: 1.009
+  3. Birth: 2.451 | Death: 3.460 | Persistence: 1.008
+  4. Birth: 2.686 | Death: 3.636 | Persistence: 0.950
+  5. Birth: 2.608 | Death: 3.460 | Persistence: 0.852
+
+=== Error Type Distribution in TDA Sample ===
+error_type
+FP    2123
+TN    1069
+TP     595
+FN     213
+Name: count, dtype: int64
+
+============================================================
+=== INVERSE MAPPING: TOPOLOGICAL ERROR ANALYSIS (TOP 3 LOOPS) ===
+============================================================
+
+  [Loop #1] Birth: 5.074 | Death: 6.239 | Persistence: 1.165
+    -> Points involved in this loop: 113
+    -> Error Type breakdown inside this loop:
+       - TN: 73 transactions
+       - FP: 26 transactions
+       - FN: 13 transactions
+       - TP: 1 transactions
+
+  [Loop #2] Birth: 2.451 | Death: 3.460 | Persistence: 1.009
+    -> Points involved in this loop: 22
+    -> Error Type breakdown inside this loop:
+       - TN: 17 transactions
+       - FP: 3 transactions
+       - FN: 2 transactions
+
+  [Loop #3] Birth: 2.451 | Death: 3.460 | Persistence: 1.008
+    -> Points involved in this loop: 12
+    -> Error Type breakdown inside this loop:
+       - TN: 9 transactions
+       - FN: 2 transactions
+       - FP: 1 transactions
+
+============================================================
+=== EXTRACTING H1 CENTROIDS FOR PYSPARK ===
+============================================================
+  -> Centroid #1 calculated using 113 points (Persistence: 1.165)
+  -> Centroid #2 calculated using 22 points (Persistence: 1.009)
+  -> Centroid #3 calculated using 12 points (Persistence: 1.008)
+  -> Centroid #4 calculated using 432 points (Persistence: 0.950)
+  -> Centroid #5 calculated using 11 points (Persistence: 0.852)
+
+-> Exporting centroid and scaler metadata to JSON...
+
+============================================================
+=== UPLOADING ARTIFACTS DIRECTLY TO GCS ===
+============================================================
+Copying file:///tmp/tda_run/tda_centroids.json to gs://fraud-detection-imf/processed/tda_centroids.json
+  Completed files 1/1 | 3.2kiB/3.2kiB                                                                                                                                                                                                          
+-> Uploaded Centroids JSON to: gs://fraud-detection-imf/processed/tda_centroids.json
+
+=== Pipeline completed successfully! ===
