@@ -1,0 +1,21 @@
+[{
+  "amount_deviation_bucket": "1.5x - 3x User Average (Moderate Spike)",
+  "total_transactions": "68886",
+  "fraud_count": "3425",
+  "fraud_rate_percentage": "4.97"
+}, {
+  "amount_deviation_bucket": "\u003e 3x User Average (Extreme Spike)",
+  "total_transactions": "31929",
+  "fraud_count": "1425",
+  "fraud_rate_percentage": "4.46"
+}, {
+  "amount_deviation_bucket": "Normal Range (~1x User Average)",
+  "total_transactions": "145417",
+  "fraud_count": "5535",
+  "fraud_rate_percentage": "3.81"
+}, {
+  "amount_deviation_bucket": "\u003c 0.8x User Average (Below Usual)",
+  "total_transactions": "301290",
+  "fraud_count": "9119",
+  "fraud_rate_percentage": "3.03"
+}]
