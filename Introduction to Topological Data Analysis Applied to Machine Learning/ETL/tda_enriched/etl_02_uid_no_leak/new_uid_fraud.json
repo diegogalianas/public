@@ -1,0 +1,21 @@
+[{
+  "user_activity_bucket": "1 Transaction (Single-use)",
+  "total_transactions": "43018",
+  "fraud_count": "1159",
+  "fraud_rate_percentage": "2.69"
+}, {
+  "user_activity_bucket": "2-5 Transactions",
+  "total_transactions": "74311",
+  "fraud_count": "2025",
+  "fraud_rate_percentage": "2.73"
+}, {
+  "user_activity_bucket": "6-20 Transactions",
+  "total_transactions": "107327",
+  "fraud_count": "3097",
+  "fraud_rate_percentage": "2.89"
+}, {
+  "user_activity_bucket": "\u003e 20 Transactions (High Volume)",
+  "total_transactions": "365884",
+  "fraud_count": "14382",
+  "fraud_rate_percentage": "3.93"
+}]
