@@ -1,0 +1,99 @@
+  $ gcloud ai custom-jobs stream-logs projects/275318019101/locations/europe-west4/customJobs/7205003558268174336
+Job successfully created with ID: projects/275318019101/locations/europe-west4/customJobs/7205003558268174336
+=== Streaming live logs from Vertex AI... ===
+Using endpoint [https://europe-west4-aiplatform.googleapis.com/]
+INFO    2026-11-17 00:54:08 +0000       service Waiting for job to be provisioned.
+INFO    2026-11-17 00:54:08 +0000       service Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+INFO    2026-11-17 00:54:08 +0000       service Vertex AI is setting up this job.
+INFO    2026-11-17 00:54:09 +0000       service Waiting for training program to start.
+INFO    2026-11-17 00:54:10 +0000       service Job is preparing.
+INFO    2026-11-17 00:55:08 +0000       service Job is running.
+DEFAULT 2026-11-17 00:55:16 +0000       workerpool0-0   WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment inste
+ad: https://pip.pypa.io/warnings/venv
+DEFAULT 2026-11-17 00:55:22 +0000       workerpool0-0   WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment inste
+ad: https://pip.pypa.io/warnings/venv
+DEFAULT 2026-11-17 00:55:22 +0000       workerpool0-0   Error in sitecustomize; set PYTHONVERBOSE for traceback:
+DEFAULT 2026-11-17 00:55:22 +0000       workerpool0-0   ModuleNotFoundError: No module named 'pythonjsonlogger'
+DEFAULT 2026-11-17 00:55:26 +0000       workerpool0-0   Error in sitecustomize; set PYTHONVERBOSE for traceback:
+DEFAULT 2026-11-17 00:55:26 +0000       workerpool0-0   ModuleNotFoundError: No module named 'pythonjsonlogger'
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   Copying gs://fraud-detection-imf/processed_tda/train_dataset.parquet/part-00000-f134be08-b898-4394-a8a7-1644a949b530-c000.snappy.parquet...
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   / [0/8 files][    0.0 B/ 69.3 MiB]   0% Done                                    
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   Copying gs://fraud-detection-imf/processed_tda/train_dataset.parquet/part-00001-f134be08-b898-4394-a8a7-1644a949b530-c000.snappy.parquet...
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   / [0/8 files][    0.0 B/ 69.3 MiB]   0% Done                                    
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   Copying gs://fraud-detection-imf/processed_tda/train_dataset.parquet/part-00003-f134be08-b898-4394-a8a7-1644a949b530-c000.snappy.parquet...
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   / [0/8 files][    0.0 B/ 69.3 MiB]   0% Done                                    
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   Copying gs://fraud-detection-imf/processed_tda/train_dataset.parquet/part-00002-f134be08-b898-4394-a8a7-1644a949b530-c000.snappy.parquet...
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   Copying gs://fraud-detection-imf/processed_tda/train_dataset.parquet/part-00004-f134be08-b898-4394-a8a7-1644a949b530-c000.snappy.parquet...
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   / [0/8 files][    0.0 B/ 69.3 MiB]   0% Done                                    
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   / [0/8 files][    0.0 B/ 69.3 MiB]   0% Done                                    
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   Copying gs://fraud-detection-imf/processed_tda/train_dataset.parquet/part-00005-f134be08-b898-4394-a8a7-1644a949b530-c000.snappy.parquet...
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   Copying gs://fraud-detection-imf/processed_tda/train_dataset.parquet/part-00006-f134be08-b898-4394-a8a7-1644a949b530-c000.snappy.parquet...
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   / [0/8 files][    0.0 B/ 69.3 MiB]   0% Done                                    
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   / [0/8 files][    0.0 B/ 69.3 MiB]   0% Done                                    
+DEFAULT 2026-11-17 00:55:31 +0000       workerpool0-0   Copying gs://fraud-detection-imf/processed_tda/train_dataset.parquet/part-00007-f134be08-b898-4394-a8a7-1644a949b530-c000.snappy.parquet...
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   / [0/8 files][    0.0 B/ 69.3 MiB]   0% Done                                    
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   -
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   - [1/8 files][ 29.5 MiB/ 69.3 MiB]  42% Done                                    
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   - [2/8 files][ 42.5 MiB/ 69.3 MiB]  61% Done                                    
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   - [3/8 files][ 42.5 MiB/ 69.3 MiB]  61% Done                                    
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   - [4/8 files][ 65.0 MiB/ 69.3 MiB]  93% Done                                    
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   - [5/8 files][ 65.0 MiB/ 69.3 MiB]  93% Done                                    
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   - [6/8 files][ 65.0 MiB/ 69.3 MiB]  93% Done                                    
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   \
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   \ [7/8 files][ 68.8 MiB/ 69.3 MiB]  99% Done                                    
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   \ [8/8 files][ 69.3 MiB/ 69.3 MiB] 100% Done
+DEFAULT 2026-11-17 00:55:32 +0000       workerpool0-0   Operation completed over 8 objects/69.3 MiB.
+DEFAULT 2026-11-17 00:55:33 +0000       workerpool0-0   Error in sitecustomize; set PYTHONVERBOSE for traceback:
+DEFAULT 2026-11-17 00:55:33 +0000       workerpool0-0   ModuleNotFoundError: No module named 'pythonjsonlogger'
+DEFAULT 2026-11-17 00:55:34 +0000       workerpool0-0   Error in sitecustomize; set PYTHONVERBOSE for traceback:
+DEFAULT 2026-11-17 00:55:34 +0000       workerpool0-0   ModuleNotFoundError: No module named 'pythonjsonlogger'
+DEFAULT 2026-11-17 00:55:35 +0000       workerpool0-0   Copying gs://fraud-detection-imf/models/baseline/xgboost_baseline.json...
+DEFAULT 2026-11-17 00:55:36 +0000       workerpool0-0   / [0 files][    0.0 B/  3.5 MiB]                                                
+DEFAULT 2026-11-17 00:55:36 +0000       workerpool0-0   / [1 files][  3.5 MiB/  3.5 MiB]
+DEFAULT 2026-11-17 00:55:36 +0000       workerpool0-0   Operation completed over 1 objects/3.5 MiB.
+DEFAULT 2026-11-17 00:55:36 +0000       workerpool0-0   Error in sitecustomize; set PYTHONVERBOSE for traceback:
+DEFAULT 2026-11-17 00:55:36 +0000       workerpool0-0   ModuleNotFoundError: No module named 'pythonjsonlogger'
+DEFAULT 2026-11-17 00:55:37 +0000       workerpool0-0   Error in sitecustomize; set PYTHONVERBOSE for traceback:
+DEFAULT 2026-11-17 00:55:37 +0000       workerpool0-0   ModuleNotFoundError: No module named 'pythonjsonlogger'
+DEFAULT 2026-11-17 00:55:39 +0000       workerpool0-0   Copying gs://fraud-detection-imf/modeling/tda_extraction.py...
+DEFAULT 2026-11-17 00:55:39 +0000       workerpool0-0   / [0 files][    0.0 B/  5.1 KiB]                                                
+DEFAULT 2026-11-17 00:55:39 +0000       workerpool0-0   / [1 files][  5.1 KiB/  5.1 KiB]
+DEFAULT 2026-11-17 00:55:39 +0000       workerpool0-0   Operation completed over 1 objects/5.1 KiB.
+DEFAULT 2026-11-17 01:04:17 +0000       workerpool0-0   Error in sitecustomize; set PYTHONVERBOSE for traceback:
+DEFAULT 2026-11-17 01:04:17 +0000       workerpool0-0   ModuleNotFoundError: No module named 'pythonjsonlogger'
+DEFAULT 2026-11-17 01:04:18 +0000       workerpool0-0   Error in sitecustomize; set PYTHONVERBOSE for traceback:
+DEFAULT 2026-11-17 01:04:18 +0000       workerpool0-0   ModuleNotFoundError: No module named 'pythonjsonlogger'
+DEFAULT 2026-11-17 01:04:19 +0000       workerpool0-0   Copying file:///tmp/tda_centroids.json [Content-Type=application/json]...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   / [0 files][    0.0 B/  3.2 KiB]                                                
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   / [1 files][  3.2 KiB/  3.2 KiB]
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   Operation completed over 1 objects/3.2 KiB.
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Starting Python TDA extraction script...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Reading TDA Train dataset from GCS using PyArrow...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Dataset loaded successfully. Shape: (484847, 444)
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Loading XGBoost baseline model for clean error classification...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   [00:55:54] WARNING: ../src/learner.cc:749: Found JSON model saved before XGBoost 1.6, please save the model using current version again. The support for old JSON model will be disconti
+nued in XGBoost 2.3.
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Running inference on Train data...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   2026-11-17T01:04:20.264102738Z stdout F
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   === Prediction Error Breakdown in Train Set ===
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   error_type
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   TN    433042
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   FP     34753
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   TP     14248
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   FN      2804
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   Name: count, dtype: int64
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   2026-11-17T01:04:20.264153143Z stdout F
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Subsampled Point Cloud Shape: (61805, 25)
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Computing Persistent Homology and Cocycles via Ripser on Train Set...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Extracting H1 Centroids from topological loops...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Centroid #1 calculated using 15 points (Persistence: 2.690)
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Centroid #2 calculated using 2 points (Persistence: 1.360)
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Centroid #3 calculated using 13 points (Persistence: 1.261)
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Centroid #4 calculated using 251 points (Persistence: 1.221)
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Centroid #5 calculated using 3 points (Persistence: 1.211)
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Exporting centroid and scaler metadata to JSON...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   -> Uploading centroids JSON to processed_tda bucket...
+DEFAULT 2026-11-17 01:04:20 +0000       workerpool0-0   === TDA Centroid Extraction Job Completed Successfully! ===
+INFO    2026-11-17 01:04:41 +0000       service Tearing down training program.
+INFO    2026-11-17 01:05:25 +0000       service Finished tearing down training program.
+INFO    2026-11-17 01:05:25 +0000       service Job completed successfully.
