@@ -1,0 +1,41 @@
+[{
+  "P_emaildomain_bin": "microsoft",
+  "total_transactions": "59477",
+  "fraud_count": "3170",
+  "fraud_rate_percentage": "5.33"
+}, {
+  "P_emaildomain_bin": "google",
+  "total_transactions": "228851",
+  "fraud_count": "9954",
+  "fraud_rate_percentage": "4.35"
+}, {
+  "P_emaildomain_bin": "missing",
+  "total_transactions": "94456",
+  "fraud_count": "2790",
+  "fraud_rate_percentage": "2.95"
+}, {
+  "P_emaildomain_bin": "apple",
+  "total_transactions": "8225",
+  "fraud_count": "238",
+  "fraud_rate_percentage": "2.89"
+}, {
+  "P_emaildomain_bin": "anonymous",
+  "total_transactions": "36998",
+  "fraud_count": "859",
+  "fraud_rate_percentage": "2.32"
+}, {
+  "P_emaildomain_bin": "aol",
+  "total_transactions": "28604",
+  "fraud_count": "657",
+  "fraud_rate_percentage": "2.3"
+}, {
+  "P_emaildomain_bin": "yahoo",
+  "total_transactions": "105305",
+  "fraud_count": "2370",
+  "fraud_rate_percentage": "2.25"
+}, {
+  "P_emaildomain_bin": "other",
+  "total_transactions": "28624",
+  "fraud_count": "625",
+  "fraud_rate_percentage": "2.18"
+}]
